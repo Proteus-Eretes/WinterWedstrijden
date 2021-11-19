@@ -154,3 +154,14 @@
     </v-footer>
   </v-app>
 </template>
+
+<style scoped>
+.zeshoeken {
+position: relative;
+top: -300px;
+}
+
+.v-main {
+  background-color:#E5EDF3 ;
+}
+</style>
