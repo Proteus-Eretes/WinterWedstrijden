@@ -6,23 +6,23 @@
     <v-app-bar class="flex-grow-0" dark color="#131b42ff" flat />
     <v-navigation-drawer v-model="sideNav" fixed temporary class="drawer">
       <v-list flat>
-        <v-btn to="/" text width="100%" class="drawer--item"> Home </v-btn>
-        <v-btn to="/nieuws" text width="100%" class="drawer--item"> Nieuws </v-btn>
-        <v-btn to="/deelnemers" text width="100%" class="drawer--item"> Deelnemers </v-btn>
-        <v-btn to="/algemeen" text width="100%" class="drawer--item"> Algemeen </v-btn>
-        <v-btn
-          target="_blank"
-          href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks"
-          text
-          width="100%"
-          class="drawer--item"
-        >
-          Uitslagen
-        </v-btn>
-        <v-btn to="/fotos" text width="100%" class="drawer--item"> Foto's </v-btn>
-        <v-btn to="/vanoord" text width="100%" class="drawer--item"> Van Oord </v-btn>
-        <v-btn to="/contact" text width="100%" class="drawer--item"> Contact </v-btn>
-        <v-btn to="/faq" text width="100%" class="drawer--item"> FAQ's </v-btn>
+          <v-btn to="/" text width="100%" class="drawer--item"> Home </v-btn>
+          <v-btn to="/nieuws" text width="100%" class="drawer--item"> Nieuws </v-btn>
+          <v-btn to="/deelnemers" text width="100%" class="drawer--item"> Deelnemers </v-btn>
+          <v-btn to="/algemeen" text width="100%" class="drawer--item"> Algemeen </v-btn>
+          <v-btn
+            target="_blank"
+            href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks"
+            text
+            width="100%"
+            class="drawer--item"
+          >
+            Uitslagen
+          </v-btn>
+          <v-btn to="/fotos" text width="100%" class="drawer--item"> Foto's </v-btn>
+          <v-btn to="/vanoord" text width="100%" class="drawer--item"> Van Oord </v-btn>
+          <v-btn to="/contact" text width="100%" class="drawer--item"> Contact </v-btn>
+          <v-btn to="/faq" text width="100%" class="drawer--item"> FAQ's </v-btn>
       </v-list>
     </v-navigation-drawer>
     <!-- real header-->
@@ -160,8 +160,20 @@
 position: relative;
 top: -300px;
 }
-
 .v-main {
   background-color:#E5EDF3 ;
+}
+@font-face {
+  font-family: "Text";
+  src: url("/Fonts/HelveticaProteusEretes-Roman.otf");
+}
+.v-app-bar {
+  font-family: "Text";
+}
+.v-main {
+  font-family: "Text";
+}
+.v-footer {
+  font-family: "Text";
 }
 </style>

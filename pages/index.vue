@@ -6,8 +6,6 @@
       height="25vw"
       class="header"
     >
-    <br>
-    <br>
     </v-sheet>
     <v-img
       src="zhlogo1.svg"
@@ -15,7 +13,7 @@
       class="zeshoeken"
       />
       <v-row>
-        <v-col md="2">
+        <v-col md="2"> <!-- minder ronde hoeken op de cards -->
           <v-card
             flat
             light
@@ -25,18 +23,18 @@
               Snel naar:
             </v-card-title>
             <v-btn depressed class="snel_naar_knop" color="#95B6CE">
-              eerste link
+              Blokindelingen
             </v-btn>
             <br>
             <v-btn depressed class="snel_naar_knop" color="#95B6CE">
-              tweede link
+              Uitgeschreven velden
             </v-btn>
             <v-btn depressed class="snel_naar_knop"color="#95B6CE">
-              derde link
+              Foto's
             </v-btn>
             <v-btn depressed class="snel_naar_knop" color="#95B6CE">
-            vierde link
-          </v-btn>
+              Veelgestelde vragen
+            </v-btn>
           </v-card>
         </v-col>
         <v-col md="8">
@@ -71,9 +69,16 @@
             <v-card-title>
               Nieuws!!
             </v-card-title>
-            <v-card-text>
-              welkom hier komt nieuws, feest
-            </v-card-text>
+            <v-row>
+              <v-col md="6">
+                <v-card-text>
+                  welkom hier komt nieuws, feest
+                </v-card-text>
+              </v-col>
+              <v-col md="6">
+                <img src="sneeuwvlokje.png"> <!-- rechts laten uitlijnen maar lukt nog niet -->
+              </v-col>
+            </v-row>
           </v-card>
           <br>
           <v-card
@@ -126,9 +131,9 @@ position: relative;
 top: -300px;
 }
 .snel_naar_knop {
-  width: 85%;
-  margin: 4px 7.5%;
-
+  width: 87.5%;
+  margin: 4px 6.25%;
 }
+
 </style>
 
