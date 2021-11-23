@@ -48,7 +48,7 @@ export default {
   top: 4rem;
   width: 100%;
   margin-bottom: 1rem;
-  transition: top 0.1s ease-in-out;
+  transition: top 0s ease-in-out;
 }
 
 .bannerBackground {
@@ -56,7 +56,7 @@ export default {
   left: 0;
   top: 0;
   width: 100%;
-  height: 21vw;
+  height: calc(21vw + 1rem);
   background: #131b42;
 }
 </style>
