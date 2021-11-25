@@ -10,7 +10,7 @@
     <v-row>
       <v-col md="2">
         <!-- minder ronde hoeken op de cards -->
-        <v-card flat light style="position: sticky">
+        <v-card flat light class="item shortcut">
           <v-card-title style="justify-content: space-around">
             Snel naar:
           </v-card-title>
@@ -85,10 +85,30 @@
         <br />
       </v-col>
       <v-col md="2">
-        <v-card flat light>
+        <v-card flat light class="item sponsoren">
           <v-card-title>
-            Hieeeeer komennn de sponsoren
+            Sponsoren
           </v-card-title>
+          <img
+            class="sponsorfoto"
+            src="vanoord.png"
+          />
+          <img
+            class="sponsorfoto"
+            src="tu-delft.png"
+          />
+          <img
+            class="sponsorfoto"
+            src="jupiler.jpg"
+          />
+          <img
+            class="sponsorfoto"
+            src="roeigoed.jpeg"
+          />
+          <img
+            class="sponsorfoto"
+            src="iris.png"
+          />
         </v-card>
       </v-col>
     </v-row>
@@ -103,6 +123,19 @@
 }
 
 .snel_naar_knop {
+  width: 87.5%;
+  margin: 4px 6.25%;
+}
+.item {
+  position: sticky;
+}
+.shortcut{
+  top: 8rem;
+}
+.sponsoren{
+  top: 8rem;
+}
+.sponsorfoto{
   width: 87.5%;
   margin: 4px 6.25%;
 }
