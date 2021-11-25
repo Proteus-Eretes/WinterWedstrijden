@@ -59,7 +59,8 @@
               </v-card-text>
             </v-col>
             <v-col md="6">
-              <img src="sneeuwvlokje.png" />
+              <img
+                src="sneeuwvlokje.png" />
               <!-- rechts laten uitlijnen maar lukt nog niet -->
             </v-col>
           </v-row>
@@ -87,8 +88,12 @@
       <v-col md="2">
         <v-card flat light class="item sponsoren">
           <v-card-title>
-            Sponsoren
+            Powered by
           </v-card-title>
+          <img
+            class="sponsorfoto"
+            src="pe.jpg"
+          />
           <img
             class="sponsorfoto"
             src="vanoord.png"
@@ -138,5 +143,8 @@
 .sponsorfoto{
   width: 87.5%;
   margin: 4px 6.25%;
+}
+.nieuwsfoto{
+  right: 12px
 }
 </style>
