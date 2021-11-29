@@ -39,26 +39,47 @@
       <v-col md="8">
         <v-card flat light>
           <v-card-title>
-            Van Oord Marine Ineguity
+            Contact
           </v-card-title>
           <v-card-text>
-            Van Oord is een wereldwijd actieve en toonaangevende aannemer van bagger-, waterbouwkundige en offshore
-            projecten (olie, gas en wind). Wij zijn een innovatieve partner voor onze opdrachtgevers en dragen al 150
-            jaar bij aan de infrastructuur voor de wereld van morgen.
+            D.S.R. Proteus-Eretes t.a.v. WinterWedstrijden
+            <br>
+            Rotterdamseweg 362a
+            <br>
+            2628AT Delft
+            <br>
+            Nederland
             <br>
             <br>
-            De groeiende wereldbevolking heeft behoefte aan meer ruimte en de vraag naar energie stijgt voortdurend.
-            Toenemende wereldhandel vraagt om meer en betere havenfaciliteiten, terwijl klimaatverandering kustgebieden
-            bedreigt. Van Oord biedt innovatieve oplossingen voor deze wereldwijde maritieme uitdagingen; nu en in de
-            toekomst.
+            Telefoon wedstrijdleiding: 06-46441764 of 06-39396108
+            <br>
+            Telefoon bestuur Proteus Eretes: 015-2623720
+            <br>
+            Mail: info.winterwedstrijden@proteus-eretes.nl
+            <br>
+            Wedstrijdleiding: wedstrijdleiding.winterwedstrijden@proteus-eretes.nl
             <br>
             <br>
-            Van Oord is een in Nederland gevestigde, zelfstandige familieonderneming, die zich kenmerkt door zichtbaar
-            leiderschap, langetermijnvisie en solide financiering. Aanzienlijke investeringen in mensen en materieel
-            worden met grote zorg gedaan om de continuïteit van onze onderneming te waarborgen. Onze mensen zijn
-            betrokken, ondernemende professionals met een passie voor water en technologie. Zij kennen het belang van
-            samenwerken voor het bereiken van het best mogelijke resultaat. Door open en integer te zijn, bouwen zij aan
-            wederzijds vertrouwen en respect.
+            Website van WinterWedstrijden: www.winterwedstrijden.nl
+            Website van D.S.R. Proteus-Eretes: www.proteus-eretes.nl
+          </v-card-text>
+        </v-card>
+        <br>
+        <v-card flat light>
+          <v-card-title>
+            Rekeningnummer, t.a.v. WinterWedstrijden
+          </v-card-title>
+          <v-card-text>
+            RABOBANK
+            <br>
+            <br>
+            1034 05 240
+            <br>
+            D.S.R. Proteus-Eretes
+            <br>
+            IBAN – NL44 RABO 0103 4052 40
+            <br>
+            BIC – RABONL2U
           </v-card-text>
         </v-card>
       </v-col>

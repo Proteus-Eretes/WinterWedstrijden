@@ -10,7 +10,12 @@
         <v-btn to="/nieuws" text width="100%" class="drawer--item">
           Nieuws
         </v-btn>
-        <v-btn to="/deelnemers" text width="100%" class="drawer--item">
+        <v-btn
+          to="/deelnemers"
+          text
+          width="100%"
+          class="drawer--item"
+        >
           Deelnemers
         </v-btn>
         <v-btn to="/algemeen" text width="100%" class="drawer--item">
@@ -166,7 +171,7 @@
           </div>
           <div class="col-md-4" align="right">
             <h3>Georganiseerd door leden van</h3>
-            <img src="PE.jpg" contain height="50px" />
+            <img src="PEw.png" contain height="50px" />
           </div>
         </v-row>
       </v-container>

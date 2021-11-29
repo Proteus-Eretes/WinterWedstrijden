@@ -9,22 +9,27 @@
     <!-- CONTENT -->
     <v-row>
       <v-col md="2">
-        <!-- minder ronde hoeken op de cards -->
         <v-card flat light class="item shortcut">
           <v-card-title style="justify-content: space-around">
             Snel naar:
           </v-card-title>
-          <v-btn depressed class="snel_naar_knop" color="#95B6CE">
+          <v-btn to="/blokindelingen" depressed class="snel_naar_knop" color="#95B6CE">
             Blokindelingen
           </v-btn>
           <br />
-          <v-btn depressed class="snel_naar_knop" color="#95B6CE">
+          <v-btn to="velden" depressed class="snel_naar_knop" color="#95B6CE">
             Uitgeschreven velden
           </v-btn>
-          <v-btn depressed class="snel_naar_knop" color="#95B6CE">
+          <v-btn
+          target="_blank"
+          href="https://www.proteus-eretes.nl/fotos"
+          depressed
+          class="snel_naar_knop"
+          color="#95B6CE"
+          >
             Foto's
           </v-btn>
-          <v-btn depressed class="snel_naar_knop" color="#95B6CE">
+          <v-btn to="/faq" depressed class="snel_naar_knop" color="#95B6CE">
             Veelgestelde vragen
           </v-btn>
         </v-card>
@@ -92,7 +97,7 @@
           </v-card-title>
           <img
             class="sponsorfoto"
-            src="pe.jpg"
+            src="pe.png"
           />
           <img
             class="sponsorfoto"
