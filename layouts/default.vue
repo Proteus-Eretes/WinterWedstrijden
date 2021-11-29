@@ -7,7 +7,7 @@
     <v-navigation-drawer fixed temporary class="drawer">
       <v-list flat>
         <v-btn to="/" text width="100%" class="drawer--item"> Home </v-btn>
-        <v-btn to="/nieuws" text width="100%" class="drawer--item">
+        <v-btn to="/" text width="100%" class="drawer--item">
           Nieuws
         </v-btn>
         <v-btn
@@ -65,7 +65,7 @@
       <v-spacer />
       <v-spacer />
       <v-toolbar-items class="hidden-md-and-down menu-item">
-        <v-btn to="/nieuws" text dark> Nieuws </v-btn>
+        <v-btn to="/" text dark> Nieuws </v-btn>
         <v-btn to="/deelnemers" text dark> Deelnemers </v-btn>
         <v-btn to="/algemeen" text dark> Algemeen </v-btn>
         <v-btn
