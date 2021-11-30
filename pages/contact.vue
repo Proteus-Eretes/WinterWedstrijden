@@ -1,12 +1,14 @@
 <template>
   <div>
     <!-- HEADER -->
+
     <v-sheet color="#131B42" class="header"> </v-sheet>
 
     <!-- BANNER -->
     <Banner />
 
     <!-- CONTENT -->
+    <!-- <v-img src="zh_Tekengebied 1.svg" class="header"/> -->
     <v-row>
       <v-col md="2">
         <v-card flat light class="item shortcut">
@@ -21,11 +23,11 @@
             Uitgeschreven velden
           </v-btn>
           <v-btn
-          target="_blank"
-          href="https://www.proteus-eretes.nl/fotos"
-          depressed
-          class="snel_naar_knop"
-          color="#95B6CE"
+            target="_blank"
+            href="https://www.proteus-eretes.nl/fotos"
+            depressed
+            class="snel_naar_knop"
+            color="#95B6CE"
           >
             Foto's
           </v-btn>
@@ -37,50 +39,49 @@
       <v-col md="8">
         <v-card flat light>
           <v-card-title>
-            Nieuws!!
+            Contact
           </v-card-title>
           <v-card-text>
-            welkom hier komt nieuws, feest
+            D.S.R. Proteus-Eretes t.a.v. WinterWedstrijden
+            <br>
+            Rotterdamseweg 362a
+            <br>
+            2628AT Delft
+            <br>
+            Nederland
+            <br>
+            <br>
+            Telefoon wedstrijdleiding: 06-46441764 of 06-39396108
+            <br>
+            Telefoon bestuur Proteus Eretes: 015-2623720
+            <br>
+            Mail: info.winterwedstrijden@proteus-eretes.nl
+            <br>
+            Wedstrijdleiding: wedstrijdleiding.winterwedstrijden@proteus-eretes.nl
+            <br>
+            <br>
+            Website van WinterWedstrijden: www.winterwedstrijden.nl
+            Website van D.S.R. Proteus-Eretes: www.proteus-eretes.nl
           </v-card-text>
         </v-card>
-        <br />
+        <br>
         <v-card flat light>
           <v-card-title>
-            Nieuws!!
+            Rekeningnummer, t.a.v. WinterWedstrijden
           </v-card-title>
           <v-card-text>
-            welkom hier komt nieuws, feest
+            RABOBANK
+            <br>
+            <br>
+            1034 05 240
+            <br>
+            D.S.R. Proteus-Eretes
+            <br>
+            IBAN – NL44 RABO 0103 4052 40
+            <br>
+            BIC – RABONL2U
           </v-card-text>
         </v-card>
-        <br />
-        <v-card flat light>
-          <v-card-title>
-            Nieuws!!
-          </v-card-title>
-          <v-row>
-            <v-col md="6">
-              <v-card-text>
-                welkom hier komt nieuws, feest
-              </v-card-text>
-            </v-col>
-            <v-col md="6">
-              <img
-                src="sneeuwvlokje.png" />
-              <!-- rechts laten uitlijnen maar lukt nog niet -->
-            </v-col>
-          </v-row>
-        </v-card>
-        <br />
-        <v-card flat light>
-          <v-card-title>
-            Nieuws!!
-          </v-card-title>
-          <v-card-text>
-            welkom hier komt nieuws, feest
-          </v-card-text>
-        </v-card>
-        <br />
-        <br />
       </v-col>
       <v-col md="2">
         <v-card flat light class="item sponsoren">
@@ -119,9 +120,8 @@
 
 <style scoped>
 .header {
-  position: relative;
   top: -12px;
-  left: -12px;
+  position: relative;
 }
 
 .snel_naar_knop {
