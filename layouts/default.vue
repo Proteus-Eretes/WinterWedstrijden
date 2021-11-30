@@ -10,12 +10,7 @@
         <v-btn to="/" text width="100%" class="drawer--item">
           Nieuws
         </v-btn>
-        <v-btn
-          to="/deelnemers"
-          text
-          width="100%"
-          class="drawer--item"
-        >
+        <v-btn to="/deelnemers" text width="100%" class="drawer--item">
           Deelnemers
         </v-btn>
         <v-btn to="/algemeen" text width="100%" class="drawer--item">
@@ -91,7 +86,23 @@
     </v-app-bar>
     <v-main>
       <v-container fluid>
-        <nuxt />
+        <!-- BANNER -->
+        <Banner />
+
+        <!-- Content -->
+        <v-row>
+          <v-col md="2">
+            <SnelleLinks />
+          </v-col>
+          <v-col md="8">
+            <nuxt />
+            <!-- Nuxt.js content -->
+          </v-col>
+
+          <v-col md="2">
+            <PoweredBy />
+          </v-col>
+        </v-row>
       </v-container>
     </v-main>
     <v-footer dark class="footer-content" color="#131b42">
