@@ -11,14 +11,14 @@
           Nieuws
         </v-btn>
         <v-btn
-          to="/uitgeschrevenvelden"
+          to="/deelnemers"
           text
           width="100%"
           class="drawer--item"
         >
           Deelnemers
         </v-btn>
-        <v-btn to="/geschiedenis" text width="100%" class="drawer--item">
+        <v-btn to="/algemeen" text width="100%" class="drawer--item">
           Algemeen
         </v-btn>
         <v-btn
@@ -66,8 +66,8 @@
       <v-spacer />
       <v-toolbar-items class="hidden-md-and-down menu-item">
         <v-btn to="/" text dark> Nieuws </v-btn>
-        <v-btn to="/uitgeschrevenvelden" text dark> Deelnemers </v-btn>
-        <v-btn to="/geschiedenis" text dark> Algemeen </v-btn>
+        <v-btn to="/deelnemers" text dark> Deelnemers </v-btn>
+        <v-btn to="/algemeen" text dark> Algemeen </v-btn>
         <v-btn
           target="blank"
           href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks"
