@@ -26,8 +26,15 @@ export default {
     }
   },
   async created () {
-    const { data: { data } } = (await this.$axios.get('/v1/news/items?filter[category]=7'))
-    this.nieuwsItems = data
+    this.$store.commit('SnelleLinks/setLinks', [
+      { to: '/blokindelingen', name: 'Blokindelingen' },
+      { to: '/velden', name: 'Uitgeschreven velden'  },
+      { href: 'https://www.proteus-eretes.nl/fotos', name: `Foto's` },
+      { to: '/faq', name: 'Veelgestelde vragen' },
+    ]);
+
+    const { data: { data } } = (await this.$axios.get('/v1/news/items?filter[category]=7'));
+    this.nieuwsItems = data;
   }
 }
 </script>

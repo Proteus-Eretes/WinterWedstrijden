@@ -3,33 +3,25 @@
     <v-card-title style="justify-content: space-around">
       Snel naar:
     </v-card-title>
-    <v-btn
-      to="/blokindelingen"
-      depressed
-      class="snel_naar_knop"
-      color="#95B6CE"
-    >
-      Blokindelingen
-    </v-btn>
     <br />
-    <v-btn to="velden" depressed class="snel_naar_knop" color="#95B6CE">
-      Uitgeschreven velden
-    </v-btn>
-    <v-btn
-      target="_blank"
-      href="https://www.proteus-eretes.nl/fotos"
-      depressed
-      class="snel_naar_knop"
-      color="#95B6CE"
-    >
-      Foto's
-    </v-btn>
-    <v-btn to="/faq" depressed class="snel_naar_knop" color="#95B6CE">
-      Veelgestelde vragen
-    </v-btn>
+    <template v-for="(link, index) in links" >
+      <v-btn :key="index" v-if="link.to" :to="link.to" depressed class="snel_naar_knop" color="#95B6CE">{{ link.name }}</v-btn>
+      <v-btn :key="index" v-else-if="link.href" :href="link.href" target="_blank" depressed class="snel_naar_knop" color="#95B6CE">{{ link.name }}</v-btn>
+    </template>
   </v-card>
 </template>
 
+<script>
+export default {
+  computed: {
+    links () {
+      return this.$store.state.SnelleLinks.links;
+    }
+  },
+}
+
+</script>
+d
 <style scoped>
 .shortcut {
   top: 8rem;

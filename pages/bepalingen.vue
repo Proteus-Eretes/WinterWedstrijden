@@ -458,6 +458,19 @@
   </div>
 </template>
 
+<script>
+
+export default {
+  created() {
+    this.$store.commit('SnelleLinks/setLinks', [
+      { to: '/wwhatsappservice', name: 'WWhatsapp-service' },
+      { to: '/uitgeschrevenvelden', name: 'Uitgeschreven velden'},
+    ]);
+  }
+}
+
+</script>
+
 <style scoped>
 .header {
   position: relative;
