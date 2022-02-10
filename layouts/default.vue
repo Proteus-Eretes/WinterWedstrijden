@@ -8,15 +8,15 @@
 
         <!-- Content -->
         <v-row>
-          <v-col md="2">
+          <v-col cols="12" md="4" lg="2">
             <SnelleLinks />
           </v-col>
-          <v-col md="8">
+          <v-col cols="12" md="8">
             <nuxt />
             <!-- Nuxt.js content -->
           </v-col>
 
-          <v-col md="2">
+          <v-col cols="12" md="12" lg="2">
             <PoweredBy />
           </v-col>
         </v-row>
