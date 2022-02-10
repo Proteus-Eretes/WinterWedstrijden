@@ -90,8 +90,23 @@
       </v-toolbar-items>
     </v-app-bar>
     <v-main>
-      <v-container fluid>
-        <nuxt />
+        <!-- BANNER -->
+        <Banner />
+
+        <!-- Content -->
+        <v-row>
+          <v-col cols="12" md="4" lg="2">
+            <SnelleLinks />
+          </v-col>
+          <v-col cols="12" md="8">
+            <nuxt />
+            <!-- Nuxt.js content -->
+          </v-col>
+
+          <v-col cols="12" md="12" lg="2">
+            <PoweredBy />
+          </v-col>
+        </v-row>
       </v-container>
     </v-main>
     <v-footer dark class="footer-content" color="#131b42">
