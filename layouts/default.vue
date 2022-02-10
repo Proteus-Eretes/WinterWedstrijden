@@ -107,7 +107,6 @@
             <PoweredBy />
           </v-col>
         </v-row>
-      </v-container>
     </v-main>
     <v-footer dark class="footer-content" color="#131b42">
       <v-container>
