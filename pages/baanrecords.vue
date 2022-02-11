@@ -28,6 +28,17 @@
   </div>
 </template>
 
+<script>
+export default {
+  created() {
+    this.$store.commit('SnelleLinks/setLinks', [
+      { to: '/geschiedenis', name: 'Geschiedenis' },
+      { to: '/tijdwaarneming', name: 'Tijdwaarneming'},
+    ]);
+  }
+}
+</script>
+
 <style scoped>
 .header {
   position: relative;

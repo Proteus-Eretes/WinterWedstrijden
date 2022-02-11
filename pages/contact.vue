@@ -47,3 +47,14 @@
     </v-card>
   </div>
 </template>
+
+
+<script>
+export default {
+  created() {
+    this.$store.commit('SnelleLinks/setLinks', [
+      { to: '/route', name: 'Route' },
+    ]);
+  }
+}
+</script>
