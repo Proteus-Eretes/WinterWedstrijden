@@ -81,6 +81,19 @@
   </div>
 </template>
 
+<script>
+export default {
+created () {
+    this.$store.commit('SnelleLinks/setLinks', [
+      { to: '/blokindelingen', name: 'Blokindelingen' },
+      { to: '/uitgeschrevenvelden', name: 'Uitgeschreven velden'  },
+      { href: 'https://www.proteus-eretes.nl/fotos', name: `Foto's` },
+      { to: '/faq', name: 'Veelgestelde vragen' },
+    ]);
+  }
+}
+</script>
+
 <style scoped>
 .header {
   top: -12px;
