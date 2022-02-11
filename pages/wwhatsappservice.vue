@@ -8,33 +8,7 @@
 
     <!-- CONTENT -->
     <v-row>
-      <v-col md="2">
-        <v-card flat light class="item shortcut">
-          <v-card-title style="justify-content: space-around">
-            Snel naar:
-          </v-card-title>
-          <v-btn to="/blokindelingen" depressed class="snel_naar_knop" color="#95B6CE">
-            Blokindelingen
-          </v-btn>
-          <br />
-          <v-btn to="velden" depressed class="snel_naar_knop" color="#95B6CE">
-            Uitgeschreven velden
-          </v-btn>
-          <v-btn
-            target="_blank"
-            href="https://www.proteus-eretes.nl/fotos"
-            depressed
-            class="snel_naar_knop"
-            color="#95B6CE"
-          >
-            Foto's
-          </v-btn>
-          <v-btn to="/faq" depressed class="snel_naar_knop" color="#95B6CE">
-            Veelgestelde vragen
-          </v-btn>
-        </v-card>
-      </v-col>
-      <v-col md="8">
+      <v-col>
         <v-card flat light>
           <v-card-title>
             WWhatsApp-service
@@ -56,40 +30,20 @@
           </v-card-text>
         </v-card>
       </v-col>
-      <v-col md="2">
-        <v-card flat light class="item sponsoren">
-          <v-card-title>
-            Powered by
-          </v-card-title>
-          <img
-            class="sponsorfoto"
-            src="pe.png"
-          />
-          <img
-            class="sponsorfoto"
-            src="vanoord.png"
-          />
-          <img
-            class="sponsorfoto"
-            src="tu-delft.png"
-          />
-          <img
-            class="sponsorfoto"
-            src="jupiler.jpg"
-          />
-          <img
-            class="sponsorfoto"
-            src="roeigoed.jpeg"
-          />
-          <img
-            class="sponsorfoto"
-            src="iris.png"
-          />
-        </v-card>
-      </v-col>
     </v-row>
   </div>
 </template>
+
+<script>
+export default {
+  created() {
+    this.$store.commit('SnelleLinks/setLinks', [
+      { to: '/uitgeschrevenvelden', name: 'Uitgeschreven velden' },
+      { to: '/bepalingen', name: 'Bepalingen'},
+    ]);
+  }
+}
+</script>
 
 <style scoped>
 .header {
