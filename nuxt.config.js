@@ -2,7 +2,7 @@ import colors from "vuetify/es5/util/colors";
 
 export default {
   server: {
-    host: "0" // default: localhost
+    host: "localhost" // default: localhost
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -24,10 +24,7 @@ export default {
   css: [],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [
-    '~plugins/vimeo-player',
-    '~plugins/dompurify',
-  ],
+  plugins: ["~plugins/vimeo-player", "~plugins/dompurify"],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
@@ -39,13 +36,11 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [
-    '@nuxtjs/axios',
-  ],
+  modules: ["@nuxtjs/axios"],
 
   axios: {
     credentials: true,
-    baseUrl: process.env.VUE_APP_ROOT_API
+    baseUrl: "https://api.proteus-eretes.nl"
   },
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify

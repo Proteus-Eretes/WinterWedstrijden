@@ -14,7 +14,7 @@
         Nederland
         <br />
         <br />
-        Telefoon wedstrijdleiding: 06-46441764 of 06-39396108
+        Telefoon wedstrijdleiding: +31 6 41542416 en +31 6 43783302
         <br />
         Telefoon bestuur Proteus Eretes: 015-2623720
         <br />
@@ -40,21 +40,10 @@
         <br />
         D.S.R. Proteus-Eretes
         <br />
-        IBAN – NL44 RABO 0103 4052 40
+        IBAN - NL44 RABO 0103 4052 40
         <br />
-        BIC – RABONL2U
+        BIC - RABONL2U
       </v-card-text>
     </v-card>
   </div>
 </template>
-
-
-<script>
-export default {
-  created() {
-    this.$store.commit('SnelleLinks/setLinks', [
-      { to: '/route', name: 'Route' },
-    ]);
-  }
-}
-</script>

@@ -1,184 +1,165 @@
 <template>
-  <div>
-    <!-- HEADER -->
-    <v-sheet color="#131B42" class="header"> </v-sheet>
-
-    <!-- BANNER -->
-    <Banner />
-
-    <!-- CONTENT -->
-    <v-row>
-      <v-col>
-        <v-card flat light>
-          <v-card-title>
-            Uitgeschreven velden
-          </v-card-title>
-          <v-card-text>
-            De uitgeschreven velden van de van Oord WinterWedstrijden zijn in onderstaande tabel te zien
-          </v-card-text>
-          <v-data-table
-            :headers="headers"
-            :items="desserts"
-            :items-per-page="20"
-            hide-default-footer
-            class="elevation-1 veldentabel table-striped">
-          </v-data-table>
-          <br>
-        </v-card>
-      </v-col>
-    </v-row>
-  </div>
+  <v-card flat light>
+    <v-card-title>
+      Uitgeschreven velden
+    </v-card-title>
+    <v-card-text>
+      De uitgeschreven velden van de van Oord WinterWedstrijden zijn in
+      onderstaande tabel te zien
+    </v-card-text>
+    <v-data-table
+      :headers="headers"
+      :items="desserts"
+      :items-per-page="20"
+      hide-default-footer
+      class="elevation-1 veldentabel table-striped"
+    >
+    </v-data-table>
+    <br />
+  </v-card>
 </template>
 
 <script>
-
-
 export default {
-  data () {
+  data() {
     return {
       headers: [
         {
-          text: 'Categorie',
-          align: 'start',
+          text: "Categorie",
+          align: "start",
           sortable: false,
-          value: 'name',
+          value: "name"
         },
-        { text: 'Heren', value: 'heren' },
-        { text: 'Heren Licht', value: 'herenl' },
-        { text: 'Dames', value: 'dames' },
-        { text: 'Lichte Dames', value: 'damesl' }
+        { text: "Heren", value: "heren" },
+        { text: "Heren Licht", value: "herenl" },
+        { text: "Dames", value: "dames" },
+        { text: "Lichte Dames", value: "damesl" }
       ],
       desserts: [
         {
-          name: 'Elite skiff',
-          heren: 'HE1x',
-          herenl: 'LHE1x',
-          dames: 'DE1x',
-          damesl: 'LDE1x',
+          name: "Elite skiff",
+          heren: "HE1x",
+          herenl: "LHE1x",
+          dames: "DE1x",
+          damesl: "LDE1x"
         },
         {
-          name: 'Elite dubbeltwee',
-          heren: 'HE2x',
-          herenl: 'LHE2x',
-          dames: 'DE1x',
-          damesl: 'LDE1x',
+          name: "Elite dubbeltwee",
+          heren: "HE2x",
+          herenl: "LHE2x",
+          dames: "DE1x",
+          damesl: "LDE1x"
         },
         {
-          name: 'Elite tweezonder',
-          heren: 'HE2-',
-          herenl: 'LHE2-',
-          dames: 'DE2-',
+          name: "Elite tweezonder",
+          heren: "HE2-",
+          herenl: "LHE2-",
+          dames: "DE2-"
         },
         {
-          name: 'Gevorderde skiff',
-          heren: 'HG1x',
-          herenl: 'LHG1x',
-          dames: 'DG1x',
-          damesl: 'LDG1x',
+          name: "Gevorderde skiff",
+          heren: "HG1x",
+          herenl: "LHG1x",
+          dames: "DG1x",
+          damesl: "LDG1x"
         },
         {
-          name: 'Gevorderde dubbeltwee',
-          heren: 'HG2x',
-          herenl: 'LHG2x',
-          dames: 'DG2x',
-          damesl: 'LDG2x',
+          name: "Gevorderde dubbeltwee",
+          heren: "HG2x",
+          herenl: "LHG2x",
+          dames: "DG2x",
+          damesl: "LDG2x"
         },
         {
-          name: 'Gevorderde tweezonder',
-          heren: 'HG2-',
-          herenl: 'LHG2-',
-          dames: 'DG2-',
+          name: "Gevorderde tweezonder",
+          heren: "HG2-",
+          herenl: "LHG2-",
+          dames: "DG2-"
         },
         {
-          name: 'Gevorderde grote boot1',
-          heren: 'HG',
-          herenl: 'LHG',
-          dames: 'DG',
-          damesl: 'LG',
+          name: "Gevorderde grote boot1",
+          heren: "HG",
+          herenl: "LHG",
+          dames: "DG",
+          damesl: "LG"
         },
         {
-          name: 'Gevorderde grote boot1',
-          heren: 'HG',
-          herenl: 'LHG',
-          dames: 'DG',
-          damesl: 'LG',
+          name: "Gevorderde grote boot1",
+          heren: "HG",
+          herenl: "LHG",
+          dames: "DG",
+          damesl: "LG"
         },
         {
-          name: 'Beginneling',
-          heren: 'HB',
-          herenl: 'LHB',
-          dames: 'DB',
-          damesl: 'LDB',
+          name: "Beginneling",
+          heren: "HB",
+          herenl: "LHB",
+          dames: "DB",
+          damesl: "LDB"
         },
         {
-          name: 'Beginneling2',
-          heren: 'HB',
-          herenl: 'LHB',
-          dames: 'DB',
-          damesl: 'LDB',
+          name: "Beginneling2",
+          heren: "HB",
+          herenl: "LHB",
+          dames: "DB",
+          damesl: "LDB"
         },
         {
-          name: 'Beginneling3',
-          heren: 'HB',
-          herenl: 'LHB',
-          dames: 'DB',
-          damesl: 'LHB',
+          name: "Beginneling3",
+          heren: "HB",
+          herenl: "LHB",
+          dames: "DB",
+          damesl: "LHB"
         },
         {
-          name: 'Beginneling4',
-          heren: 'HB',
-          herenl: 'LHB',
-          dames: 'DB',
-          damesl: 'LDB',
+          name: "Beginneling4",
+          heren: "HB",
+          herenl: "LHB",
+          dames: "DB",
+          damesl: "LDB"
         },
         {
-          name: 'Eerstejaars achten',
-          heren: 'HEj8+',
-          herenl: 'LHEj8+',
-          dames: 'DEj8+',
-          damesl: '',
+          name: "Eerstejaars achten",
+          heren: "HEj8+",
+          herenl: "LHEj8+",
+          dames: "DEj8+",
+          damesl: ""
         },
         {
-          name: 'Eerstejaars vieren',
-          heren: 'HEj4+',
-          herenl: 'LHEj4+',
-          dames: 'DEj4+',
-          damesl: 'LDEj4*',
+          name: "Eerstejaars vieren",
+          heren: "HEj4+",
+          herenl: "LHEj4+",
+          dames: "DEj4+",
+          damesl: "LDEj4*"
         },
         {
-          name: 'Veteranen',
-          heren: 'HEj8+',
-          herenl: 'LHEj8+',
-          dames: 'DEj8+',
-          damesl: '',
+          name: "Veteranen",
+          heren: "HEj8+",
+          herenl: "LHEj8+",
+          dames: "DEj8+",
+          damesl: ""
         },
         {
-          name: 'Veteranen2',
-          heren: 'HEj8+',
-          herenl: 'LHEj8+',
-          dames: 'DEj8+',
-          damesl: '',
+          name: "Veteranen2",
+          heren: "HEj8+",
+          herenl: "LHEj8+",
+          dames: "DEj8+",
+          damesl: ""
         },
         {
-          name: 'Junioren ',
-          heren: 'HEj8+',
-          dames: 'DEj8+',
+          name: "Junioren ",
+          heren: "HEj8+",
+          dames: "DEj8+"
         },
         {
-          name: 'Junioren',
-          heren: 'HEj8+',
-          dames: 'DEj8+',
-        },
-      ],
-    }
-  },
-  async created() {
-    this.$store.commit('SnelleLinks/setLinks', [
-      { to: '/wwhatsappservice', name: 'WWhatsapp-service' },
-      { to: '/bepalingen', name: 'Bepalingen'},
-    ]);
+          name: "Junioren",
+          heren: "HEj8+",
+          dames: "DEj8+"
+        }
+      ]
+    };
   }
-}
+};
 </script>
 
 <style scoped>
@@ -195,20 +176,20 @@ export default {
 .item {
   position: sticky;
 }
-.shortcut{
+.shortcut {
   top: 8rem;
 }
-.sponsoren{
+.sponsoren {
   top: 8rem;
 }
-.sponsorfoto{
+.sponsorfoto {
   width: 87.5%;
   margin: 4px 6.25%;
 }
-.nieuwsfoto{
-  right: 12px
+.nieuwsfoto {
+  right: 12px;
 }
-.veldentabel{
+.veldentabel {
   width: 87.5%;
   margin: 4px 6.25%;
 }

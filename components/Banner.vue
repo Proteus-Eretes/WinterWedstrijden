@@ -37,7 +37,7 @@ export default {
 
 <style scoped>
 .bannerWrapper {
-  height: 35.5vw;
+  height: 25vw;
   margin-bottom: 1.5rem;
 }
 

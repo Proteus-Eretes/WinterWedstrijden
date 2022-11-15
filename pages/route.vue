@@ -65,14 +65,3 @@
     </v-card>
   </div>
 </template>
-
-
-<script>
-export default {
-  created() {
-    this.$store.commit('SnelleLinks/setLinks', [
-      { to: '/contact', name: 'Contactgegevens' },
-    ]);
-  }
-}
-</script>

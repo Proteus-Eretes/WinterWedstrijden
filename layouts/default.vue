@@ -1,8 +1,5 @@
 <template>
   <v-app>
-    <!--Dummy header that takes up space for the real header,
-      since the real header is fixed, and fix headers don't
-      take up any space. -->
     <v-app-bar class="flex-grow-0" dark color="#131b42ff" flat />
     <v-navigation-drawer fixed temporary class="drawer">
       <v-list flat>
@@ -10,12 +7,7 @@
         <v-btn to="/" text width="100%" class="drawer--item">
           Nieuws
         </v-btn>
-        <v-btn
-          to="/uitgeschrevenvelden"
-          text
-          width="100%"
-          class="drawer--item"
-        >
+        <v-btn to="/uitgeschrevenvelden" text width="100%" class="drawer--item">
           Deelnemers
         </v-btn>
         <v-btn to="/geschiedenis" text width="100%" class="drawer--item">
@@ -39,10 +31,12 @@
         <v-btn to="/contact" text width="100%" class="drawer--item">
           Contact
         </v-btn>
-        <v-btn to="/faq" text width="100%" class="drawer--item"> FAQ's </v-btn>
+        <v-btn to="/faq" text width="100%" class="drawer--item">FAQ's</v-btn>
+        <v-btn to="/international" text width="100%" class="drawer--item">
+          International
+        </v-btn>
       </v-list>
     </v-navigation-drawer>
-    <!-- real header-->
     <v-app-bar class="flex-grow-0" fixed dark color="#131b42ff" flat>
       <v-app-bar-nav-icon class="hidden-lg-and-up" />
       <v-toolbar-title align="left" z-index="-10">
@@ -87,26 +81,19 @@
         <v-btn to="/vanoord" text dark> Van Oord </v-btn>
         <v-btn to="/contact" text dark> Contact </v-btn>
         <v-btn to="/faq" text dark> FAQ's </v-btn>
+        <v-btn to="/international" text dark>International</v-btn>
       </v-toolbar-items>
     </v-app-bar>
     <v-main>
-        <!-- BANNER -->
-        <Banner />
-
-        <!-- Content -->
-        <v-row>
-          <v-col cols="12" md="4" lg="2">
-            <SnelleLinks />
-          </v-col>
-          <v-col cols="12" md="8">
-            <nuxt />
-            <!-- Nuxt.js content -->
-          </v-col>
-
-          <v-col cols="12" md="12" lg="2">
-            <PoweredBy />
-          </v-col>
-        </v-row>
+      <!-- <Banner /> TODO -->
+      <v-row>
+        <v-col cols="12" md="12" lg="10">
+          <nuxt />
+        </v-col>
+        <v-col cols="12" md="12" lg="2">
+          <PoweredBy />
+        </v-col>
+      </v-row>
     </v-main>
     <v-footer dark class="footer-content" color="#131b42">
       <v-container>
@@ -177,7 +164,7 @@
                 </a>
                 <a href="" target="_blank">
                   <v-col class="d-flex social icon">
-                    <img src="/app.png" contain height="40px" />
+                    <img src="/log.png" contain height="40px" />
                   </v-col>
                 </a>
               </v-row>

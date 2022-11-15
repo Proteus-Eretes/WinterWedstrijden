@@ -1,21 +1,5 @@
 <template>
   <div>
-    <!-- CONTENT -->
-    <!-- <v-row>
-      <v-col md="2">
-        <v-card flat light class="item shortcut">
-          <v-card-title style="justify-content: space-around">
-            Verder naar:
-          </v-card-title>
-          <v-btn to="/wwhatsappservice" depressed class="snel_naar_knop" color="#95B6CE">
-            WWhatsapp-service
-          </v-btn>
-          <br />
-          <v-btn to="uitgeschrevenvelden" depressed class="snel_naar_knop" color="#95B6CE">
-            Uitgeschreven velden
-          </v-btn>
-        </v-card>
-      </v-col> -->
     <v-card flat light>
       <v-card-title> Bepalingen Van Oord WinterWedstrijden 2022 </v-card-title>
       <v-card-text>
@@ -423,33 +407,55 @@
           <li><b>Weersomstandigheden</b></li>
           <ul>
             <li>
-              Indien de weersomstandigheden het niet toelaten om het volledige wedstrijdprogramma af te werken behoudt de wedstrijdorganisatie zich het recht voor om het wedstrijdprogramma naar eigen inzicht aan te passen en hierbij bepaalde uitgeschreven velden boven anderen te prioriteren.
+              Indien de weersomstandigheden het niet toelaten om het volledige
+              wedstrijdprogramma af te werken behoudt de wedstrijdorganisatie
+              zich het recht voor om het wedstrijdprogramma naar eigen inzicht
+              aan te passen en hierbij bepaalde uitgeschreven velden boven
+              anderen te prioriteren.
             </li>
           </ul>
           <br />
           <li><b>Opvolgen van instructies en aanwijzingen</b></li>
           <ul>
-            <li>Aanwijzingen en instructies van juryleden en andere wedstrijdfunctionarissen dienen onmiddellijk en stipt te worden opgevolgd.
+            <li>
+              Aanwijzingen en instructies van juryleden en andere
+              wedstrijdfunctionarissen dienen onmiddellijk en stipt te worden
+              opgevolgd.
             </li>
-            <li>De controlecommissie zal bij het niet nakomen hiervan (of niet snel genoeg) besluiten omtrent de toe te passen disciplinaire maatregelen, zoals omschreven in sectie 13.
+            <li>
+              De controlecommissie zal bij het niet nakomen hiervan (of niet
+              snel genoeg) besluiten omtrent de toe te passen disciplinaire
+              maatregelen, zoals omschreven in sectie 13.
             </li>
           </ul>
           <br />
           <li><b>Disciplinaire maatregelen</b></li>
           <ul>
             <li>
-              Bij overtreding van de reglementen, zoals bedoeld in artikel 75 van het Reglement voor Roeiwedstrijden, kan een tijdstraf worden opgelegd.
+              Bij overtreding van de reglementen, zoals bedoeld in artikel 75
+              van het Reglement voor Roeiwedstrijden, kan een tijdstraf worden
+              opgelegd.
               <ul>
                 <li>De tijdstraf kan oplopen tot 15 seconden.</li>
-                <li>Bij uitzetten na de vlottijd welke per ploeg is gepubliceerd, kan een straftijd van 5 seconden worden opgelegd.</li>
+                <li>
+                  Bij uitzetten na de vlottijd welke per ploeg is gepubliceerd,
+                  kan een straftijd van 5 seconden worden opgelegd.
+                </li>
               </ul>
             </li>
-            <li>Bij hevige vergrijpen kan uitsluiting volgen volgens artikel 75 van het RvR.</li>
+            <li>
+              Bij hevige vergrijpen kan uitsluiting volgen volgens artikel 75
+              van het RvR.
+            </li>
           </ul>
           <br />
           <li><b>Afwijking van bepalingen</b></li>
           <ul>
-            <li>Van de hierboven omschreven bepalingen moet worden afgeweken voor zover de eisen van goed zeemanschap en sportiviteit dit onder bijzondere omstandigheden vereisen.</li>
+            <li>
+              Van de hierboven omschreven bepalingen moet worden afgeweken voor
+              zover de eisen van goed zeemanschap en sportiviteit dit onder
+              bijzondere omstandigheden vereisen.
+            </li>
             <li>In niet voorziene gevallen beslist het Hoofd van de Jury</li>
           </ul>
         </ol>
@@ -457,19 +463,6 @@
     </v-card>
   </div>
 </template>
-
-<script>
-
-export default {
-  created() {
-    this.$store.commit('SnelleLinks/setLinks', [
-      { to: '/wwhatsappservice', name: 'WWhatsapp-service' },
-      { to: '/uitgeschrevenvelden', name: 'Uitgeschreven velden'},
-    ]);
-  }
-}
-
-</script>
 
 <style scoped>
 .header {

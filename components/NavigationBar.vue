@@ -1,8 +1,5 @@
 <template>
   <div>
-    <!--Dummy header that takes up space for the real header,
-      since the real header is fixed, and fix headers don't
-      take up any space. -->
     <v-app-bar class="flex-grow-0" dark color="#131b42ff" flat />
     <v-navigation-drawer fixed temporary class="drawer">
       <v-list flat>
@@ -35,6 +32,9 @@
           Contact
         </v-btn>
         <v-btn to="/faq" text width="100%" class="drawer--item"> FAQ's </v-btn>
+        <v-btn to="/international" text width="100%" class="drawer--item">
+          International
+        </v-btn>
       </v-list>
     </v-navigation-drawer>
     <!-- real header-->
@@ -94,6 +94,7 @@
         <v-btn to="/vanoord" text dark> Van Oord </v-btn>
         <v-btn to="/contact" text dark> Contact </v-btn>
         <v-btn to="/faq" text dark> FAQ's </v-btn>
+        <v-btn to="/international" text dark>International</v-btn>
       </v-toolbar-items>
     </v-app-bar>
   </div>

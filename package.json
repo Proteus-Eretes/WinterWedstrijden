@@ -3,20 +3,20 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt --hostname 0.0.0.0",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
+    "dev": "NODE_OPTIONS=--openssl-legacy-provider nuxt --hostname 0.0.0.0",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider nuxt build",
+    "start": "NODE_OPTIONS=--openssl-legacy-provider nuxt start",
+    "generate": "NODE_OPTIONS=--openssl-legacy-provider nuxt generate"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
-    "core-js": "^3.15.1",
-    "nuxt": "^2.15.7",
+    "core-js": "^3.26.1",
+    "nuxt": "^2.15.8",
     "vue-dompurify-html": "^2.5.0",
     "vue-vimeo-player": "^0.2.2",
-    "vuetify": "^2.5.5"
+    "vuetify": "^2.6.12"
   },
   "devDependencies": {
-    "@nuxtjs/vuetify": "^1.12.1"
+    "@nuxtjs/vuetify": "^1.12.3"
   }
 }
