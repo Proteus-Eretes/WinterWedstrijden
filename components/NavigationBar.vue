@@ -1,8 +1,7 @@
 <template>
   <div>
-    <v-navigation-drawer fixed temporary class="drawer">
+    <v-navigation-drawer v-model="drawerOpen" clipped absolute>
       <v-list flat>
-        <v-btn to="/" text width="100%" class="drawer--item"> Home </v-btn>
         <v-btn to="/" text width="100%" class="drawer--item">
           Nieuws
         </v-btn>
@@ -10,7 +9,7 @@
           Deelnemers
         </v-btn>
         <v-btn to="/geschiedenis" text width="100%" class="drawer--item">
-          Algemeen
+          Geschiedenis
         </v-btn>
         <v-btn
           target="_blank"
@@ -37,7 +36,10 @@
       </v-list>
     </v-navigation-drawer>
     <v-app-bar dark color="#131b42ff" flat>
-      <v-app-bar-nav-icon class="hidden-lg-and-up" />
+      <v-app-bar-nav-icon
+        @click="drawerOpen = !drawerOpen"
+        class="hidden-lg-and-up"
+      />
       <v-toolbar-title z-index="-10">
         <router-link
           v-slot="{ navigate }"
@@ -97,6 +99,16 @@
     </v-app-bar>
   </div>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      drawerOpen: false
+    };
+  }
+};
+</script>
 
 <style scoped>
 .logo {
