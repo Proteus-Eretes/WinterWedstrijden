@@ -29,7 +29,7 @@ export default {
     };
   },
   async asyncData({ $axios }) {
-    const res = await $axios.get("/v1/news/items?filter[category]=7");
+    const res = await $axios.get("/v1/news/items?filter[category]=30");
     return { nieuwsItems: res.data.paginate.data };
   }
 };
