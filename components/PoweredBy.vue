@@ -4,9 +4,9 @@
       Powered by
     </v-card-title>
     <div class="d-flex flex-wrap flex-sm-nowrap flex-lg-wrap">
-      <!-- <img src="pe.png" /> TODO -->
+      <img src="pe.png" />
       <img src="vanoord.png" />
-      <!-- <img src="tu-delft.png" /> TODO -->
+      <img src="tu-delft.png" />
     </div>
     <div class="d-flex flex-wrap flex-sm-nowrap flex-lg-wrap">
       <img src="jupiler.jpg" />
