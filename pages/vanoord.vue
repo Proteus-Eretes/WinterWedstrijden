@@ -30,6 +30,16 @@
       water en technologie. Zij kennen het belang van samenwerken voor het
       bereiken van het best mogelijke resultaat. Door open en integer te zijn,
       bouwen zij aan wederzijds vertrouwen en respect.
+      <br />
+      <br />
+      Bekijk de website van Van Oord
+      <a
+        href="https://www.vanoord.com/"
+        title="Van Oord"
+        rel="noopener"
+        target="_blank"
+        >hier</a
+      >.
     </v-card-text>
   </v-card>
 </template>
