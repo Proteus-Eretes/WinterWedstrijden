@@ -4,6 +4,7 @@ export default {
   server: {
     host: "localhost" // default: localhost
   },
+  telemetry: false,
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: "%s - WinterWedstrijden",
