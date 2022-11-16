@@ -1,6 +1,5 @@
 <template>
   <div>
-    <v-app-bar class="flex-grow-0" dark color="#131b42ff" flat />
     <v-navigation-drawer fixed temporary class="drawer">
       <v-list flat>
         <v-btn to="/" text width="100%" class="drawer--item"> Home </v-btn>
@@ -37,10 +36,9 @@
         </v-btn>
       </v-list>
     </v-navigation-drawer>
-    <!-- real header-->
-    <v-app-bar class="flex-grow-0" fixed dark color="#131b42ff" flat>
+    <v-app-bar dark color="#131b42ff" flat>
       <v-app-bar-nav-icon class="hidden-lg-and-up" />
-      <v-toolbar-title align="left" z-index="-10">
+      <v-toolbar-title z-index="-10">
         <router-link
           v-slot="{ navigate }"
           to="/"
@@ -57,7 +55,7 @@
               src="sneeuwvlokje.png"
               class="shrink"
               transition="scale-transition"
-              max-width="50"
+              max-width="40"
             />
             <div class="logoTitle">
               {{
@@ -72,9 +70,9 @@
       <v-spacer />
       <v-spacer />
       <v-toolbar-items class="hidden-md-and-down menu-item">
-        <v-btn to="/" text dark> Nieuws </v-btn>
-        <v-btn to="/uitgeschrevenvelden" text dark> Deelnemers </v-btn>
-        <v-btn to="/geschiedenis" text dark> Algemeen </v-btn>
+        <v-btn to="/" text dark>Nieuws</v-btn>
+        <v-btn to="/uitgeschrevenvelden" text dark>Deelnemers</v-btn>
+        <v-btn to="/geschiedenis" text dark>Algemeen</v-btn>
         <v-btn
           target="blank"
           href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks"
@@ -91,9 +89,9 @@
         >
           Foto's
         </v-btn>
-        <v-btn to="/vanoord" text dark> Van Oord </v-btn>
-        <v-btn to="/contact" text dark> Contact </v-btn>
-        <v-btn to="/faq" text dark> FAQ's </v-btn>
+        <v-btn to="/vanoord" text dark>Van Oord</v-btn>
+        <v-btn to="/contact" text dark>Contact</v-btn>
+        <v-btn to="/faq" text dark>FAQ's</v-btn>
         <v-btn to="/international" text dark>International</v-btn>
       </v-toolbar-items>
     </v-app-bar>

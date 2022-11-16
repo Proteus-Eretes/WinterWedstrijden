@@ -4,14 +4,14 @@
       Powered by
     </v-card-title>
     <div class="d-flex flex-wrap flex-sm-nowrap flex-lg-wrap">
-      <!-- <img class="sponsorfoto" src="pe.png" /> TODO -->
-      <img class="sponsorfoto" src="vanoord.png" />
-      <!-- <img class="sponsorfoto" src="tu-delft.png" /> TODO -->
+      <!-- <img src="pe.png" /> TODO -->
+      <img src="vanoord.png" />
+      <!-- <img src="tu-delft.png" /> TODO -->
     </div>
     <div class="d-flex flex-wrap flex-sm-nowrap flex-lg-wrap">
-      <img class="sponsorfoto" src="jupiler.jpg" />
-      <img class="sponsorfoto" src="roeigoed.jpeg" />
-      <img class="sponsorfoto" src="iris.png" />
+      <img src="jupiler.jpg" />
+      <img src="roeigoed.jpeg" />
+      <img src="iris.png" />
     </div>
   </v-card>
 </template>
@@ -19,10 +19,10 @@
 <style>
 .sponsoren {
   position: sticky;
-  top: 8rem;
+  top: 12px;
 }
 
-.sponsorfoto {
+img {
   width: 87.5%;
   margin: 4px 6.25%;
 }
