@@ -11,6 +11,9 @@
         <v-btn to="/geschiedenis" text width="100%" class="drawer--item">
           Geschiedenis
         </v-btn>
+        <v-btn to="/blokken" text width="100%" class="drawer--item">
+          Blokken
+        </v-btn>
         <v-btn
           target="_blank"
           href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks"
@@ -74,7 +77,8 @@
       <v-toolbar-items class="hidden-md-and-down menu-item">
         <v-btn to="/" text dark>Nieuws</v-btn>
         <v-btn to="/uitgeschrevenvelden" text dark>Deelnemers</v-btn>
-        <v-btn to="/geschiedenis" text dark>Algemeen</v-btn>
+        <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn>
+        <v-btn to="/blokken" text dark>Blokken</v-btn>
         <v-btn
           target="blank"
           href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks"
