@@ -45,7 +45,7 @@
           </td>
         </tr>
         <tr>
-          <td>Blok 3</td>
+          <td>Blok 3 5k</td>
           <td>16:00 - 18:00</td>
           <td>
             HE 8+, LHE 8+, HEj 8+, HEj 4+, DE 4+, DG 4+
@@ -93,7 +93,7 @@
           <td>J18 4*, J16 4*, J18 2x, J16 2x, M18 1x, M16 2x</td>
         </tr>
         <tr>
-          <td>Blok 6</td>
+          <td>Blok 6 5k</td>
           <td>16:00 - 18:00</td>
           <td>
             DE 8+, DB 8+, HV 8+ DV 8+, HE 4+, HG 4+, HB 4+, LHG 4+, HV 2x, DV
