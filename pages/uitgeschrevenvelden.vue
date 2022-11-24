@@ -10,7 +10,7 @@
     <v-data-table
       :headers="headers"
       :items="desserts"
-      :items-per-page="20"
+      :items-per-page="500"
       hide-default-footer
       class="elevation-1 veldentabel table-striped"
     >
@@ -37,124 +37,172 @@ export default {
       ],
       desserts: [
         {
+          name: "Eerstejaars acht",
+          heren: "HEj 8+",
+          herenl: "LHEj 8+",
+          dames: "DEj 8+",
+          damesl: ""
+        },
+        {
+          name: "Eerstejaars vier",
+          heren: "HEj 4+",
+          herenl: "LHEj 4*",
+          dames: "DEj 4+",
+          damesl: "LDEj 4*"
+        },
+        {
           name: "Elite skiff",
-          heren: "HE1x",
-          herenl: "LHE1x",
-          dames: "DE1x",
-          damesl: "LDE1x"
+          heren: "HE 1x",
+          herenl: "LHE 1x",
+          dames: "DE 1x",
+          damesl: "LDE 1x"
         },
         {
-          name: "Elite dubbeltwee",
-          heren: "HE2x",
-          herenl: "LHE2x",
-          dames: "DE1x",
-          damesl: "LDE1x"
-        },
-        {
-          name: "Elite tweezonder",
-          heren: "HE2-",
-          herenl: "LHE2-",
-          dames: "DE2-"
+          name: "SB skiff",
+          heren: "HSB 1x",
+          herenl: "LHSB 1x",
+          dames: "DSB 1x",
+          damesl: "LDSB 1x"
         },
         {
           name: "Gevorderde skiff",
-          heren: "HG1x",
-          herenl: "LHG1x",
-          dames: "DG1x",
-          damesl: "LDG1x"
+          heren: "HG 1x",
+          herenl: "LHG 1x",
+          dames: "DG 1x",
+          damesl: "LDG 1x"
         },
         {
-          name: "Gevorderde dubbeltwee",
-          heren: "HG2x",
-          herenl: "LHG2x",
-          dames: "DG2x",
-          damesl: "LDG2x"
+          name: "Beginneling skiff",
+          heren: "HB 1x",
+          herenl: "LHB 1x",
+          dames: "DB 1x",
+          damesl: "LDB 1x"
+        },
+        {
+          name: "Elite tweezonder",
+          heren: "HE 2-",
+          herenl: "",
+          dames: "DE 2-",
+          damesl: ""
         },
         {
           name: "Gevorderde tweezonder",
-          heren: "HG2-",
-          herenl: "LHG2-",
-          dames: "DG2-"
-        },
-        {
-          name: "Gevorderde grote boot1",
-          heren: "HG",
-          herenl: "LHG",
-          dames: "DG",
-          damesl: "LG"
-        },
-        {
-          name: "Gevorderde grote boot1",
-          heren: "HG",
-          herenl: "LHG",
-          dames: "DG",
-          damesl: "LG"
-        },
-        {
-          name: "Beginneling",
-          heren: "HB",
-          herenl: "LHB",
-          dames: "DB",
-          damesl: "LDB"
-        },
-        {
-          name: "Beginneling2",
-          heren: "HB",
-          herenl: "LHB",
-          dames: "DB",
-          damesl: "LDB"
-        },
-        {
-          name: "Beginneling3",
-          heren: "HB",
-          herenl: "LHB",
-          dames: "DB",
-          damesl: "LHB"
-        },
-        {
-          name: "Beginneling4",
-          heren: "HB",
-          herenl: "LHB",
-          dames: "DB",
-          damesl: "LDB"
-        },
-        {
-          name: "Eerstejaars achten",
-          heren: "HEj8+",
-          herenl: "LHEj8+",
-          dames: "DEj8+",
+          heren: "HG 2-",
+          herenl: "LHG 2-",
+          dames: "DG 2-",
           damesl: ""
         },
         {
-          name: "Eerstejaars vieren",
-          heren: "HEj4+",
-          herenl: "LHEj4+",
-          dames: "DEj4+",
-          damesl: "LDEj4*"
+          name: "Elite dubbeltwee",
+          heren: "HE 2x",
+          herenl: "LHE 2x",
+          dames: "DE 2x",
+          damesl: "LDE 2x"
         },
         {
-          name: "Veteranen",
-          heren: "HEj8+",
-          herenl: "LHEj8+",
-          dames: "DEj8+",
+          name: "Gevorderde dubbeltwee",
+          heren: "HG 2x",
+          herenl: "LHG 2x",
+          dames: "DG 2x",
+          damesl: "LDG 2x"
+        },
+        {
+          name: "Beginneling dubbeltwee",
+          heren: "HB 2x",
+          herenl: "LHB 2x",
+          dames: "DB 2x",
+          damesl: "LDB 2x"
+        },
+        {
+          name: "Elite vier",
+          heren: "HE 4+",
+          herenl: "",
+          dames: "DE 4+",
           damesl: ""
         },
         {
-          name: "Veteranen2",
-          heren: "HEj8+",
-          herenl: "LHEj8+",
-          dames: "DEj8+",
+          name: "Gevorderde vier",
+          heren: "HG 4+",
+          herenl: "LHG 4+",
+          dames: "DG 4+",
           damesl: ""
         },
         {
-          name: "Junioren ",
-          heren: "HEj8+",
-          dames: "DEj8+"
+          name: "Beginneling vier",
+          heren: "HB 4+",
+          herenl: "LHB 4*",
+          dames: "DB 4+",
+          damesl: "LDB 4*"
         },
         {
-          name: "Junioren",
-          heren: "HEj8+",
-          dames: "DEj8+"
+          name: "Elite acht",
+          heren: "HE 8+",
+          herenl: "LHE 8+",
+          dames: "DE 8+",
+          damesl: ""
+        },
+        {
+          name: "Beginneling acht",
+          heren: "HB 8+",
+          herenl: "LHB 8+",
+          dames: "DB 8+",
+          damesl: ""
+        },
+        {
+          name: "Junioren skiff",
+          heren: "J18 1x, J16 1x",
+          herenl: "",
+          dames: "M18 1x, M16 1x",
+          damesl: ""
+        },
+        {
+          name: "Junioren dubbeltwee",
+          heren: "J18 2x, J16 2x",
+          herenl: "",
+          dames: "M18 2x, M18 2x",
+          damesl: ""
+        },
+        {
+          name: "Junioren vier",
+          heren: "J18 4*, J16 4*",
+          herenl: "",
+          dames: "M18 4*, M16 4*",
+          damesl: ""
+        },
+        {
+          name: "Veteranen skiff",
+          heren: "HV 1x",
+          herenl: "",
+          dames: "DV 1x",
+          damesl: ""
+        },
+        {
+          name: "Veteranen dubbeltwee",
+          heren: "HV 2x",
+          herenl: "",
+          dames: "DV 2x",
+          damesl: ""
+        },
+        {
+          name: "Veteranen vier",
+          heren: "HV 4*",
+          herenl: "",
+          dames: "DV 4*",
+          damesl: ""
+        },
+        {
+          name: "Veteranen acht",
+          heren: "HV 8+",
+          herenl: "",
+          dames: "DV 8+",
+          damesl: ""
+        },
+        {
+          name: "MixBedr acht",
+          heren: "MixBedr 8+",
+          herenl: "",
+          dames: "",
+          damesl: ""
         }
       ]
     };
