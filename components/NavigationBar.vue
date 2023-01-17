@@ -8,6 +8,7 @@
         <v-btn to="/uitgeschrevenvelden" text width="100%" class="drawer--item">
           Deelnemers
         </v-btn>
+        <v-btn to="/bepalingen" text width="100%" class="drawer--item"> Bepalingen </v-btn>
         <v-btn to="/geschiedenis" text width="100%" class="drawer--item">
           Geschiedenis
         </v-btn>
@@ -32,7 +33,6 @@
         <v-btn to="/contact" text width="100%" class="drawer--item">
           Contact
         </v-btn>
-        <v-btn to="/faq" text width="100%" class="drawer--item"> FAQ's </v-btn>
         <v-btn to="/international" text width="100%" class="drawer--item">
           International
         </v-btn>
@@ -77,6 +77,7 @@
       <v-toolbar-items class="hidden-md-and-down menu-item">
         <v-btn to="/" text dark>Nieuws</v-btn>
         <v-btn to="/uitgeschrevenvelden" text dark>Deelnemers</v-btn>
+        <v-btn to="/bepalingen" text dark>Bepalingen</v-btn>
         <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn>
         <v-btn to="/blokken" text dark>Blokken</v-btn>
         <v-btn
@@ -97,7 +98,6 @@
         </v-btn>
         <v-btn to="/vanoord" text dark>Van Oord</v-btn>
         <v-btn to="/contact" text dark>Contact</v-btn>
-        <v-btn to="/faq" text dark>FAQ's</v-btn>
         <v-btn to="/international" text dark>International</v-btn>
       </v-toolbar-items>
     </v-app-bar>

@@ -1,11 +1,13 @@
 <template>
   <v-card flat light>
+    <v-img src="boot2.jpg" max-height="300px"></v-img>
     <v-card-title>
       Uitgeschreven velden
     </v-card-title>
     <v-card-text>
       De uitgeschreven velden van de van Oord WinterWedstrijden zijn in
-      onderstaande tabel te zien
+      onderstaande tabel te zien.
+
     </v-card-text>
     <v-data-table
       :headers="headers"
@@ -46,7 +48,7 @@ export default {
         {
           name: "Eerstejaars vier",
           heren: "HEj 4+",
-          herenl: "LHEj 4*",
+          herenl: "LHEj 4+",
           dames: "DEj 4+",
           damesl: "LDEj 4*"
         },
@@ -130,7 +132,7 @@ export default {
         {
           name: "Beginneling vier",
           heren: "HB 4+",
-          herenl: "LHB 4*",
+          herenl: "LHB 4+",
           dames: "DB 4+",
           damesl: "LDB 4*"
         },

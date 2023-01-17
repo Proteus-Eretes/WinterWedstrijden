@@ -16,16 +16,16 @@
           Wedstrijdleiding:
           <a
             style="text-decoration: none; color:inherit;"
-            href="tel:+316-41542416"
+            href="tel:+316-43783302"
           >
-            +31 6 415 424 16
+            +31 6 437 833 02
           </a>
           of
           <a
             style="text-decoration: none; color:inherit;"
-            href="tel:+316-43783302"
+            href="tel:+316-41542416"
           >
-            +31 6 437 833 02
+            +31 6 415 424 16
           </a>
           <br />
           Bestuur Proteus-Eretes:

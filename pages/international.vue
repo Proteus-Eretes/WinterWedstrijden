@@ -12,7 +12,7 @@
         Rotterdam and Delft, The Netherlands. This is the first regatta of the
         national rowing season and we would be very happy to receive
         participating teams from all over the world. Entries for international
-        crews will be open from the 9th of January until the 30th of January
+        crews will be open from the 9th of January until the 13th February
         2023.
       </p>
       <p>
@@ -35,12 +35,6 @@
         <li>Contact telephone number</li>
         <li>Small description of blade, shirt and trousers</li>
       </ul>
-      <h2>Pasta dinner</h2>
-      <p>
-        On Friday we organise a free pasta dinner for foreign crews at the
-        boathouse of Proteus-Eretes (Rotterdamseweg 362a, Delft). Make sure you
-        do not miss it!
-      </p>
       <h2>Accommodation</h2>
       <p>
         We do not have special deals with hostels or hotels, but if you would
@@ -206,8 +200,8 @@
           Rules of Racing, Article 7, sub3. (only in Dutch)
         </li>
         <li>
-          Coxswain weighing will take place at rowingclub Proteus-Eretes
-          (Rotterdamseweg 362, Delft). Like the rowers, also the coxswains
+          Coxswain weighing will take place at "Lijm en Cultuur"
+          (Rotterdamseweg 272, Delft). Like the rowers, also the coxswains
           weighing will take place between 2 and 1 hours before the start of
           their own devision.
         </li>

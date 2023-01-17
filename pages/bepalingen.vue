@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-card flat light>
-      <v-card-title> Bepalingen Van Oord WinterWedstrijden 2022 </v-card-title>
+      <v-card-title> Bepalingen 48ste Van Oord WinterWedstrijden 2023 </v-card-title>
       <v-card-text>
         <b>Inschrijvingsbepalingen</b>
         <ol>
@@ -10,26 +10,26 @@
             bedrijfsachten.
           </li>
           <li>
-            Wedstrijdleiding: Ashraf Morra en Chiel van Baardwijk, tel: +31 15
+            Wedstrijdleiding: Ashraf Morra en Koen Baggus, tel: +31 15
             2623720. <br />E-mail:
             wedstrijdleiding.winterwedstrijden@proteus-eretes.nl <br />Hoofd van
             de jury: Mathijs Louter
           </li>
           <li>
-            Inschrijvingen: tot maandag 7 februari 2022, 20:00 uur via het KNRB
+            Inschrijvingen: tot maandag 13 februari 2023, 20:00 uur via het KNRB
             inschrijfprogramma.
           </li>
           <li>
-            Wijzigingen: tot vrijdag 11 februari 2022, 20:00 via het KNRB
+            Wijzigingen: tot vrijdag 17 februari 2023, 20:00 via het KNRB
             inschrijfprogramma.
           </li>
           <li>
-            Inschrijfgelden: <br />Senior: skiff €35,50; twee €51,00; vier
-            €67,50; acht €95,00. <br />Junior: skiff €28,50; twee €46,00; vier
-            €65,00. <br />Bedrijfsacht €161,50.
+            Inschrijfgelden: <br />Senior: skiff €36,00; twee €62,00; vier
+            €78,00; acht €120,00. <br />Junior: skiff €25,00; twee €51,00; vier
+            €64,00. <br />Bedrijfsacht €180,00.
           </li>
           <li>
-            Het inschrijfgeld dient donderdag 10 februari 2022 voor 17:00 uur op
+            Het inschrijfgeld dient donderdag 16 februari 2023 voor 17:00 uur op
             bankrekening te staan, met nummer NL44 RABO 0103 4052 40 t.n.v.
             D.S.R. Proteus-Eretes inz. WinterWedstrijden te Delft o.v.v.
             verenigingsnaam. Mocht hieraan niet zijn voldaan, dan moet het
@@ -37,15 +37,13 @@
             eerste ploeg van het weekend, per pinpas worden voldaan.
           </li>
           <li>
-            Loting: woensdag 9 februari 2022, 20:00 uur, D.S.R. Proteus-Eretes,
+            Loting: woensdag 15 februari 2023, 20:00 uur, D.S.R. Proteus-Eretes,
             Rotterdamseweg 362a Delft, telefoon: +31 15 2623720.
           </li>
           <li>
-            Op zaterdag wordt er gestart in drie blokken: om 10:00, 13:00 en
-            16:00 uur. Op zondag wordt er gestart in drie blokken:10:00, 13:00
-            en 16:00 uur. De bedrijfsachten en junioren starten zaterdag vooraan
-            blok 3 in blok 33 om 15:45 uur. Op zondag starten de junioren
-            vooraan blok 6 in blok 63 om 15:45 uur.
+            Op zaterdag wordt er gestart in vier blokken: om 10:00, 13:00,
+            16:00 uur (junioren en bedrijfsachten) en 16:30 uur. Op zondag wordt er gestart in vier blokken: 10:00, 13:00,
+            16:00 uur (junioren) en 16:30 uur.
           </li>
           <li>
             Wedstrijdnummers met minder dan 3 inschrijvingen worden niet
@@ -66,8 +64,8 @@
     </v-card>
     <br />
     <v-card flat light>
+      <v-card-title> Reglementen 48ste Van Oord WinterWedstrijden 2023 </v-card-title>
       <v-card-text>
-        <br />
         <ol>
           <li>
             <b>Algemeen</b>
@@ -86,10 +84,6 @@
               <li>
                 Deelnemende ploegen wordt verzocht goed kennis te nemen van de
                 laatste aanwijzingen op de website: www.winterwedstrijden.nl.
-              </li>
-              <li>
-                Het overtreden van de corona maatregelen opgesteld door het RIVM
-                of de organisatie zelf zal leiden tot uitsluiting.
               </li>
             </ul>
           </li>
@@ -117,6 +111,11 @@
                     wedstrijdnummers. De ploegen dienen de aanwijzingen van de
                     voorstarter en de andere wedstrijdfunctionarissen in het
                     startgebied stipt op te volgen.
+                  </li>
+                  <li>
+                    De jury kan bij het niet opvolgen van aanwijzingen
+                    disciplinaire maatregelen toepassen, zoals omschreven
+                    in sectie 13.
                   </li>
                 </ul>
               </li>
@@ -186,12 +185,13 @@
             <li>
               Iedere ploeg is verantwoordelijk voor zijn eigen herkenbaarheid.
               Naast het verenigingsspecifieke tenue en bladen worden daarvoor
-              drie rugnummers (borg €10,-) en een boegnummer (borg €10,-)
-              verstrekt. De totale borg bedraagt dus €20,-. De rug- en
-              boegnummers zijn te verkrijgen bij de inschrijfbalie 2 tot 1 uur
-              voor aanvang van elk blok. Alle rug- en boegnummers dienen voor
-              18:00 uur op de gestarte dag ingeleverd te worden. Bij teruggave
-              ná dit tijdstip vervalt het recht op teruggave van de borgsom.
+              drie rugnummers en een boegnummer verstrekt.
+              De rug- en boegnummers zijn te verkrijgen bij de inschrijfbalie 2
+              tot 1 uur voor aanvang van elk blok. Alle rug- en boegnummers dienen
+              voor 18:00 uur op de gestarte dag ingeleverd te worden. Voor het niet
+              of te laat inleveren van de rugnummers en of boegnummers wordt maximaal
+              €20,- (rugnummers €10,- en boegnummer €10,-) in rekening gebracht bij
+              de desbetreffende vereninging.
             </li>
             <li>
               De rugnummers moeten duidelijk zichtbaar op de rug van de
@@ -210,7 +210,7 @@
               aanwezig op de vlotten.
             </li>
             <li>
-              Starten met een verkeerde of missende wedstrijdnummers kan
+              Starten met verkeerde wedstrijdnummers kan
               uitsluiting tot gevolg hebben.
             </li>
           </ul>
@@ -257,7 +257,7 @@
             <li>
               Een protest, kenbaar gemaakt door het onmiddellijk ná het passeren
               van de finish opsteken van een hand door één van de leden van de
-              ploeg. Het protest moet uiterlijk binnen 30 minuten na de laatste
+              ploeg. Het protest moet uiterlijk binnen 60 minuten na de laatste
               finish van het betreffende blok schriftelijk bij de
               wedstrijdleiding worden bevestigd door de
               verenigingsvertegenwoordiger. De vertegenwoordigers van de bij een
@@ -295,19 +295,17 @@
               junioren, deze zullen een afstand van 3000 meter roeien.
             </li>
             <li>
-              Op zaterdag wordt er gestart in drie blokken:
+              Op zaterdag wordt er gestart in vier blokken:
               <ul>
-                <li>10:00, 13:00 en 16:00 uur.</li>
+                <li>10:00, 13:00, 16:00 uur en 16:30 uur.</li>
               </ul>
             </li>
             <li>
-              Op zondag wordt er gestart in drie blokken:
+              Op zondag wordt er gestart in vier blokken:
               <ul>
-                <li>10:00, 13:00 en 16:00 uur.</li>
+                <li>10:00, 13:00, 16:00 uur en 16:30 uur.</li>
               </ul>
             </li>
-            <li>De bedrijfsachten starten zaterdag om 15:45 uur.</li>
-            <li>De junioren starten zaterdag en/of zondag om 15:45 uur.</li>
           </ul>
           <br />
           <li><b>Tijdwaarneming</b></li>
@@ -393,12 +391,12 @@
               stremming voor alle scheepvaart:
               <ul>
                 <li>
-                  Zaterdag: tussen 09:30 uur en 12:00 uur en tussen 13:00 uur en
-                  18:15 uur
+                  Zaterdag: tussen 10:00 uur en 12:00 uur, tussen 13:00 uur en
+                  15:30 uur en tussen 15:45 uur en 18:00 uur.
                 </li>
                 <li>
-                  Zondag: tussen 09:30 uur en 12:00 uur en tussen 13:00 uur en
-                  17:15 uur
+                  Zondag: tussen 10:00 uur en 12:00 uur, tussen 13:00 uur en
+                  15:00 uur en tussen 15:45 uur en 18:00 uur.
                 </li>
               </ul>
             </li>
@@ -436,7 +434,7 @@
               van het Reglement voor Roeiwedstrijden, kan een tijdstraf worden
               opgelegd.
               <ul>
-                <li>De tijdstraf kan oplopen tot 15 seconden.</li>
+                <li>De tijdstraf is 15 seconden.</li>
                 <li>
                   Bij uitzetten na de vlottijd welke per ploeg is gepubliceerd,
                   kan een straftijd van 5 seconden worden opgelegd.
