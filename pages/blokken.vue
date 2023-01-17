@@ -1,8 +1,9 @@
 <template>
   <v-card flat light>
     <v-card-title>
-      Blokschema
+      Voorlopig blokschema
     </v-card-title>
+    <v-card-text> Laatst aangepast: 16-01-2023</v-card-text>
     <v-card-text>
       Zaterdag 18 februari 2023
     </v-card-text>
@@ -25,7 +26,7 @@
           <td>Blok 1</td>
           <td>10:00 - 12:00</td>
           <td>
-            LHEj 8+, LHEj 4*, DEj 4+, LHE 2x, LHJ 2x, LHB 2x, LDE 1x, LDG 1x,
+            LHEj 8+, LHEj 4+, DEj 4+, LHE 2x, LHJ 2x, LHB 2x, LDE 1x, LDG 1x,
             LDSB 1x, LDB 1x
           </td>
         </tr>
@@ -39,14 +40,14 @@
         </tr>
         <tr>
           <td>Blok 3 3k</td>
-          <td>15:45 - 17:45</td>
+          <td>16:00 - 17:45</td>
           <td>
             MixBedr 8+, M18 4*, M16 4*, M18 2x, M16 2x, J18 1x, J16 1x
           </td>
         </tr>
         <tr>
           <td>Blok 3 5k</td>
-          <td>16:00 - 18:00</td>
+          <td>16:30 - 18:00</td>
           <td>
             HE 8+, LHE 8+, HEj 8+, HEj 4+, DE 4+, DG 4+
           </td>
@@ -83,18 +84,18 @@
           <td>Blok 5</td>
           <td>13:00 - 15:00</td>
           <td>
-            LHB 4*, LDE 2x, LDG 2x, LDB 2x, LDB 4*, DE 2-, DG 2-, HE 1x, HG 1x,
+            LHB 4+, LDE 2x, LDG 2x, LDB 2x, LDB 4*, DE 2-, DG 2-, HE 1x, HG 1x,
             HSB 1x, HB 1x, HV 4*, DV 4*
           </td>
         </tr>
         <tr>
           <td>Blok 6 3k</td>
-          <td>15:45 - 17:45</td>
-          <td>J18 4*, J16 4*, J18 2x, J16 2x, M18 1x, M16 2x</td>
+          <td>16:00 - 17:45</td>
+          <td>J18 4*, J16 4*, J18 2x, J16 2x, M18 1x, M16 1x</td>
         </tr>
         <tr>
           <td>Blok 6 5k</td>
-          <td>16:00 - 18:00</td>
+          <td>16:30 - 18:00</td>
           <td>
             DE 8+, DB 8+, HV 8+ DV 8+, HE 4+, HG 4+, HB 4+, LHG 4+, HV 2x, DV
             2x, HV 1x, DV 1x
