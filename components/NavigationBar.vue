@@ -24,7 +24,7 @@
         >
           Uitslagen
         </v-btn>
-        <v-btn to="/fotos" text width="100%" class="drawer--item">
+        <v-btn href="https://www.proteus-eretes.nl/fotos" text width="100%" class="drawer--item">
           Foto's
         </v-btn>
         <v-btn to="/vanoord" text width="100%" class="drawer--item">
