@@ -1,7 +1,7 @@
 <template>
   <v-card flat light>
     <v-card-title>
-      Geschiedenis yeaaaa
+      Geschiedenis
     </v-card-title>
     <v-card-text>
       De opening van het nationale roeiseizoen, het evenement waar menig roeier
