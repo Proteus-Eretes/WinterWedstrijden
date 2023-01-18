@@ -26,7 +26,7 @@
           <td>Blok 1</td>
           <td>10:00 - 12:00</td>
           <td>
-            LHEj 8+, LHEj 4+, DEj 4+, LHE 2x, LHJ 2x, LHB 2x, LDE 1x, LDG 1x,
+            LHEj 8+, LHEj 4+, DEj 4+, LHE 2x, LHG 2x, LHB 2x, LDE 1x, LDG 1x,
             LDSB 1x, LDB 1x
           </td>
         </tr>
