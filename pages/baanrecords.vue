@@ -1,7 +1,7 @@
 <template>
   <v-card flat light>
     <v-card-title>
-      Baanrecords
+      Baanrecords 2012
     </v-card-title>
     <v-card-text>
       <v-data-table
