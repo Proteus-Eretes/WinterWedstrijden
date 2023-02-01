@@ -54,7 +54,7 @@
               target="_blank"
             >
               <v-col class="d-flex social-icon">
-                <img src="/ig.png" contain height="40px" />
+                <img src="ig.png" contain height="40px" />
               </v-col>
             </a>
             <a
@@ -62,12 +62,12 @@
               target="_blank"
             >
               <v-col class="d-flex social-icon">
-                <img src="/fb.png" contain height="40px" />
+                <img src="fb.png" contain height="40px" />
               </v-col>
             </a>
             <a href="" target="_blank">
               <v-col class="d-flex social icon">
-                <img src="/app.png" contain height="40px" />
+                <img src="app.png" contain height="40px" />
               </v-col>
             </a>
           </v-row>
