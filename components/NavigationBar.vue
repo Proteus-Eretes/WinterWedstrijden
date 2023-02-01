@@ -70,7 +70,7 @@
             >
               Dropdown
             </v-btn>
-          </template> -->
+          </template>
           
           <v-list>
             <v-list-item>
@@ -80,7 +80,7 @@
               <v-list-item-title>geschiedenis2</v-list-item-title>
             </v-list-item>
           </v-list>
-        </v-menu>
+        </v-menu> -->
 
         <v-btn to="/blokken" text dark>Blokken</v-btn>
         <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text dark>Uitslagen</v-btn>
