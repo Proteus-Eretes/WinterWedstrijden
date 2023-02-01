@@ -33,7 +33,7 @@
   top: 12px;
 }
 
-img {
+.v-img {
   width: 87.5%;
   margin: 4px 6.25%;
 }
