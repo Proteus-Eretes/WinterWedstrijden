@@ -1,5 +1,10 @@
 <template>
   <v-card flat light>
+    <v-btn to="/bepalingen" text dark>Bepalingen</v-btn>
+    <v-btn to="/blokken" text dark>Blokken</v-btn>
+  </v-card>
+  
+  <v-card flat light>
     <v-img src="boot2.jpg" max-height="300px"></v-img>
     <v-card-title>
       Uitgeschreven velden
