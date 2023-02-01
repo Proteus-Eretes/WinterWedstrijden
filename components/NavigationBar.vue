@@ -57,9 +57,9 @@
         <v-btn to="/velden" text dark>Deelnemers</v-btn>
         <v-btn to="/bepalingen" text dark>Bepalingen</v-btn>
         
-        <!-- <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn> -->
+        <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn>
 
-        <v-menu open-on-hover>
+        <!-- <v-menu open-on-hover>
           
           <template v-slot:activator="{ on, attrs }">
             <v-btn
@@ -70,7 +70,7 @@
             >
               Dropdown
             </v-btn>
-          </template>
+          </template> -->
           
           <v-list>
             <v-list-item>
