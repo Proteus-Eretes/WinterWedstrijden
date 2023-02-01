@@ -57,7 +57,7 @@
             @keypress.enter="navigate"
           >
             <v-img
-              src="sneeuwvlokje.png"
+              src="/sneeuwvlokje.png"
               class="shrink"
               transition="scale-transition"
               max-width="40"
