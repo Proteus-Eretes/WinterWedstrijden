@@ -75,7 +75,7 @@
           </v-row>
         </v-container>
       </div>
-      <div class="col-md-4" align="right">
+      <div class="col-md-4">
         <h3>Georganiseerd door leden van</h3>
         <v-img src="/pew.png" contain height="50px" />
       </div>
