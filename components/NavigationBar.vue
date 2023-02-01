@@ -2,20 +2,11 @@
   <div>
     <v-navigation-drawer v-model="drawerOpen" clipped absolute>
       <v-list flat>
+        <!-- Lijst voor mobiel -->
         <v-btn to="/" text width="100%" class="drawer--item">Nieuws</v-btn>
         <v-btn to="/velden" text width="100%" class="drawer--item">Deelnemers</v-btn>
         <v-btn to="/bepalingen" text width="100%" class="drawer--item">Bepalingen</v-btn>
-        
-        <!-- <v-btn to="/geschiedenis" text width="100%" class="drawer--item">Geschiedenis</v-btn> -->
-        <b-dropdown toggle-class="text-decoration-none" no-caret>
-          <template>
-            Geschiedenis<span class="sr-only">Search</span>
-          </template>
-          <b-dropdown-item href="/geschiedenis#">Action</b-dropdown-item>
-          <b-dropdown-item href="#">Another action</b-dropdown-item>
-          <b-dropdown-item href="#">Something else here...</b-dropdown-item>
-        </b-dropdown>
-        
+        <v-btn to="/geschiedenis" text width="100%" class="drawer--item">Geschiedenis</v-btn>        
         <v-btn to="/blokken" text width="100%" class="drawer--item">Blokken</v-btn>
         <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text width="100%" class="drawer--item">Uitslagen</v-btn>
         <v-btn href="https://www.proteus-eretes.nl/fotos" target="_blank" text width="100%" class="drawer--item">Foto's</v-btn>
@@ -61,10 +52,22 @@
       <v-spacer />
       <v-spacer />
       <v-toolbar-items class="hidden-sm-and-down menu-item">
+        <!-- Lijst voor computer -->
         <v-btn to="/" text dark>Nieuws</v-btn>
         <v-btn to="/velden" text dark>Deelnemers</v-btn>
         <v-btn to="/bepalingen" text dark>Bepalingen</v-btn>
-        <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn>
+        
+        <!-- <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn> -->
+
+        <b-dropdown toggle-class="text-decoration-none" no-caret>
+          <template>
+            Geschiedenis<span class="sr-only">Search</span>
+          </template>
+          <b-dropdown-item href="/geschiedenis#">Action</b-dropdown-item>
+          <b-dropdown-item href="#">Another action</b-dropdown-item>
+          <b-dropdown-item href="#">Something else here...</b-dropdown-item>
+        </b-dropdown>
+
         <v-btn to="/blokken" text dark>Blokken</v-btn>
         <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text dark>Uitslagen</v-btn>
         <v-btn href="https://www.proteus-eretes.nl/fotos" target="_blank" text dark>Foto's</v-btn>
