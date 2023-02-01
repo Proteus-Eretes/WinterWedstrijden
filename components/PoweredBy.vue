@@ -33,8 +33,9 @@
   top: 12px;
 }
 
-.v-img {
+.v-image {
   width: 87.5%;
   margin: 4px 6.25%;
 }
 </style>
+<!-- 1 feb 2023 16:19 -->
