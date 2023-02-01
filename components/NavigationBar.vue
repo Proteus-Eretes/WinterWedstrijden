@@ -60,7 +60,18 @@
         <!-- <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn> -->
 
         <v-menu open-on-hover>
-          <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn>
+          
+          <template v-slot:activator="{ on, attrs }">
+            <v-btn
+              color="primary"
+              dark
+              v-bind="attrs"
+              v-on="on"
+            >
+              Dropdown
+            </v-btn>
+          </template>
+          
           <v-list>
             <v-list-item>
               <v-list-item-title>geschiedenis1</v-list-item-title>
