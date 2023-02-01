@@ -47,7 +47,7 @@
         </p>
       </div>
       <div class="col-md-4">
-        <v-container fluid justify="center" align="center">
+        <v-container fluid justify="center">
           <v-row class="icons" justify="center">
             <a
               href="https://www.instagram.com/vanoordwinterwedstrijden/"
