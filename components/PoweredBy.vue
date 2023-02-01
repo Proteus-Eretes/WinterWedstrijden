@@ -4,14 +4,14 @@
       Powered by
     </v-card-title>
     <div class="d-flex flex-wrap flex-sm-nowrap flex-lg-wrap">
-      <img src="/pe.png" />
-      <img src="/vanoord.png" />
-      <img src="/tu-delft.png" />
+      <v-img src="/pe.png" />
+      <v-img src="/vanoord.png" />
+      <v-img src="/tu-delft.png" />
     </div>
     <div class="d-flex flex-wrap flex-sm-nowrap flex-lg-wrap">
-      <img src="/jupiler.jpg" />
-      <img src="/roeigoed.jpeg" />
-      <img src="/iris.png" />
+      <v-img src="/jupiler.jpg" />
+      <v-img src="/roeigoed.jpeg" />
+      <v-img src="/iris.png" />
     </div>
   </v-card>
 </template>
