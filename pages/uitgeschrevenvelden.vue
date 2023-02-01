@@ -1,10 +1,12 @@
 <template>  
-    <v-card flat light>
+    <v-card class="hidden-sm-and-down menu-item" flat light>
+      
       <v-card flat light>
-      <v-btn to="/bepalingen" text light>Bepalingen</v-btn>
-      <v-btn to="/blokken" text light>Blokken</v-btn>
-    </v-card>
-    <v-img src="boot2.jpg" max-height="300px"></v-img>
+        <v-btn to="/bepalingen" text light>Bepalingen</v-btn>
+        <v-btn to="/blokken" text light>Blokken</v-btn>
+      </v-card>
+    
+      <v-img src="boot2.jpg" max-height="300px"></v-img>
     <v-card-title>
       Uitgeschreven velden
     </v-card-title>

@@ -41,7 +41,7 @@
     <v-app-bar dark color="#131b42ff" flat>
       <v-app-bar-nav-icon
         @click="drawerOpen = !drawerOpen"
-        class="hidden-lg-and-up"
+        class="hidden-md-and-up"
       />
       <v-toolbar-title z-index="-10">
         <router-link
@@ -74,7 +74,7 @@
       </v-toolbar-title>
       <v-spacer />
       <v-spacer />
-      <v-toolbar-items class="hidden-md-and-down menu-item">
+      <v-toolbar-items class="hidden-sm-and-down menu-item">
         <v-btn to="/" text dark>Nieuws</v-btn>
         <v-btn to="/uitgeschrevenvelden" text dark>Deelnemers</v-btn>
         <v-btn to="/bepalingen" text dark>Bepalingen</v-btn>
