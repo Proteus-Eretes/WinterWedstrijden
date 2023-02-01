@@ -54,7 +54,7 @@
               target="_blank"
             >
               <v-col class="d-flex social-icon">
-                <v-img src="ig.png" contain height="40px" />
+                <v-img src="/ig.png" contain height="40px" />
               </v-col>
             </a>
             <a
@@ -62,12 +62,12 @@
               target="_blank"
             >
               <v-col class="d-flex social-icon">
-                <v-img src="fb.png" contain height="40px" />
+                <v-img src="/fb.png" contain height="40px" />
               </v-col>
             </a>
             <a href="" target="_blank">
               <v-col class="d-flex social icon">
-                <v-img src="app.png" contain height="40px" />
+                <v-img src="/app.png" contain height="40px" />
               </v-col>
             </a>
           </v-row>
@@ -75,7 +75,7 @@
       </div>
       <div class="col-md-4" align="right">
         <h3>Georganiseerd door leden van</h3>
-        <v-img src="pew.png" contain height="50px" />
+        <v-img src="/pew.png" contain height="50px" />
       </div>
     </v-row>
   </v-container>
