@@ -50,7 +50,7 @@
         <v-container fluid justify="center">
           <v-row class="icons" justify="center">
             
-            <v-col class="">
+            <v-col class="col-md-3">
               <a
                 href="https://www.instagram.com/vanoordwinterwedstrijden/"
                 target="_blank"
@@ -59,7 +59,7 @@
               </a>
             </v-col>
           
-            <v-col class="">
+            <v-col class="col-md-3">
               <a
                 href="https://www.facebook.com/WinterWedstrijden.pe"
                 target="_blank"
@@ -68,7 +68,7 @@
               </a>
             </v-col>
           
-            <v-col class="">
+            <v-col class="col-md-3">
               <a 
                 href="" 
                 target="_blank"
