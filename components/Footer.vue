@@ -65,7 +65,9 @@
                 <v-img src="/fb.png" contain height="40px" />
               </v-col>
             </a>
-            <a href="" target="_blank">
+            <a 
+              href="" 
+              target="_blank">
               <v-col class="d-flex social icon">
                 <v-img src="/app.png" contain height="40px" />
               </v-col>
