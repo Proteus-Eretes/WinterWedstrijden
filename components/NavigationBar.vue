@@ -71,8 +71,6 @@
             </v-list-item>
           </v-list>
         </v-menu>
-
-        <v-btn to="/bepalingen" text dark>Bepalingen</v-btn>
                 
         <v-menu offset-y>
           <template v-slot:activator="{ on }">
@@ -88,7 +86,6 @@
           </v-list>
         </v-menu>
 
-        <v-btn to="/blokken" text dark>Blokken</v-btn>
         <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text dark>Uitslagen</v-btn>
         <v-btn href="https://www.proteus-eretes.nl/fotos" target="_blank" text dark>Foto's</v-btn>
         <v-btn to="/vanoord" text dark>Van Oord</v-btn>
