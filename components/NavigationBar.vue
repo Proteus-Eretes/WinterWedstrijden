@@ -38,7 +38,6 @@
               class="shrink"
               transition="scale-transition"
               max-width="40"
-              min-width="40"
               style="margin: 0 auto;"
             />
             <div class="logoTitle">
