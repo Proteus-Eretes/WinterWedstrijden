@@ -57,30 +57,21 @@
         <v-btn to="/velden" text dark>Deelnemers</v-btn>
         <v-btn to="/bepalingen" text dark>Bepalingen</v-btn>
         
-        <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn>
-
-        <!-- <v-menu open-on-hover>
-          
-          <template v-slot:activator="{ on, attrs }">
-            <v-btn
-              color="primary"
-              dark
-              v-bind="attrs"
-              v-on="on"
-            >
-              Dropdown
-            </v-btn>
+        <!-- <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn> -->
+        
+        <v-menu offset-y>
+          <template v-slot:activator="{ on }">
+            <v-btn text dark v-on="on">Geschiedenis</v-btn>
           </template>
-          
-          <v-list>
-            <v-list-item>
-              <v-list-item-title>geschiedenis1</v-list-item-title>
-            </v-list-item>
-            <v-list-item>
-              <v-list-item-title>geschiedenis2</v-list-item-title>
-            </v-list-item>
+          <v-list dense>
+            <v-list-tile>
+              <v-btn to="/geschiedenis" flat text>Geschiedenis</v-btn>
+            </v-list-tile>
+            <v-list-tile>
+              <v-btn to="/baanrecords" flat text>Baanrecords</v-btn>
+            </v-list-tile>
           </v-list>
-        </v-menu> -->
+        </v-menu>
 
         <v-btn to="/blokken" text dark>Blokken</v-btn>
         <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text dark>Uitslagen</v-btn>
