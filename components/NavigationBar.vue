@@ -5,7 +5,7 @@
         <v-btn to="/" text width="100%" class="drawer--item">
           Nieuws
         </v-btn>
-        <v-btn to="/uitgeschrevenvelden" text width="100%" class="drawer--item">
+        <v-btn to="/velden" text width="100%" class="drawer--item">
           Deelnemers
         </v-btn>
         <v-btn to="/bepalingen" text width="100%" class="drawer--item"> Bepalingen </v-btn>
@@ -76,7 +76,7 @@
       <v-spacer />
       <v-toolbar-items class="hidden-sm-and-down menu-item">
         <v-btn to="/" text dark>Nieuws</v-btn>
-        <v-btn to="/uitgeschrevenvelden" text dark>Deelnemers</v-btn>
+        <v-btn to="/velden" text dark>Deelnemers</v-btn>
         <v-btn to="/bepalingen" text dark>Bepalingen</v-btn>
         <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn>
         <v-btn to="/blokken" text dark>Blokken</v-btn>
