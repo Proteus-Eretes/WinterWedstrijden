@@ -49,7 +49,35 @@
       <div class="col-md-4">
         <v-container fluid justify="center">
           <v-row class="icons" justify="center">
-            <a
+            
+            <v-col class="d-flex social-icon">
+              <a
+                href="https://www.instagram.com/vanoordwinterwedstrijden/"
+                target="_blank"
+              >
+                <v-img src="/ig.png" contain height="40px" />
+              </a>
+            </v-col>
+          
+            <v-col class="d-flex social-icon">
+              <a
+                href="https://www.facebook.com/WinterWedstrijden.pe"
+                target="_blank"
+              >
+                <v-img src="/fb.png" contain height="40px" />
+              </a>
+            </v-col>
+          
+            <v-col class="d-flex social icon">
+              <a 
+                href="" 
+                target="_blank"
+              >
+                <v-img src="/app.png" contain height="40px" />
+              </a>
+            </v-col>
+            
+            <!-- <a
               href="https://www.instagram.com/vanoordwinterwedstrijden/"
               target="_blank"
             >
@@ -71,7 +99,8 @@
               <v-col class="d-flex social icon">
                 <v-img src="/app.png" contain height="40px" />
               </v-col>
-            </a>
+            </a> -->
+
           </v-row>
         </v-container>
       </div>
