@@ -64,12 +64,12 @@
             <v-btn text dark v-on="on">Geschiedenis</v-btn>
           </template>
           <v-list dense>
-            <v-list-tile>
+            <v-list-item>
               <v-btn to="/geschiedenis" flat text>Geschiedenis</v-btn>
-            </v-list-tile>
-            <v-list-tile>
+            </v-list-item>
+            <v-list-item>
               <v-btn to="/baanrecords" flat text>Baanrecords</v-btn>
-            </v-list-tile>
+            </v-list-item>
           </v-list>
         </v-menu>
 
