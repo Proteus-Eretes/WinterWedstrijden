@@ -54,11 +54,26 @@
       <v-toolbar-items class="hidden-sm-and-down menu-item">
         <!-- Lijst voor computer -->
         <v-btn to="/" text dark>Nieuws</v-btn>
-        <v-btn to="/velden" text dark>Deelnemers</v-btn>
+
+        <v-menu offset-y>
+          <template v-slot:activator="{ on }">
+            <v-btn text dark v-on="on">Deelnemers</v-btn>
+          </template>
+          <v-list dense>
+            <v-list-item>
+              <v-btn to="/blokken" flat text>Blokken</v-btn>
+            </v-list-item>
+            <v-list-item>
+              <v-btn to="/bepalingen" flat text>Bepalingen</v-btn>
+            </v-list-item>
+            <v-list-item>
+              <v-btn to="/velden" flat text>Velden</v-btn>
+            </v-list-item>
+          </v-list>
+        </v-menu>
+
         <v-btn to="/bepalingen" text dark>Bepalingen</v-btn>
-        
-        <!-- <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn> -->
-        
+                
         <v-menu offset-y>
           <template v-slot:activator="{ on }">
             <v-btn text dark v-on="on">Geschiedenis</v-btn>
