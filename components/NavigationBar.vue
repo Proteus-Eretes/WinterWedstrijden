@@ -59,14 +59,17 @@
         
         <!-- <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn> -->
 
-        <b-dropdown toggle-class="text-decoration-none" no-caret>
-          <template>
-            Geschiedenis<span class="sr-only">Search</span>
-          </template>
-          <b-dropdown-item href="/geschiedenis#">Action</b-dropdown-item>
-          <b-dropdown-item href="#">Another action</b-dropdown-item>
-          <b-dropdown-item href="#">Something else here...</b-dropdown-item>
-        </b-dropdown>
+        <v-menu open-on-hover>
+          <v-btn to="/geschiedenis" text dark>Geschiedenis</v-btn>
+          <v-list>
+            <v-list-item>
+              <v-list-item-title>geschiedenis1</v-list-item-title>
+            </v-list-item>
+            <v-list-item>
+              <v-list-item-title>geschiedenis2</v-list-item-title>
+            </v-list-item>
+          </v-list>
+        </v-menu>
 
         <v-btn to="/blokken" text dark>Blokken</v-btn>
         <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text dark>Uitslagen</v-btn>
