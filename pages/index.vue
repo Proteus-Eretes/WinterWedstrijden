@@ -3,12 +3,14 @@
     <v-card light>
             <v-card-title>De inschrijvingen zijn geopend</v-card-title>
             <v-card-text color="black"> Sinds 29 januari zijn de inschrijvingen geopend. Deze zullen sluiten op
-              13 februari 2023 om 20:00 uur. Inschrijven kan via het 
+              13 februari 2023 om 20:00 uur. 
+              <br>Inschrijven kan via het 
               <a href="https://mijnvereniging.knrb.nl/" target="_blank">KNRB-inschrijfsysteem</a>.
               <br>
               Daarnaast zijn de volgende extra velden bijgeschreven: DE 4* op zaterdag en MixM 4* op zondag.
             </v-card-text>
     </v-card>
+    <br>
     <v-card light>
             <v-card-title>48ste van Oord WinterWedstrijden</v-card-title>
             <v-card-text color="black"> Vijf kilometer varen in een achtervolgingsrace op de Schie in
