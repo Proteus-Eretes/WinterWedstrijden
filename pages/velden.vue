@@ -119,7 +119,7 @@ export default {
           name: "Elite vier",
           heren: "HE 4+",
           herenl: "",
-          dames: "DE 4+",
+          dames: "DE 4+, DE4*",
           damesl: ""
         },
         {
@@ -172,35 +172,35 @@ export default {
           damesl: ""
         },
         {
-          name: "Veteranen skiff",
-          heren: "HV 1x",
+          name: "Masters skiff",
+          heren: "HM 1x",
           herenl: "",
-          dames: "DV 1x",
+          dames: "DM 1x",
           damesl: ""
         },
         {
-          name: "Veteranen dubbeltwee",
-          heren: "HV 2x",
+          name: "Masters dubbeltwee",
+          heren: "HM 2x",
           herenl: "",
-          dames: "DV 2x",
+          dames: "DM 2x",
           damesl: ""
         },
         {
-          name: "Veteranen vier",
-          heren: "HV 4*",
+          name: "Masters vier",
+          heren: "HM 4*, MixM4*",
           herenl: "",
-          dames: "DV 4*",
+          dames: "DM 4*",
           damesl: ""
         },
         {
-          name: "Veteranen acht",
-          heren: "HV 8+",
+          name: "Masters acht",
+          heren: "HM 8+",
           herenl: "",
-          dames: "DV 8+",
+          dames: "DM 8+",
           damesl: ""
         },
         {
-          name: "MixBedr acht",
+          name: "Bedrijfsacht",
           heren: "MixBedr 8+",
           herenl: "",
           dames: "",
