@@ -1,26 +1,28 @@
 <template>
     <v-card flat light>
       <v-card-title>
-        Baankaart
+        Baankaart 5000 meter
       </v-card-title>
       <v-card-text>
-        <h4>5000 meter</h4>
-        <img src="/baankaart5k.png" class="baankaart" />
         <ul>
             <li>Start ten noorden van de Doenbrug</li>
             <li>Finish ten zuiden van de Kruithuisbrug</li>
             <li>Lage nummers starten eerst</li>
             <li>Vliegende start</li>
         </ul>
-
-        <h4>3000 meter</h4>
-        <img src="/baankaart3k.png" class="baankaart" />
+        <img src="/baankaart5k.png" class="baankaart" />
+      </v-card-text>
+      <v-card-title>
+        Baankaart 3000 meter
+      </v-card-title>
+      <v-card-text>
         <ul>
             <li>Start ten noorden van de Kandelaarbrug</li>
             <li>Finish ten zuiden van de Kruithuisbrug</li>
             <li>Lage nummers starten eerst</li>
             <li>Vliegende start</li>
         </ul>
+        <img src="/baankaart3k.png" class="baankaart" />
       </v-card-text>
     </v-card>
   </template>
