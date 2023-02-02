@@ -1,9 +1,9 @@
 <template>
   <v-card flat light>
     <v-card-title>
-      Voorlopig blokschema
+      Blokschema
     </v-card-title>
-    <v-card-text> Laatst aangepast: 16-01-2023</v-card-text>
+    <v-card-text> Laatst aangepast: 02-02-2023</v-card-text>
     <v-card-text>
       Zaterdag 18 februari 2023
     </v-card-text>
