@@ -4,10 +4,11 @@
       <v-list flat>
         <!-- Lijst voor mobiel -->
         <v-btn to="/" text width="100%" class="drawer--item">Nieuws</v-btn>
-        <v-btn to="/velden" text width="100%" class="drawer--item">Deelnemers</v-btn>
-        <v-btn to="/bepalingen" text width="100%" class="drawer--item">Bepalingen</v-btn>
-        <v-btn to="/geschiedenis" text width="100%" class="drawer--item">Geschiedenis</v-btn>        
         <v-btn to="/blokken" text width="100%" class="drawer--item">Blokken</v-btn>
+        <v-btn to="/bepalingen" text width="100%" class="drawer--item">Bepalingen</v-btn>
+        <v-btn to="/baan" text width="100%" class="drawer--item">Baankaart</v-btn>
+        <v-btn to="/velden" text width="100%" class="drawer--item">Velden</v-btn>
+        <v-btn to="/geschiedenis" text width="100%" class="drawer--item">Geschiedenis</v-btn>            
         <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text width="100%" class="drawer--item">Uitslagen</v-btn>
         <v-btn href="https://www.proteus-eretes.nl/fotos" target="_blank" text width="100%" class="drawer--item">Foto's</v-btn>
         <v-btn to="/vanoord" text width="100%" class="drawer--item">Van Oord</v-btn>
@@ -66,6 +67,9 @@
             </v-list-item>
             <v-list-item>
               <v-btn to="/bepalingen" flat text>Bepalingen</v-btn>
+            </v-list-item>
+            <v-list-item>
+              <v-btn to="/baan" flat text>Baankaart</v-btn>
             </v-list-item>
             <v-list-item>
               <v-btn to="/velden" flat text>Velden</v-btn>
