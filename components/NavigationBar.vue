@@ -79,7 +79,7 @@
                 
         <v-menu offset-y>
           <template v-slot:activator="{ on }">
-            <v-btn text dark v-on="on">Geschiedenis</v-btn>
+            <v-btn text dark v-on="on">Toeschouwers</v-btn>
           </template>
           <v-list dense>
             <v-list-item>
