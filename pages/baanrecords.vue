@@ -1,9 +1,10 @@
 <template>
   <v-card flat light>
     <v-card-title>
-      Baanrecords 2012
+      Baanrecords
     </v-card-title>
     <v-card-text>
+      De baanrecords worden momenteel bijgewerkt.
       <v-data-table
         :headers="headers"
         :items="desserts"
