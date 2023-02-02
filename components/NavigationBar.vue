@@ -8,6 +8,7 @@
         <v-btn to="/bepalingen" text width="100%" class="drawer--item">Bepalingen</v-btn>
         <v-btn to="/baan" text width="100%" class="drawer--item">Baankaart</v-btn>
         <v-btn to="/velden" text width="100%" class="drawer--item">Velden</v-btn>
+        <v-btn to="/fietsverhuur" text width="100%" class="drawer--item">Fietsverhuur</v-btn>
         <v-btn to="/geschiedenis" text width="100%" class="drawer--item">Geschiedenis</v-btn>            
         <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text width="100%" class="drawer--item">Uitslagen</v-btn>
         <v-btn href="https://www.proteus-eretes.nl/fotos" target="_blank" text width="100%" class="drawer--item">Foto's</v-btn>
@@ -84,6 +85,9 @@
           <v-list dense>
             <v-list-item>
               <v-btn to="/geschiedenis" flat text>Geschiedenis</v-btn>
+            </v-list-item>
+            <v-list-item>
+              <v-btn to="/fietsverhuur" flat text>Fietsverhuur</v-btn>
             </v-list-item>
             <v-list-item>
               <v-btn to="/baanrecords" flat text>Baanrecords</v-btn>
