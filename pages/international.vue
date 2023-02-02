@@ -218,7 +218,7 @@
         of the coxswain needs to be 12 years.
       </p>
       <h2>Race course</h2>
-      <img src="/baankaart.png" class="baankaart" />
+      <img src="/baankaart5k.png" class="baankaart" />
       <h1>Weather Codes</h1>
       <p>
         The Van Oord WinterWedstrijden regatta uses weather codes. As from
