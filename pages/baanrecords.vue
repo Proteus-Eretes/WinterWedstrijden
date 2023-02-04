@@ -5,11 +5,14 @@
     </v-card-title>
     <v-card-text>
       De baanrecords worden momenteel bijgewerkt.
+      <br>
       <v-data-table
         :headers="headers"
         :items="desserts"
-        :items-per-page="20"
+        :items-per-page="500"
+        :mobile-breakpoint="100"
         dense
+        hide-default-footer
         class="elevation-1 veldentabel table-striped"
       >
       </v-data-table>
