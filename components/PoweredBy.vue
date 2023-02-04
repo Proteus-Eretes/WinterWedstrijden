@@ -8,6 +8,7 @@
       Groen&nbsp;<span class="dot" style="background-color: LimeGreen"></span>
       <!-- Geel&nbsp;<span class="dot" style="background-color: gold"></span> -->
       <!-- Rood&nbsp;<span class="dot" style="background-color: red"></span> -->
+      <br>Laatste update: 4 feb 2023, 18:00
     </div>
     
     <v-card-title>
@@ -46,6 +47,15 @@
 .v-image {
   width: 87.5%;
   margin: 4px 6.25%;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin-bottom: -8px;
 }
 </style>
 <!-- 1 feb 2023 16:19 -->
