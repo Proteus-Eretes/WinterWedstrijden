@@ -4,8 +4,6 @@
       Baanrecords
     </v-card-title>
     <v-card-text>
-      De baanrecords worden momenteel bijgewerkt.
-      <br>
       <v-data-table
         :headers="headers"
         :items="desserts"
