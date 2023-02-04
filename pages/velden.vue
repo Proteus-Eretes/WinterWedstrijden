@@ -14,6 +14,7 @@
       :items="desserts"
       :items-per-page="500"
       hide-default-footer
+      dense
       class="elevation-1 veldentabel table-striped"
     >
     </v-data-table>
