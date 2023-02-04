@@ -4,10 +4,10 @@
     <v-card-title>
       Weercode
     </v-card-title>
-    <v-card-text class="d-flex flex-wrap flex-sm-nowrap flex-lg-wrap">
-      Groen&nbsp;<span class="dot" style="background-color: LimeGreen"></span>
-      <!-- Geel&nbsp;<span class="dot" style="background-color: gold"></span> -->
-      <!-- Rood&nbsp;<span class="dot" style="background-color: red"></span> -->
+    <v-card-text>
+      <span class="dot" style="background-color: LimeGreen"></span>&nbsp;Groen
+      <!-- <span class="dot" style="background-color: gold"></span>&nbsp;Geel -->
+      <!-- <span class="dot" style="background-color: red"></span>&nbsp;Rood -->
       <br>Laatste update: 4 feb 2023, 18:00
     </v-card-text>
     
