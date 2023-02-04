@@ -11,6 +11,7 @@
         <v-btn to="/fietsverhuur" text width="100%" class="drawer--item">Fietsverhuur</v-btn>
         <v-btn to="/geschiedenis" text width="100%" class="drawer--item">Geschiedenis</v-btn>            
         <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text width="100%" class="drawer--item">Uitslagen</v-btn>
+        <v-btn to="/baanrecords" text width="100%" class="drawer--item">Baanrecords</v-btn>
         <v-btn href="https://www.proteus-eretes.nl/fotos" target="_blank" text width="100%" class="drawer--item">Foto's</v-btn>
         <v-btn to="/vanoord" text width="100%" class="drawer--item">Van Oord</v-btn>
         <v-btn to="/contact" text width="100%" class="drawer--item">Contact</v-btn>
