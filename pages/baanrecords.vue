@@ -9,7 +9,7 @@
         :headers="headers"
         :items="desserts"
         :items-per-page="20"
-        hide-default-footer
+        dense
         class="elevation-1 veldentabel table-striped"
       >
       </v-data-table>
@@ -516,13 +516,6 @@ export default {
           vereniging: "DDS",
           slag: "op den Velde",
           tijd: "19:25.0"
-        },
-        {
-          name: "",
-          jaar: "",
-          vereniging: "",
-          slag: "",
-          tijd: ""
         },
         
       ]
