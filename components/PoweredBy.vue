@@ -1,5 +1,15 @@
 <template>
   <v-card flat light class="sponsoren">
+    
+    <v-card-title>
+      Weercode
+    </v-card-title>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-lg-wrap">
+      Groen&nbsp;<span class="dot" style="background-color: LimeGreen"></span>
+      <!-- Geel&nbsp;<span class="dot" style="background-color: gold"></span> -->
+      <!-- Rood&nbsp;<span class="dot" style="background-color: red"></span> -->
+    </div>
+    
     <v-card-title>
       Powered by
     </v-card-title>
