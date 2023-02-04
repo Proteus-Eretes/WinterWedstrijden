@@ -8,7 +8,7 @@
       <span class="dot" style="background-color: LimeGreen">Groen</span>
       <!-- <span class="dot" style="background-color: gold">Geel</span> -->
       <!-- <span class="dot" style="background-color: red">Rood</span> -->
-      Geüpdate : 4 feb 2023, 18:00
+      Geüpdate: 4 feb 2023, 18:00
     </v-card-text>
     
     <v-card-title>
@@ -44,4 +44,3 @@
   align-items: center
 }
 </style>
-<!-- 1 feb 2023 16:19 -->
