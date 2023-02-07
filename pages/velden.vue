@@ -162,7 +162,7 @@ export default {
           name: "Junioren dubbeltwee",
           heren: "J18 2x, J16 2x",
           herenl: "",
-          dames: "M18 2x, M18 2x",
+          dames: "M18 2x, M16 2x",
           damesl: ""
         },
         {
