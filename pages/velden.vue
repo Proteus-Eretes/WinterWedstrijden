@@ -120,7 +120,7 @@ export default {
           name: "Elite vier",
           heren: "HE 4+",
           herenl: "",
-          dames: "DE 4+, DE4*",
+          dames: "DE 4+, DE 4*",
           damesl: ""
         },
         {
