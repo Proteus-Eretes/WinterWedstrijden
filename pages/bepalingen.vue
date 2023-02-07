@@ -71,7 +71,7 @@
         De Van Oord Bokaal is speciaal opgezet voor alle eerstejaarsploegen 
         en hun verenigingen. De vereniging met gemiddeld de beste eerstejaarsboten 
         mag zichzelf de winnaar van de Van Oord Bokaal noemen.
-        <br>
+        <br><br>
         <b>Bepalingen Van Oord Bokaal</b>
         <ol>
           <li>
