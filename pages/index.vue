@@ -12,7 +12,7 @@
     </v-card>
     <br>
     <v-card light>
-            <v-card-title>48ste van Oord WinterWedstrijden</v-card-title>
+            <v-card-title>48ste Van Oord WinterWedstrijden</v-card-title>
             <v-card-text color="black"> Vijf kilometer varen in een achtervolgingsrace op de Schie in
               winterse weersomstandigheden: dat zijn de Van Oord WinterWedstrijden.
               Deze officiële opening van het nationale roeiseizoen zal dit jaar 18 en 19 februari plaatsvinden.
