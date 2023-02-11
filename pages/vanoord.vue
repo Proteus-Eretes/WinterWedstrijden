@@ -1,12 +1,16 @@
 <template>
   <v-card flat light>
     <v-card-title>
-      Van Oord Marine Ineguity
+      Baaninstructie
     </v-card-title>
+    <v-card-text>
+      De onderstaande video bevat instructies over het bevaren van de Schie tijdens 
+      de WinterWedstrijden. Deze video gaat in op het oproeien, gevaarlijke punten, 
+      uitroeien, inhaalregels en het indienen van protest.
+    </v-card-text>
     <div class="video">
       
-      <iframe src="https://www.youtube.com/embed/gRGdONyEcO0"></iframe>
-      <!-- <iframe width="560" height="315" src="https://youtu.be/gRGdONyEcO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/gRGdONyEcO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     </div>
     <v-card-text>
@@ -55,6 +59,6 @@
 }
 
 .video iframe {
-  width: 100% !important;
+  width: 640px !important;
 }
 </style>
