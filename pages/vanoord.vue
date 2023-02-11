@@ -25,9 +25,25 @@
           wij u naar RvR artikel 7, lid 3.
         </li>
         <li>
-
+          Stuurlieden worden gewogen op de ergozolder van Proteus-Eretes, net als de roeiers
+          2 (2.5 voor EJ-velden) tot 1 uur voor de start van het blok waarin gestart wordt.
+        </li>
+        <li>
+          Stuurlieden voor Veteranen-, Club- Mixed, Bedrijfs- en Junioren 16 ploegen worden 
+          niet gewogen.
+        </li>
+        <li>
+          Indien een stuurman/vrouw niet aan de eisen conform RvR atrikel 7 voldoet, wordt de 
+          ploeg uitgesloten.
         </li>
       </ul>
+    </v-card-text>
+    <v-card-title>
+      Baankaart
+    </v-card-title>
+    <v-card-text>
+      De baankaart is te vinden onder de volgende link: 
+      <a href="/baan">Baankaart</a>.
     </v-card-text>
   </v-card>
 </template>
