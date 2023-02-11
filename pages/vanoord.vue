@@ -7,6 +7,10 @@
       De onderstaande video bevat instructies over het bevaren van de Schie tijdens 
       de WinterWedstrijden. Deze video gaat in op het oproeien, gevaarlijke punten, 
       uitroeien, inhaalregels en het indienen van protest.
+      <br>
+      Na het bekijken van de video moet elk stuurlid een test maken. De test wordt
+      momenteel bijgewerkt. Binnenkort verschijnt deze onder de volgende link:  
+      <a href="">Stuurliedentest</a>.
     </v-card-text>
     <br>
     <div class="video">
