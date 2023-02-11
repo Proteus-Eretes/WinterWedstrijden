@@ -5,7 +5,7 @@
     </v-card-title>
     <div class="video">
       <client-only>
-        <vimeo-player ref="player" :video-id="159516344" />
+        <iframe src="https://youtu.be/gRGdONyEcO0"></iframe>
       </client-only>
     </div>
     <v-card-text>
