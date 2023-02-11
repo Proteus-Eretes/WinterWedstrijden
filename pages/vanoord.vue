@@ -4,9 +4,9 @@
       Van Oord Marine Ineguity
     </v-card-title>
     <div class="video">
-      <client-only>
-        <iframe src="https://youtu.be/gRGdONyEcO0"></iframe>
-      </client-only>
+
+      <iframe src="https://youtu.be/gRGdONyEcO0"></iframe>
+
     </div>
     <v-card-text>
       Van Oord is een wereldwijd actieve en toonaangevende aannemer van bagger-,
