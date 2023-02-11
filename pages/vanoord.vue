@@ -5,7 +5,7 @@
     </v-card-title>
     <div class="video">
 
-      <iframe src="https://youtu.be/gRGdONyEcO0"></iframe>
+      <iframe width="560" height="315" src="https://youtu.be/gRGdONyEcO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     </div>
     <v-card-text>
