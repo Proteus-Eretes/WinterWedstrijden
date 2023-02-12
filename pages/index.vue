@@ -1,6 +1,16 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Stuurliedeninstructie</v-card-title>
+            <v-card-text color="black">Informatie voor stuurlieden is te vinden op de  
+              <a href="/stuurlieden" target="_blank">stuurlieden pagina</a>.
+              Stuurlieden zijn verplicht online een 
+              <a href="https://forms.gle/51xDRUKLaQiNPVT26" target="_blank">korte test</a> 
+              te maken voor het starten van de wedstrijd.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>De inschrijvingen zijn geopend</v-card-title>
             <v-card-text color="black"> Sinds 29 januari zijn de inschrijvingen geopend. Deze zullen sluiten op
               13 februari 2023 om 20:00 uur. 
