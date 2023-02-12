@@ -7,6 +7,7 @@
         <v-btn to="/blokken" text width="100%" class="drawer--item">Blokken</v-btn>
         <v-btn to="/bepalingen" text width="100%" class="drawer--item">Bepalingen</v-btn>
         <v-btn to="/baan" text width="100%" class="drawer--item">Baankaart</v-btn>
+        <v-btn to="/stuurlieden" text width="100%" class="drawer--item">Stuurlieden</v-btn>
         <v-btn to="/velden" text width="100%" class="drawer--item">Velden</v-btn>
         <v-btn to="/fietsverhuur" text width="100%" class="drawer--item">Fietsverhuur</v-btn>
         <v-btn to="/geschiedenis" text width="100%" class="drawer--item">Geschiedenis</v-btn>            
@@ -72,6 +73,9 @@
             </v-list-item>
             <v-list-item>
               <v-btn to="/baan" flat text>Baankaart</v-btn>
+            </v-list-item>
+            <v-list-item>
+              <v-btn to="/stuurlieden" flat text>Stuurlieden</v-btn>
             </v-list-item>
             <v-list-item>
               <v-btn to="/velden" flat text>Velden</v-btn>
