@@ -8,9 +8,9 @@
       de WinterWedstrijden. Deze video gaat in op het oproeien, gevaarlijke punten, 
       uitroeien, inhaalregels en het indienen van protest.
       <br>
-      Na het bekijken van de video moet elk stuurlid een test maken. De test wordt
-      momenteel bijgewerkt. Binnenkort verschijnt deze onder de volgende link:  
-      <a href="">Stuurliedentest</a>.
+      Na het bekijken van de video moet elk stuurlid een test maken. De test is
+      te vinden onder de volgende link: 
+      <a href="https://forms.gle/51xDRUKLaQiNPVT26">Stuurliedentest</a>.
     </v-card-text>
     <br>
     <div class="video">
