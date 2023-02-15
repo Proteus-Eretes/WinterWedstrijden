@@ -12,7 +12,7 @@
             <li>€10 voor de hele dag</li>
           </ul>
           <b>
-            Let op dat er alleen gepind kan worden
+            Let op dat er alleen gepind kan worden.
           </b>
           <br>
           De fietsen worden verhuurd op het terrein van Lijm en Cultuur.
