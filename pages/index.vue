@@ -1,6 +1,20 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Weging en plattegronden</v-card-title>
+            <v-card-text color="black">De weging vindt plaats op de ergozolder van 
+              Proteus-Eretes. Hier kunt u alleen komen via de loodsdeur op het voorterrein 
+              van Proteus-Eretes. Deze looproute en andere informatie is te vinden op de 
+              <a href="/plattegrond" target="_blank">plattegronden pagina</a>.<br>
+              Zoals elk jaar is het terrein verdeeld over twee locaties: Proteus-Eretes en 
+              Lijm & Cultuur. Bekijk de <a href="/plattegrond" target="_blank">plattegronden</a> 
+              goed waar u wat kunt doen.<br>
+              Later deze week wordt de verdeling van de botenwagens 
+              hier gepubliceerd en gecommuniceerd.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Stuurliedeninstructie</v-card-title>
             <v-card-text color="black">Informatie voor stuurlieden is te vinden op de  
               <a href="/stuurlieden" target="_blank">stuurlieden pagina</a>.
