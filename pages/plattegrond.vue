@@ -5,7 +5,7 @@
       </v-card-title>
       <v-card-text>
         <b>De weging vindt plaats op de ergozolder van Proteus-Eretes.
-        Hier kunt u komen via de loodsdeur op het voorterrein.</b>
+        Hier kunt u komen via de loodsdeur op het voorterrein.</b><br><br>
         Het adres van Proteus-Eretes:<br>
         <b>De Beuk</b><br>
         Rotterdamseweg 362A<br>
