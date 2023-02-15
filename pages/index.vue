@@ -1,6 +1,13 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Definitieve blokkenschema</v-card-title>
+            <v-card-text color="black">Het definitieve blokkenschema is gepubliceerd 
+              en te vinden op de <a href="/blokken">blokken pagina</a>.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Weging en plattegronden</v-card-title>
             <v-card-text color="black">De weging vindt plaats op de ergozolder van 
               Proteus-Eretes. Hier kunt u alleen komen via de loodsdeur op het voorterrein 
