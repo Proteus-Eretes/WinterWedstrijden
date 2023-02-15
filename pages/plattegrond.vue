@@ -37,7 +37,7 @@
   
   .baankaart {
     display: block;
-    max-width: 460px;
+    max-width: 100%;
     margin: 0 auto;
   }
   </style>
