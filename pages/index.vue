@@ -1,6 +1,16 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Vlottijden</v-card-title>
+            <v-card-text color="black">De vlottijden zijn voor elk veld vastgesteld. Dit is te vinden   
+              op de <a href="/vlottijden.pdf" target="_blank">vlottijden pagina</a>. 
+              Eerstejaarsvelden en enkele beginnervelden hebben ploeggebonden vlottijden. De andere 
+              velden hebben een vlottijd per veld. Let op dat er twee locaties zijn vanaf waar gevlot 
+              wordt. De vlottijden informeren u daarmee ook op welke locatie u moet vlotten.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Loting en weerupdate</v-card-title>
             <v-card-text color="black">De loting is te vinden op  
               <a href="https://hoesnelwasik.nl/ww/0/loting#blocks" target="_blank">Hoe snel was ik</a>. 
