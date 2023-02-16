@@ -1,6 +1,14 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Weerupdate</v-card-title>
+            <v-card-text color="black">De voorspelde wind op zaterdag in blok 1 en 2 is hoog. 
+              Momenteel blijft het weercode geel. Vrijdag om 14:00 wordt besloten en gepubliceerd 
+              wat er zal gebeuren met de velden in deze blokken. Daarentegen zien we voor zondag 
+              geen problemen in het voorspelde weer.
+            </v-card-text>
+    </v-card>
+    <v-card light>
             <v-card-title>Vlottijden</v-card-title>
             <v-card-text color="black">De vlottijden zijn voor elk veld vastgesteld. Dit is te vinden   
               op de <a href="/vlottijden.pdf" target="_blank">vlottijden pagina</a>. 
