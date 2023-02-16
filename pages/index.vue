@@ -8,6 +8,7 @@
               geen problemen in het voorspelde weer.
             </v-card-text>
     </v-card>
+    <br>
     <v-card light>
             <v-card-title>Vlottijden</v-card-title>
             <v-card-text color="black">De vlottijden zijn voor elk veld vastgesteld. Dit is te vinden   
