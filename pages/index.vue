@@ -9,7 +9,7 @@
               Daarnaast neemt de wind toe komende zaterdag, dit wordt voortdurend in de gaten gehouden. 
               Op dit moment zetten we de weercode op "geel" wat betekent dat er onzekerheden zijn waardoor 
               het weer ervoor kan zorgen dat blokken verplaatst of afgelast moeten worden. 
-              Donderdag om 16:00 uur wordt een volgende weerupdate hier gepubliceerd.
+              Donderdag om 18:00 uur wordt een volgende weerupdate hier gepubliceerd.
             </v-card-text>
     </v-card>
     <br>
