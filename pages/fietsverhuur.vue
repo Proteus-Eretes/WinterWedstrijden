@@ -17,7 +17,7 @@
           <br>
           De fietsen worden verhuurd op het terrein van Lijm en Cultuur.
           Let er wel op dat de fietsen tijdig worden teruggebracht om extra
-          om extra kosten te vermijden.
+          kosten te vermijden.
       </v-card-text>
     </v-card>
   </template>

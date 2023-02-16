@@ -18,7 +18,7 @@
       </v-card-title>
       <v-card-text>
         Het adres van Lijm & Cultuur:<br>
-        <b>De Beuk</b><br>
+        <b>Lijm & Cultuur</b><br>
         Rotterdamseweg 272<br>
         2628 AT<br>
         Delft
