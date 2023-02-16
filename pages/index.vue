@@ -1,6 +1,19 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Loting en weerupdate</v-card-title>
+            <v-card-text color="black">De loting is te vinden op  
+              <a href="https://hoesnelwasik.nl/ww/0/loting#blocks" target="_blank">Hoe snel was ik</a>. 
+              SB velden zijn samen geloot met Elite velden. Kijk dus bij de Elite velden om de loting 
+              van het bijbehorende SB veld te zien. Blok 33 is blok 3 3k, blok 35 is blok 3 5k etc.<br>
+              Daarnaast neemt de wind toe komende zaterdag, dit wordt voortdurend in de gaten gehouden. 
+              Op dit moment zetten we de weercode op "geel" wat betekent dat er onzekerheden zijn waardoor 
+              het weer ervoor kan zorgen dat blokken verplaatst of afgelast moeten worden. 
+              Donderdag om 16:00 uur wordt een volgende weerupdate hier gepubliceerd.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Definitieve blokkenschema</v-card-title>
             <v-card-text color="black">Het definitieve blokkenschema is gepubliceerd 
               en te vinden op de <a href="/blokken">blokken pagina</a>.
