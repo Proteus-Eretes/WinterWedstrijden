@@ -1,6 +1,13 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Programmaboekje 2023</v-card-title>
+            <v-card-text color="black">Dit is het programmaboekje van de 48 Van Oord 
+              WinterWedstrijden. <a href="/programmaboekje.pdf" target="_blank">programmaboekje</a>
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>LET OP Wijziging: Blok 1 wordt verdeeld over blok 2 en 3</v-card-title>
             <v-card-text color="black">Blok 1 is verdeeld over blok 2 en 3. De lichte velden van
               blok 1 zijn verplaatst naar blok 2. De zware velden van blok 1 zijn verplaatst naar 
