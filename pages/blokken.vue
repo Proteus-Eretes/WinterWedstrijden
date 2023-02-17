@@ -3,7 +3,7 @@
     <v-card-title>
       Blokschema
     </v-card-title>
-    <v-card-text> Laatst aangepast: 02-02-2023</v-card-text>
+    <v-card-text> Laatst aangepast: 17-02-2023</v-card-text>
     <v-card-text>
       Zaterdag 18 februari 2023
     </v-card-text>
@@ -23,19 +23,11 @@
       </thead>
       <tbody>
         <tr>
-          <td>Blok 1</td>
-          <td>10:00 - 12:00</td>
-          <td>
-            LHEj 8+, LHEj 4+, DEj 4+, LHB 2x, LDE 1x, LDSB 1x, 
-            LDG 1x, LDB 1x
-          </td>
-        </tr>
-        <tr>
           <td>Blok 2</td>
           <td>13:00 - 15:00</td>
           <td>
-            DEj 8+, HG 2x, HB 2x, HE 2-, HG 2-, LDEj 4*,  DE 1x, 
-            DSB 1x, DG 1x, DB 1x
+            LHEj 8+, DEj 8+, HG 2x, HE 2-, HG 2-, HB 2x, LHB 2x, LHEj 4+, LDEj 4*,  DE 1x, 
+            DSB 1x, LDE 1x, LDSB 1x, DG 1x, DB 1x, LDG 1x, LDB 1x
           </td>
         </tr>
         <tr>
@@ -49,7 +41,7 @@
           <td>Blok 3 5k</td>
           <td>16:30 - 18:00</td>
           <td>
-            HE 8+, HEj 8+, HEj 4+, DG 4+
+            HE 8+, HEj 8+, HEj 4+, DG 4+, DEj 4+
           </td>
         </tr>
       </tbody>
