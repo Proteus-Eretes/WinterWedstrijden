@@ -99,8 +99,13 @@
       <h2>Information during the regatta</h2>
       <p>
         Information will be shared via the homepage of the website. We also
-        provide information via a whatsapp service. This service is not yet
-        available, but comes soon.
+        provide information via a whatsapp service.<br>
+        How it works:
+        <ol>
+          <li>Add +31 6 23386493 to your contacts</li>
+          <li>Send us a Whatsapp message saying if you want dutch or english information</li>
+          <li>You will get a message when there is an important update concerning the regatta, for example changes, weather codes and progress during and the days before the weekend.</li>
+        </ol>
       </p>
       <h1>Time Schedule</h1>
       <h2>Saturday February 18th 2023</h2>
@@ -200,8 +205,8 @@
           Rules of Racing, Article 7, sub3. (only in Dutch)
         </li>
         <li>
-          Coxswain weighing will take place at "Lijm en Cultuur"
-          (Rotterdamseweg 272, Delft). Like the rowers, also the coxswains
+          Coxswain weighing will take place at "Proteus-Eretes"
+          (Rotterdamseweg 362a, Delft). Like the rowers, also the coxswains
           weighing will take place between 2 and 1 hours before the start of
           their own devision.
         </li>
