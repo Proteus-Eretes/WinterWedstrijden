@@ -1,6 +1,17 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Weerupdate 17 februari 14:00 - LET OP: Wijziging</v-card-title>
+            <v-card-text color="black"> Helaas hebben wij moeten besluiten blok 1 niet door te laten gaan. 
+              De wind is dusdanig dat wij het niet verantwoord achten ploegen te laten starten in dit blok.
+              De Wedstrijdleiding is druk bezig met het verdelen van de ploegen van blok 1 over blokken 2 & 3. 
+              We zullen zo snel mogelijk dit uitwerken en verdere berichtgeving online zetten.
+              <br>
+              <b>Ploegen in blok 1 zullen dus wel starten, maar in blok 2 of blok 3.</b>
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Weerupdate 16 februari 19:00</v-card-title>
             <v-card-text color="black">De voorspelde wind op zaterdag in blok 1 en 2 is hoog. 
               Momenteel blijft het weercode geel. Vrijdag om 14:00 wordt besloten en gepubliceerd 
