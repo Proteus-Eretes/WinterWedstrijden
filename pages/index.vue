@@ -1,6 +1,16 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Livestream 2023</v-card-title>
+            <v-card-text color="black">De live video commissie van Proteus-Eretes zorgt er voor 
+              dat de Van Oord WinterWedstrijden ook van afstand te volgen zijn. De livestreams 
+              zijn te vinden op youtube op het kanaal van roeien.tv.<br>
+              <a href="https://youtube.com/live/IfjjT4QgGgE?feature=share" target="_blank">zaterdag</a><br>
+              <a href="https://youtube.com/live/Sv6q4wxzrNo?feature=share" target="_blank">zondag</a>
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Programmaboekje 2023</v-card-title>
             <v-card-text color="black">Dit is het programmaboekje van de 48 Van Oord 
               WinterWedstrijden. <a href="/programmaboekje.pdf" target="_blank">programmaboekje</a>
