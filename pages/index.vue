@@ -1,6 +1,19 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>LET OP Wijziging: Blok 1 wordt verdeeld over blok 2 en 3</v-card-title>
+            <v-card-text color="black">Blok 1 is verdeeld over blok 2 en 3. De lichte velden van
+              blok 1 zijn verplaatst naar blok 2. De zware velden van blok 1 zijn verplaatst naar 
+              blok 3. Dit betekent dat blokken 2 en 3 nieuwe vlottijden hebben. Deze zijn te vinden 
+              op de <a href="/vlottijden.pdf" target="_blank">vlottijden pagina</a>. De nieuwe 
+              startvolgordes van de velden in de desbetreffende blokken is te vinden op de 
+              <a href="/blokken">blokken pagina</a>.
+              <br>
+              <b>Ploegen in blok 1 zullen dus wel starten, maar in blok 2 of blok 3.</b>
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Weerupdate 17 februari 14:00 - LET OP: Wijziging</v-card-title>
             <v-card-text color="black"> Helaas hebben wij moeten besluiten blok 1 niet door te laten gaan. 
               De wind is dusdanig dat wij het niet verantwoord achten ploegen te laten starten in dit blok.
