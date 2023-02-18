@@ -1,6 +1,16 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Weerupdate 18 februari 09:00</v-card-title>
+            <v-card-text color="black">Het is nog steeds code geel voor blok 2. Voorlopig laten we 
+              blok 2 doorgaan. Om half 11 maken we een definitief besluit die we zullen delen op de 
+              instagram, website en WWhatsappservice. De wind zal tijdens het oproeien nog erg sterk 
+              zijn, daarna neemt het af. Denk dus aan warme kleding tijdens het oproeien en houd 
+              rekening met veel wind.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Livestream 2023</v-card-title>
             <v-card-text color="black">De live video commissie van Proteus-Eretes zorgt er voor 
               dat de Van Oord WinterWedstrijden ook van afstand te volgen zijn. De livestreams 
