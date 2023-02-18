@@ -5,8 +5,8 @@
       Weercode
     </v-card-title>
     <v-card-text>
-      <!-- <span class="dot" style="background-color: LimeGreen">Groen</span> -->
-      <span class="dot" style="background-color: gold">Geel</span>
+      <span class="dot" style="background-color: LimeGreen">Groen</span>
+      <!-- <span class="dot" style="background-color: gold">Geel</span> -->
       <!-- <span class="dot" style="background-color: red">Rood</span> -->
       Geüpdate: 16 feb 2023, 19:00
     </v-card-text>

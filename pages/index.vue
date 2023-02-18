@@ -1,6 +1,15 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Weerupdate 18 februari 10:00</v-card-title>
+            <v-card-text color="black">Blok 2 gaat definitief door. Voor de stuurlieden en sturende boegen:
+              Let er op dat er een stroeve wind is bij het oproeien. Na de start is er 500m een stroeve zijwind 
+              en net voor en na de kandelaarbrug is ook een stroeve zijwind. Houd hier dus extra rekening mee. 
+              Dat gezegd hebbende neemt de wind snel af na 12 uur. Vergeet niet u warm aan te kleden.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Weerupdate 18 februari 09:00</v-card-title>
             <v-card-text color="black">Het is nog steeds code geel voor blok 2. Voorlopig laten we 
               blok 2 doorgaan. Om half 11 maken we een definitief besluit die we zullen delen op de 
