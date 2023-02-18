@@ -1,6 +1,13 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Blok 3 uitgesteld met 15 minuten</v-card-title>
+            <v-card-text color="black">Blok 3 wordt uitgesteld met 15 minuten. Zowel het vlotten als de 
+              starttijd is met 15 minuten uitgesteld.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Weerupdate 18 februari 10:00</v-card-title>
             <v-card-text color="black">Blok 2 gaat definitief door. Voor de stuurlieden en sturende boegen:
               Let er op dat er een stroeve wind is bij het oproeien. Na de start is er 500m een stroeve zijwind 
