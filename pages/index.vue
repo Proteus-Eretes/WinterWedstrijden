@@ -1,6 +1,13 @@
 <template>
   <div>
     <v-card light>
+            <v-card-title>Weerupdate zondag 19 februari 07:00</v-card-title>
+            <v-card-text color="black">Goedemorgen, vandaag zwakt de wind nog verder af en zal deze draaien 
+              tegen de richting van de baan in. Er zullen enkele kleine buitjes zijn, kleed u daarop warm aan.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Blok 3 uitgesteld met 15 minuten</v-card-title>
             <v-card-text color="black">Blok 3 wordt uitgesteld met 15 minuten. Zowel het vlotten als de 
               starttijd is met 15 minuten uitgesteld.
