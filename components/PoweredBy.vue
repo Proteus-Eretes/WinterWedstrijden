@@ -15,12 +15,12 @@
       Powered by
     </v-card-title>  
     <div class="d-flex flex-wrap flex-sm-nowrap flex-lg-wrap">
-      <v-img src="/pe.png" />
-      <v-img src="/vanoord.png" />
-      <v-img src="/tu-delft.png" />
-      <v-img src="/jupiler.jpg" />
-      <v-img src="/roeigoed.jpeg" />
-      <v-img src="/iris.png" />
+      <v-img class="logos" src="/pe.png" />
+      <v-img class="logos" src="/vanoord.png" />
+      <v-img class="logos" src="/tu-delft.png" />
+      <v-img class="logos" src="/jupiler.jpg" />
+      <v-img class="logos" src="/roeigoed.jpeg" />
+      <v-img class="logos" src="/iris.png" />
     </div>
 
   </v-card>
@@ -33,6 +33,11 @@
 }
 
 .v-image {
+  width: 87.5%;
+  margin: 4px 6.25%;
+}
+
+.logos {
   width: 87.5%;
   margin: 4px 6.25%;
 }
