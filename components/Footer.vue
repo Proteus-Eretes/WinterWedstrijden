@@ -107,7 +107,7 @@
       </div>
       <div class="col-md-4">
         <h3>Georganiseerd door leden van</h3>
-        <v-img src="/pew.png" contain height="50px" />
+        <v-img src="/pew.png" contain height="50px" left/>
       </div>
     </v-row>
   </v-container>
