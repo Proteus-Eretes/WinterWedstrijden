@@ -1,13 +1,6 @@
 <template>
   <div>
     <v-card light>
-            <v-card-title>Weerupdate zondag 19 februari 07:00</v-card-title>
-            <v-card-text color="black">Goedemorgen, vandaag zwakt de wind nog verder af en zal deze draaien 
-              tegen de richting van de baan in. Er zullen enkele kleine buitjes zijn, kleed u daarop warm aan.
-            </v-card-text>
-    </v-card>
-    <br>
-    <v-card light>
             <v-card-title>Blok 3 uitgesteld met 15 minuten</v-card-title>
             <v-card-text color="black">Blok 3 wordt uitgesteld met 15 minuten. Zowel het vlotten als de 
               starttijd is met 15 minuten uitgesteld.
@@ -38,7 +31,7 @@
             <v-card-text color="black">De live video commissie van Proteus-Eretes zorgt er voor 
               dat de Van Oord WinterWedstrijden ook van afstand te volgen zijn. De livestreams 
               zijn te vinden op youtube op het kanaal van roeien.tv.<br>
-              <a href="https://youtube.com/live/IfjjT4QgGgE?feature=share" target="_blank">zaterdag</a><br>
+              <a href="https://youtube.com/live/IfjjT4QgGgE?feature=share" target="_blank">zaterdag</a> <br>
               <a href="https://youtube.com/live/Sv6q4wxzrNo?feature=share" target="_blank">zondag</a>
             </v-card-text>
     </v-card>
