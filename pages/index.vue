@@ -1,32 +1,6 @@
 <template>
   <div>
     <v-card light>
-            <v-card-title>Blok 3 uitgesteld met 15 minuten</v-card-title>
-            <v-card-text color="black">Blok 3 wordt uitgesteld met 15 minuten. Zowel het vlotten als de 
-              starttijd is met 15 minuten uitgesteld.
-            </v-card-text>
-    </v-card>
-    <br>
-    <v-card light>
-            <v-card-title>Weerupdate 18 februari 10:00</v-card-title>
-            <v-card-text color="black">Blok 2 gaat definitief door. Voor de stuurlieden en sturende boegen:
-              Let er op dat er een stroeve wind is bij het oproeien. Na de start is er 500m een stroeve zijwind 
-              en net voor en na de kandelaarbrug is ook een stroeve zijwind. Houd hier dus extra rekening mee. 
-              Dat gezegd hebbende neemt de wind snel af na 12 uur. Vergeet niet u warm aan te kleden.
-            </v-card-text>
-    </v-card>
-    <br>
-    <v-card light>
-            <v-card-title>Weerupdate 18 februari 09:00</v-card-title>
-            <v-card-text color="black">Het is nog steeds code geel voor blok 2. Voorlopig laten we 
-              blok 2 doorgaan. Om half 11 maken we een definitief besluit die we zullen delen op de 
-              instagram, website en WWhatsappservice. De wind zal tijdens het oproeien nog erg sterk 
-              zijn, daarna neemt het af. Denk dus aan warme kleding tijdens het oproeien en houd 
-              rekening met veel wind.
-            </v-card-text>
-    </v-card>
-    <br>
-    <v-card light>
             <v-card-title>Livestream 2023</v-card-title>
             <v-card-text color="black">De live video commissie van Proteus-Eretes zorgt er voor 
               dat de Van Oord WinterWedstrijden ook van afstand te volgen zijn. De livestreams 
@@ -40,39 +14,6 @@
             <v-card-title>Programmaboekje 2023</v-card-title>
             <v-card-text color="black">Dit is het programmaboekje van de 48 Van Oord 
               WinterWedstrijden. <a href="/programmaboekje.pdf" target="_blank">programmaboekje</a>
-            </v-card-text>
-    </v-card>
-    <br>
-    <v-card light>
-            <v-card-title>LET OP Wijziging: Blok 1 wordt verdeeld over blok 2 en 3</v-card-title>
-            <v-card-text color="black">Blok 1 is verdeeld over blok 2 en 3. De lichte velden van
-              blok 1 zijn verplaatst naar blok 2. De zware velden van blok 1 zijn verplaatst naar 
-              blok 3. Dit betekent dat blokken 2 en 3 nieuwe vlottijden hebben. Deze zijn te vinden 
-              op de <a href="/vlottijden.pdf" target="_blank">vlottijden pagina</a>. De nieuwe 
-              startvolgordes van de velden in de desbetreffende blokken is te vinden op de 
-              <a href="/blokken">blokken pagina</a>.
-              <br>
-              <b>Ploegen in blok 1 zullen dus wel starten, maar in blok 2 of blok 3.</b>
-            </v-card-text>
-    </v-card>
-    <br>
-    <v-card light>
-            <v-card-title>Weerupdate 17 februari 14:00 - LET OP: Wijziging</v-card-title>
-            <v-card-text color="black"> Helaas hebben wij moeten besluiten blok 1 niet door te laten gaan. 
-              De wind is dusdanig dat wij het niet verantwoord achten ploegen te laten starten in dit blok.
-              De Wedstrijdleiding is druk bezig met het verdelen van de ploegen van blok 1 over blokken 2 & 3. 
-              We zullen zo snel mogelijk dit uitwerken en verdere berichtgeving online zetten.
-              <br>
-              <b>Ploegen in blok 1 zullen dus wel starten, maar in blok 2 of blok 3.</b>
-            </v-card-text>
-    </v-card>
-    <br>
-    <v-card light>
-            <v-card-title>Weerupdate 16 februari 19:00</v-card-title>
-            <v-card-text color="black">De voorspelde wind op zaterdag in blok 1 en 2 is hoog. 
-              Momenteel blijft het weercode geel. Vrijdag om 14:00 wordt besloten en gepubliceerd 
-              wat er zal gebeuren met de velden in deze blokken. Daarentegen zien we voor zondag 
-              geen problemen in het voorspelde weer.
             </v-card-text>
     </v-card>
     <br>
