@@ -8,8 +8,8 @@
           om mee te fietsen langs de baan. De fietsen zijn te huur per blok of voor
           een hele dag voor de volgende prijs:
           <ul>
-            <li>€4,50 voor een blok</li>
-            <li>€10 voor de hele dag</li>
+            <li>€5,00 voor een blok</li>
+            <li>€11,00 voor de hele dag</li>
           </ul>
           <b>
             Let op dat er alleen gepind kan worden.
