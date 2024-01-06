@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-card flat light>
-      <v-card-title> Bepalingen 48ste Van Oord WinterWedstrijden 2023 </v-card-title>
+      <v-card-title> Bepalingen 49ste Van Oord WinterWedstrijden 2024 </v-card-title>
       <v-card-text>
         <b>Inschrijvingsbepalingen</b>
         <ol>
@@ -10,8 +10,7 @@
             bedrijfsachten.
           </li>
           <li>
-            Wedstrijdleiding: Ashraf Morra en Koen Baggus, tel: +31 15
-            2623720. <br />E-mail:
+            Wedstrijdleiding: Koen Baggus & Floor Battjes, tel: +31 6 41 54 24 16 & +31 6 46 91 33 48. <br />E-mail:
             wedstrijdleiding.winterwedstrijden@proteus-eretes.nl <br />Hoofd van
             de jury: Mathijs Louter
           </li>
