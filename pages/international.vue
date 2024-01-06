@@ -7,13 +7,13 @@
       <h1>General Information</h1>
       <h2>Entries</h2>
       <p>
-        On the 18th and 19th of February 2023 the 48th Van Oord
+        On the 17th and 18th of February 2024 the 49th Van Oord
         WinterWedstrijden Regatta will take place on the river Schie between
         Rotterdam and Delft, The Netherlands. This is the first regatta of the
         national rowing season and we would be very happy to receive
         participating teams from all over the world. Entries for international
-        crews will be open from the 9th of January until the 13th February
-        2023.
+        crews will be open from the 29th of January until the 12th February
+        2024.
       </p>
       <p>
         To participate, send an email to
@@ -49,9 +49,9 @@
       </p>
       <h2>Registration Fees</h2>
       <ul>
-        <li>€120,- for an 8+.</li>
-        <li>€78,- for a 4x and 4+.</li>
-        <li>€62,- for a 2x and 2-.</li>
+        <li>€137,- for an 8+.</li>
+        <li>€98,- for a 4x and 4+.</li>
+        <li>€64,- for a 2x and 2-.</li>
         <li>€36,- for a 1x.</li>
       </ul>
       <h2>Boat Rental</h2>
@@ -108,7 +108,7 @@
         </ol>
       </p>
       <h1>Time Schedule</h1>
-      <h2>Saturday February 18th 2023</h2>
+      <h2>Saturday February 17th 2024</h2>
       <v-simple-table>
         <thead>
           <tr>
@@ -128,24 +128,19 @@
             <td>Shift 1</td>
             <td>10:00 - 12:00</td>
             <td>
-              LM 2x, LW 1x
+              LM 1x, W 2x
             </td>
           </tr>
           <tr>
             <td>Shift 2</td>
             <td>13:00 - 15:00</td>
             <td>
-              M 2x, M 2-, W 1x
+              M 1x, W 2-
             </td>
-          </tr>
-          <tr>
-            <td>Shift 3</td>
-            <td>16:00 - 18:00</td>
-            <td>M 8+, LM 8+, W 4+</td>
           </tr>
         </tbody>
       </v-simple-table>
-      <h2>Sunday February 19th 2023</h2>
+      <h2>Sunday February 18th 2024</h2>
       <v-simple-table>
         <thead>
           <tr>
@@ -165,20 +160,20 @@
             <td>Shift 4</td>
             <td>10:00 - 12:00</td>
             <td>
-              W 2x, LM 1x
+              LW 1x, LM 2x, W 4+
             </td>
           </tr>
           <tr>
             <td>Shift 5</td>
             <td>13:00 - 15:00</td>
             <td>
-              LW 2x, W 2-, M 1x
+              W 1x, M 2-, M 2x
             </td>
           </tr>
           <tr>
             <td>Shift 6</td>
             <td>16:00 - 18:00</td>
-            <td>W 8+, M 4+</td>
+            <td>M 4+, W 4*, M 8+, W 8+</td>
           </tr>
         </tbody>
       </v-simple-table>
