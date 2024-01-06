@@ -3,9 +3,9 @@
     <v-card-title>
       Blokschema
     </v-card-title>
-    <v-card-text> Laatst aangepast: 17-02-2023</v-card-text>
+    <v-card-text> Laatst aangepast: 06-01-2024</v-card-text>
     <v-card-text>
-      Zaterdag 18 februari 2023
+      Zaterdag 17 februari 2024
     </v-card-text>
     <v-simple-table>
       <thead>
@@ -23,31 +23,30 @@
       </thead>
       <tbody>
         <tr>
+          <td>Blok 1</td>
+          <td>10:00 - 12:00</td>
+          <td>
+            LHEj 8+, HEj 8+, LHEj 4+, DEj 4+, DE 2x, DG 2x, DB 2x, LHSB 1x, LHE 1x, LHG 1x, LHB 1x
+          </td>
+        </tr>
+        <tr>
           <td>Blok 2</td>
           <td>13:00 - 15:00</td>
           <td>
-            LHEj 8+, DEj 8+, HG 2x, HE 2-, HG 2-, HB 2x, LHB 2x, LHEj 4+, LDEj 4*,  DE 1x, 
-            DSB 1x, LDE 1x, LDSB 1x, DG 1x, DB 1x, LDG 1x, LDB 1x
+            DEj 8+, LDEj 4*, HEj 4+, LDE 2x, LDG 2x, LDB 2x, DE 2-, DG 2-, HSB 1x, HE 1x, HG 1x, HB 1x
           </td>
         </tr>
         <tr>
           <td>Blok 3 3k</td>
           <td>16:00 - 17:45</td>
           <td>
-            MixBedr 8+, M18 2x, M16 2x, J18 1x, J16 1x
-          </td>
-        </tr>
-        <tr>
-          <td>Blok 3 5k</td>
-          <td>16:30 - 18:00</td>
-          <td>
-            HE 8+, HEj 8+, HEj 4+, DG 4+, DEj 4+
+            MixBedr 8+, J18 4*, J16 4*, M18 4*, M16 4*, J18 2x, J16 2x, M18 2x, M16 2x, J18 1x, J16 1x, M18 1x, M16 1x
           </td>
         </tr>
       </tbody>
     </v-simple-table>
     <v-card-text>
-      Zondag 19 februari 2023
+      Zondag 18 februari 2024
     </v-card-text>
     <v-simple-table>
       <thead>
@@ -68,28 +67,21 @@
           <td>Blok 4</td>
           <td>10:00 - 12:00</td>
           <td>
-            HB 8+, LHB 8+, LHE 1x, LHSB 1x, LHG 1x, LHB 1x, DG 2x, DB 2x, DB 4+, 
+            LHE 8+, LHB 8+, HB 8+, DB 8+, LHB 4+, DE 4+, DG 4+, DB 4+, LHG 4+, LHE 2x, LHG 2x, LHB 2x, LDSB 1x, LDE 1x, LDG 1x, LDB 1x 
           </td>
         </tr>
         <tr>
           <td>Blok 5</td>
           <td>13:00 - 15:00</td>
           <td>
-            HE 1x, HSB 1x, HG 1x, HB 1x, HMD 1x, LDG 2x, LDB 2x, LDB 4*, DG 2-, 
-            HM 4*, DM 4*
+            DM 4*, LDB 4*, HM 4*, HE 2x, HG 2x, HB 2x, LHG 2-, HE 2-, HG 2-, DSB 1x, DE 1x, DG 1x, DB 1x 
           </td>
         </tr>
         <tr>
-          <td>Blok 6 3k</td>
+          <td>Blok 6 </td>
           <td>16:00 - 17:45</td>
-          <td>J16 2x, M18 1x, M16 1x, J16 4*</td>
-        </tr>
-        <tr>
-          <td>Blok 6 5k</td>
-          <td>16:30 - 18:00</td>
-          <td>
-            DE 8+, DB 8+, HE 4+, HG 4+, HB 4+, HM 8+, MixM 4*, HM 2x, DM
-            2x
+          <td>HE 8+, DE 8+, DE 4*, HE 4+, HG 4+, HB 4+, HM 8+, DM 8+, MixM 4*, HM 2x, DM 2x, HM 1x, DM 1x
+
           </td>
         </tr>
       </tbody>
