@@ -15,20 +15,20 @@
             de jury: Mathijs Louter
           </li>
           <li>
-            Inschrijvingen: tot maandag 13 februari 2023, 20:00 uur via het KNRB
+            Inschrijvingen: tot maandag 12 februari 2024, 20:00 uur via het KNRB
             inschrijfprogramma.
           </li>
           <li>
-            Wijzigingen: tot vrijdag 17 februari 2023, 20:00 via het KNRB
+            Wijzigingen: tot vrijdag 16 februari 2024, 20:00 via het KNRB
             inschrijfprogramma.
           </li>
           <li>
-            Inschrijfgelden: <br />Senior: skiff €36,00; twee €62,00; vier
-            €78,00; acht €120,00. <br />Junior: skiff €25,00; twee €51,00; vier
-            €64,00. <br />Bedrijfsacht €180,00.
+            Inschrijfgelden: <br />Senior: skiff €36,00; twee €64,00; vier
+            €98,00; acht €137,00. <br />Junior: skiff €25,00; twee €51,00; vier
+            €70,00. <br />Bedrijfsacht €225,00.
           </li>
           <li>
-            Het inschrijfgeld dient donderdag 16 februari 2023 voor 17:00 uur op
+            Het inschrijfgeld dient donderdag 15 februari 2024 voor 17:00 uur op
             bankrekening te staan, met nummer NL44 RABO 0103 4052 40 t.n.v.
             D.S.R. Proteus-Eretes inz. WinterWedstrijden te Delft o.v.v.
             verenigingsnaam. Mocht hieraan niet zijn voldaan, dan moet het
@@ -36,17 +36,17 @@
             eerste ploeg van het weekend, per pinpas worden voldaan.
           </li>
           <li>
-            Loting: woensdag 15 februari 2023, 20:00 uur, D.S.R. Proteus-Eretes,
+            Loting: woensdag 14 februari 2024, 20:00 uur, D.S.R. Proteus-Eretes,
             Rotterdamseweg 362a Delft, telefoon: +31 15 2623720.
           </li>
           <li>
-            Op zaterdag wordt er gestart in vier blokken: om 10:00, 13:00,
-            16:00 uur (junioren en bedrijfsachten) en 16:30 uur. Op zondag wordt er gestart in vier blokken: 10:00, 13:00,
-            16:00 uur (junioren) en 16:30 uur.
+            Op zaterdag wordt er gestart in drie blokken: om 10:00, 13:00,
+            16:00 uur (junioren en bedrijfsachten). Op zondag wordt er gestart in drie blokken: 10:00, 13:00,
+            16:00 uur.
           </li>
           <li>
             Wedstrijdnummers met minder dan 3 inschrijvingen worden niet
-            verroeid. Uitzondering zijn juniorenvelden en veteranenvelden,
+            verroeid. Uitzondering zijn juniorenvelden en mastervelden,
             hiervoor zijn 2 inschrijvingen nodig. Wedstrijdnummers met
             respectievelijk minder dan 3 of 2 inschrijvingen, zullen indien
             mogelijk worden samengevoegd met andere velden van hogere categorie.
@@ -62,69 +62,11 @@
       </v-card-text>
     </v-card>
     
-    <br>
-    
-    <v-card flat light>
-      <v-card-title> Bepalingen Van Oord Bokaal 2023 </v-card-title>
-      <v-card-text>
-        De Van Oord Bokaal is speciaal opgezet voor alle eerstejaarsploegen 
-        en hun verenigingen. De vereniging met gemiddeld de beste eerstejaarsboten 
-        mag zichzelf de winnaar van de Van Oord Bokaal noemen.
-        <br><br>
-        <b>Bepalingen Van Oord Bokaal</b>
-        <ol>
-          <li>
-            Velden die meedoen aan de van Oord bokaal zijn:
-            <ul>
-              <li>HEj 8+</li>
-              <li>LHEj 8+</li>
-              <li>DEj 8+</li>
-              <li>LDEj 4*</li>
-              <li>LHEj 4*</li>
-              <li>HEj 4+</li>
-              <li>DEj 4+</li>
-            </ul>
-          </li>
-          <li>
-            Voor de velden geldt:
-            <ul>
-              <li>Puntentelling: de beste acht ploegen die deelnemen aan het 
-                desbetreffende veld krijgen respectievelijk 10, 8, 6, 5, 4, 3, 2, 1 punt(en).</li>
-              <li>Resultaten van combinatieploegen worden niet meegenomen in de puntentelling.</li>
-              <li>Wanneer een vereniging met meerdere ploegen meedoet in een veld, 
-                tellen alle resultaten van die ploegen mee in de puntentelling.</li>
-            </ul>
-          </li>
-          <li>
-            Procedure bepaling winnaar:
-            <ul>
-              <li>De punten verdiend door de boten in de in de desbetreffende velden 
-                worden per vereniging opgeteld.</li>
-              <li>Een vereniging moet minstens 2 boten ingeschreven hebben in deelnemende 
-                velden om de Van Oord Bokaal te kunnen winnen.</li>
-              <li>Het totaal aantal punten per vereniging wordt gedeeld door het aantal 
-                deelnemende eerstejaarsploegen van de vereniging.</li>
-              <li>Bijvoorbeeld: vereniging doet met: 2 ploegen in het HEj8+ veld, 1 ploeg 
-                in het DEj 8+ veld en 1 ploeg in het LDEj 4* veld mee, dan wordt het 
-                totaal aantal punten van deze vereniging gedeeld door 4.</li>
-              <li>De vereniging met het hoogste aantal punten, na optelling en deling, 
-                wint de Van Oord Bokaal. Bij gelijk aantal punten wint de vereniging die 
-                het meeste aantal keren 10 punten heeft gescoord. Als dat ook geen winnaar oplevert, 
-                wint de vereniging die het meeste aantal keren 8 punten heeft gescoord. Enzovoorts.</li>
-            </ul>
-          </li>
-          <li>
-            De prijsuitreiking vindt plaats na de prijsuitreiking van het laatste blok op zaterdag, 
-            op Lijm & Cultuur door Van Oord.
-          </li>
-        </ol>
-      </v-card-text>
-    </v-card>
     
     <br>
 
     <v-card flat light>
-      <v-card-title> Reglementen 48ste Van Oord WinterWedstrijden 2023 </v-card-title>
+      <v-card-title> Reglementen 49ste Van Oord WinterWedstrijden 2024 </v-card-title>
       <v-card-text>
         <ol>
           <li>
@@ -355,15 +297,15 @@
               junioren, deze zullen een afstand van 3000 meter roeien.
             </li>
             <li>
-              Op zaterdag wordt er gestart in vier blokken:
+              Op zaterdag wordt er gestart in drie blokken:
               <ul>
-                <li>10:00, 13:00, 16:00 uur en 16:30 uur.</li>
+                <li>10:00, 13:00, 16:00 uur.</li>
               </ul>
             </li>
             <li>
-              Op zondag wordt er gestart in vier blokken:
+              Op zondag wordt er gestart in drie blokken:
               <ul>
-                <li>10:00, 13:00, 16:00 uur en 16:30 uur.</li>
+                <li>10:00, 13:00, 16:00 uur.</li>
               </ul>
             </li>
           </ul>
