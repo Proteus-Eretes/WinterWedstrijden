@@ -26,21 +26,21 @@
           <td>Blok 1</td>
           <td>10:00 - 12:00</td>
           <td>
-            LHEj 8+, HEj 8+, LHEj 4+, DEj 4+, DE 2x, DG 2x, DB 2x, LHSB 1x, LHE 1x, LHG 1x, LHB 1x
+            LHEj 8+, LHEj 4+, DEj 4+, DE 2x, DG 2x, DB 2x, LHE 1x, LHSB 1x, LHG 1x, LHB 1x
           </td>
         </tr>
         <tr>
           <td>Blok 2</td>
           <td>13:00 - 15:00</td>
           <td>
-            DEj 8+, LDEj 4*, HEj 4+, LDE 2x, LDG 2x, LDB 2x, DE 2-, DG 2-, HSB 1x, HE 1x, HG 1x, HB 1x
+            DEj 8+, LDEj 4*, LDE 2x, LDG 2x, LDB 2x, HSB 1x, HE 1x, HG 1x, HB 1x
           </td>
         </tr>
         <tr>
-          <td>Blok 3 3k</td>
+          <td>Blok 3</td>
           <td>16:00 - 17:45</td>
           <td>
-            MixBedr 8+, J18 4*, J16 4*, M18 4*, M16 4*, J18 2x, J16 2x, M18 2x, M16 2x, J18 1x, J16 1x, M18 1x, M16 1x
+            HEj 8+, HEj 4+, MixBedr 8+, M18 4*, M16 4*, J18 2x, J18Ej 2x, J16 2x, J16Ej 2x, DE 2-, DG 2-, M18 1x, M16 1x
           </td>
         </tr>
       </tbody>
@@ -67,20 +67,20 @@
           <td>Blok 4</td>
           <td>10:00 - 12:00</td>
           <td>
-            LHE 8+, LHB 8+, HB 8+, DB 8+, LHB 4+, DE 4+, DG 4+, DB 4+, LHG 4+, LHE 2x, LHG 2x, LHB 2x, LDSB 1x, LDE 1x, LDG 1x, LDB 1x 
+            LHE 8+, HB 8+, LHB 8+, DB 8+, DE 4+, DG 4+, DB 4+, J18 4*, J16 4*, LHE 2x, LHG 2x, LHB 2x, M18 2x, M18Ej 2x, M16 2x, M16Ej 2x, LDE 1x, LDSB 1x, LDG 1x, LDB 1x
           </td>
         </tr>
         <tr>
           <td>Blok 5</td>
           <td>13:00 - 15:00</td>
           <td>
-            DM 4*, LDB 4*, HM 4*, HE 2x, HG 2x, HB 2x, LHG 2-, HE 2-, HG 2-, DSB 1x, DE 1x, DG 1x, DB 1x 
+            LHG 4+, LHB 4+, LDB 4*, HE 2x, HG 2x, HB 2x, HE 2-, HG 2-, LHG 2-, DE 1x, DSB 1x, DG 1x, DB 1x, J18 1x, J16 1x
           </td>
         </tr>
         <tr>
           <td>Blok 6 </td>
           <td>16:00 - 17:45</td>
-          <td>HE 8+, DE 8+, DE 4*, HE 4+, HG 4+, HB 4+, HM 8+, DM 8+, MixM 4*, HM 2x, DM 2x, HM 1x, DM 1x
+          <td> HE 8+, DE 8+, HE 4+, HG 4+, DE 4*, OM 8+, HB 4+, OM 4*, OM 4+, OM 2x, OM 1x
 
           </td>
         </tr>
