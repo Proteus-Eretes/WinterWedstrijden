@@ -3,7 +3,7 @@
     <v-card-title>
       Blokschema
     </v-card-title>
-    <v-card-text> Laatst aangepast: 06-01-2024</v-card-text>
+    <v-card-text> Laatst aangepast: 14-01-2024</v-card-text>
     <v-card-text>
       Zaterdag 17 februari 2024
     </v-card-text>
