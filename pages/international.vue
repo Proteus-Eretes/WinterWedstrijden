@@ -183,9 +183,9 @@
         The following presentation will give you information on the rules that
         apply during the Van Oord Winterwedstrijden regatta.
       </p>
-      <br>
       After watching the video, each Coxswain must take a test. The test can be found under the following link:
       <a href="https://forms.gle/FyjKMP88hbLUQby88" target="_blank">Coxswains Instructions test</a>.
+      <br>
       <br>
       <ul>
         <li>
