@@ -11,7 +11,7 @@
             <li>Vliegende start</li>
         </ul>
         <img src="/baankaart5k.png" class="baankaart" />
-      </v-card-text>
+
 
   
   <style scoped>
