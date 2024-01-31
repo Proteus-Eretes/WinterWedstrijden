@@ -192,6 +192,13 @@
           The overtaking Instructions will emphasise several situations on how
           to pass each other obeying the rules.
         </li>
+        <br>
+        <div class="video">
+      
+      <iframe width="640px" height="360px" src="https://www.youtube.com/embed/gRGdONyEcO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    </div>
+    <br>
       </ul>
       <h2>Coxswain weighing</h2>
       <ul>
@@ -275,5 +282,19 @@ h3 {
   display: block;
   max-width: 460px;
   margin: 0 auto;
+}
+</style>
+
+<style scoped>
+/* Video */
+.video {
+  width: 100%;
+  max-width: 90vw;
+  display: flex;
+  justify-content: center;
+}
+
+.video iframe {
+  width: 640px !important;
 }
 </style>
