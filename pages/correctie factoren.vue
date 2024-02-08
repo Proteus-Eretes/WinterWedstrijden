@@ -12,7 +12,6 @@
           <br/>
           <b>Bedrijfsroeiveld</b>
           <br>
-          <br/>
           Voor de tijden bedrijfsroeiveld zullen de klassement correctiefactoren worden toegepast: 
           “ Voor elke roeiende vrouw aan boord van de 8+ wordt de eindtijd per wedstrijd met 1,25% verminderd.” 
           <br>
@@ -25,17 +24,13 @@
           Voorbeeld:
           <br>
           <pre>
-            Roeier		Leeftijd		correctie factor
-            M		    44		        0,967
-            M		    38		        0,982
-            V		    52		        0,849
-            V		    36		        0,885
-            Bootgemiddelde correctie factor:  0,9208
+Roeier		Leeftijd		correctie factor
+ M		    44		        0,967
+ M		    38		        0,982
+ V		    52		        0,849
+ V		    36		        0,885
+Bootgemiddelde correctie factor:  0,9208
           </pre>
-
-
-
-
         </v-card-text>
     </v-card>
   </div>
@@ -48,6 +43,9 @@
   top: -12px;
   left: -12px;
 }
+        pre {
+            font-family: inherit; 
+        }
 
 .snel_naar_knop {
   width: 87.5%;
