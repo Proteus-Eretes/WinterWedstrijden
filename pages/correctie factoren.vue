@@ -17,20 +17,20 @@
           <br>
           <br/>
           <b>Mastervelden</b>
-          <br>
           De correctie factoren zullen worden overgenomen van de KNRB <a href="https://knrb.nl/artikel/correctiefactoren/" target="_blank">(https://knrb.nl/artikel/correctiefactoren/)</a>. Hierbij zullen we een persoonlijke correctiefactor bepalen waarna een bootgemiddelde van de correctie factoren wordt geconstateerd.
           <br>
-          <br/>
           Voorbeeld:
           <br>
           <pre>
 Roeier		Leeftijd		correctie factor
- M		    44		        0,967
- M		    38		        0,982
- V		    52		        0,849
- V		    36		        0,885
+M		    44		        0,967
+M		    38		        0,982
+V		    52		        0,849
+V		    36		        0,885
 Bootgemiddelde correctie factor:  0,9208
           </pre>
+
+
         </v-card-text>
     </v-card>
   </div>
@@ -43,7 +43,8 @@ Bootgemiddelde correctie factor:  0,9208
   top: -12px;
   left: -12px;
 }
-        pre {
+
+pre {
             font-family: inherit; 
         }
 
