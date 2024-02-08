@@ -17,6 +17,7 @@
           <br>
           <br/>
           <b>Mastervelden</b>
+          <br>
           De correctie factoren zullen worden overgenomen van de KNRB <a href="https://knrb.nl/artikel/correctiefactoren/" target="_blank">(https://knrb.nl/artikel/correctiefactoren/)</a>. Hierbij zullen we een persoonlijke correctiefactor bepalen waarna een bootgemiddelde van de correctie factoren wordt geconstateerd.
           <br>
           Voorbeeld:
