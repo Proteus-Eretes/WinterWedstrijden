@@ -226,7 +226,7 @@
               </ul>
             </li>
             <li>
-              De jury kanl bij het niet naleven van deze bepalingen besluiten omtrent de toe te passen disciplinaire maatregelen, zoals omschreven in artikel 75 RvR.
+              De jury kan bij het niet naleven van deze bepalingen besluiten omtrent de toe te passen disciplinaire maatregelen, zoals omschreven in artikel 75 RvR.
             </li>
           </ul>
           <br />
