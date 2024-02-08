@@ -6,8 +6,7 @@
         <b>Inschrijvingsbepalingen</b>
         <ol>
           <li>
-            Tijdrace over 5 km voor alle velden en 3 km voor junioren en
-            bedrijfsachten.
+            Tijdrace over 5 km voor alle velden.
           </li>
           <li>
             Wedstrijdleiding: Koen Baggus & Floor Battjes, tel: +31 6 41 54 24 16 & +31 6 46 91 33 48. <br />E-mail:
@@ -41,7 +40,6 @@
           </li>
           <li>
             Op zaterdag wordt er gestart in drie blokken: om 10:00, 13:00,
-            16:00 uur (junioren en bedrijfsachten). Op zondag wordt er gestart in drie blokken: 10:00, 13:00,
             16:00 uur.
           </li>
           <li>
@@ -72,6 +70,8 @@
           <li>
             <b>Algemeen</b>
             <ul>
+              <li>De wedstrijden worden verroeid als tijdwedstrijd zoals bedoeld in het Reglement voor Roeiwedstrijden van de KNRB (RvR) Artikel 29, met inachtneming van de hierna volgende bijzondere bepalingen.
+              </li>
               <li>
                 In het tijdschema staat exact vermeld hoe laat men waar moet
                 zijn voor elke gebeurtenis. Het is van het grootste belang dat
@@ -102,9 +102,8 @@
                   </li>
                   <li>De startvolgorde wordt door loting bepaald.</li>
                   <li>
-                    Er is een vliegende start. De voorstart bevindt zich 100
-                    meter voor de startlijn en is gemarkeerd door een witte
-                    vlag. De start is gemarkeerd door een rode vlag.
+                    Er wordt gestart conform artikel 52 RvR . 
+                    De voorstart bevindt zich 100 meter voor de startlijn en is gemarkeerd door een witte vlag. De start is gemarkeerd door een rode vlag.
                   </li>
                   <li>
                     Het startinterval tussen ploegen van hetzelfde
@@ -115,9 +114,7 @@
                     startgebied stipt op te volgen.
                   </li>
                   <li>
-                    De jury kan bij het niet opvolgen van aanwijzingen
-                    disciplinaire maatregelen toepassen, zoals omschreven
-                    in sectie 13.
+                    De jury kan bij het niet opvolgen van aanwijzingen disciplinaire maatregelen toepassen, zoals omschreven in artikel 56 RVR .
                   </li>
                 </ul>
               </li>
@@ -128,29 +125,16 @@
                   elke ploeg een tijd om te water te gaan.
                 </li>
                 <li>
-                  Alle ploegen dienen op een voor hen voorgeschreven tijdstip
-                  gereed te zijn om het water op te gaan. Dit tijdstip is
-                  afhankelijk van het veld waarin geroeid wordt en de
-                  lotingsvolgorde. De sluitingstijd van de vlotten verschilt per
-                  veld. Ploegen die na hun vlottijd pas gereed zijn om het water
-                  op te gaan kunnen alleen nog te water gaan indien de
-                  omstandigheden dit toelaten. De controlecommissie zal bij het
-                  missen van de vlottijd besluiten omtrent de toe te passen
-                  disciplinaire maatregelen, zoals omschreven in sectie 13.
+                  Alle ploegen dienen op een voor hen voorgeschreven tijdstip gereed te zijn om het water op te gaan. Dit tijdstip is afhankelijk van het veld waarin geroeid wordt en de lotingsvolgorde. De sluitingstijd van de vlotten verschilt per veld. Ploegen die na hun vlottijd pas gereed zijn, kunnen enkel het water op gaan indien de omstandigheden dit toelaten. 
                 </li>
                 <li>
-                  Elke ploeg dient uiterlijk 25 minuten voor de starttijd van
-                  het betreffende blok ten minste 2 km (ter hoogte van een wit
-                  bruggetje en gemaal) opgeroeid te zijn in de richting van
-                  Rotterdam. Ploegen die na deze tijd dit punt passeren, dienen
-                  terug te keren richting Delft.
+                  De controlecommissie kan bij het missen van de vlottijd besluiten omtrent de toe te passen disciplinaire maatregelen, zoals omschreven in artikel 75 RvR.
                 </li>
                 <li>
-                  Alle ploegen dienen zich uiterlijk 10 minuten vóór de eerste
-                  start van een blok achter de startlijn te bevinden. De jury
-                  zal bij het missen van dit tijdslot besluiten omtrent de toe
-                  te passen disciplinaire maatregelen, zoals omschreven in
-                  sectie 13.
+                  Elke ploeg dient uiterlijk 25 minuten voor de starttijd van het betreffende blok ten minste 2 km (ter hoogte van een wit bruggetje en gemaal) opgeroeid te zijn in de richting van Rotterdam. Ploegen die na deze tijd dit punt passeren, dienen terug te keren richting Delft.
+                </li>
+                <li>
+                  Alle ploegen dienen zich uiterlijk 10 minuten vóór de eerste start van een blok achter de startlijn te bevinden. De jury kan bij het missen van dit tijdslot besluiten omtrent de toe te passen disciplinaire maatregelen, zoals omschreven in artikel 75 RvR.
                 </li>
                 <li>
                   Tijdens het oproeien is het verboden om op de wedstrijdbaan in
@@ -171,29 +155,18 @@
               (www.winterwedstrijden.nl) te vinden.
             </li>
             <li>
-              lle stuurlieden en sturende roeiers dienen de vragenlijst in te
+              Alle stuurlieden en sturende roeiers dienen de vragenlijst in te
               vullen ter controle.
             </li>
             <li>
-              Nalatigheid die het gevolg is van het niet op de hoogte zijn van
-              de instructies uit de stuurinstructie kan worden bestraft. De jury
-              zal bij nalatigheid besluiten omtrent de toe te passen
-              disciplinaire maatregelen, zoals omschreven in sectie 13.
+              Nalatigheid die het gevolg is van het niet op de hoogte zijn van de instructies uit de stuurinstructie kan worden bestraft. De jury kan bij nalatigheid besluiten omtrent de toe te passen disciplinaire maatregelen, zoals omschreven in artikel 75 RvR.
             </li>
           </ul>
           <br />
           <li><b>Rugnummers en boegbord</b></li>
           <ul>
             <li>
-              Iedere ploeg is verantwoordelijk voor zijn eigen herkenbaarheid.
-              Naast het verenigingsspecifieke tenue en bladen worden daarvoor
-              drie rugnummers en een boegnummer verstrekt.
-              De rug- en boegnummers zijn te verkrijgen bij de inschrijfbalie 2
-              tot 1 uur voor aanvang van elk blok. Alle rug- en boegnummers dienen
-              voor 18:00 uur op de gestarte dag ingeleverd te worden. Voor het niet
-              of te laat inleveren van de rugnummers en of boegnummers wordt maximaal
-              €20,- (rugnummers €10,- en boegnummer €10,-) in rekening gebracht bij
-              de desbetreffende vereninging.
+              Iedere ploeg is verantwoordelijk voor zijn eigen herkenbaarheid. Naast het verenigingsspecifieke tenue en bladen worden daarvoor drie rugnummers en een boegnummer. De rug- en boegnummers zijn te verkrijgen bij de inschrijfbalie 2 tot 1 uur voor aanvang van elk blok. Alle rug- en boegnummers dienen voor 18:00 uur op de gestarte dag ingeleverd te worden. Voor het niet of te laat inleveren van de rugnummers en/of boegnummer wordt maximaal EUR 20,- (rugnummers EUR 10,- en boegnummer EUR 10,-) in rekening gebracht bij de desbetreffende vereniging.
             </li>
             <li>
               De rugnummers moeten duidelijk zichtbaar op de rug van de
@@ -252,6 +225,9 @@
                 </li>
               </ul>
             </li>
+            <li>
+              De jury kanl bij het niet naleven van deze bepalingen besluiten omtrent de toe te passen disciplinaire maatregelen, zoals omschreven in artikel 75 RvR.
+            </li>
           </ul>
           <br />
           <li><b>Protesten, aanvaringen en materiaalpech</b></li>
@@ -282,19 +258,14 @@
               maximaal 45 min voor de eerste start van het aanstaande blok.
             </li>
             <li>
-              Aanvaring dient ten alle tijden te worden voorkomen. De jury zal
-              bij een aanvaring besluiten omtrent de toe te passen disciplinaire
-              maatregelen, zoals omschreven in sectie 13 voor de ploeg waaraan
-              de aanvaring te wijten is.
+              Aanvaring dient ten alle tijden te worden voorkomen. De jury zal bij een aanvaring besluiten omtrent de toe te passen disciplinaire maatregelen, zoals omschreven in artikel 75 RvR. voor de ploeg waaraan de aanvaring te wijten is.
             </li>
           </ul>
           <br />
           <li><b>De wedstrijdbaan en -tijden</b></li>
           <ul>
             <li>
-              Er wordt geroeid op de Schie van Overschie naar Delft over een
-              afstand van 5000 meter voor alle velden, m.u.v. bedrijfsachten en
-              junioren, deze zullen een afstand van 3000 meter roeien.
+              Er wordt geroeid op de Schie van Overschie naar Delft over een afstand van 5000 meter voor alle velden.
             </li>
             <li>
               Op zaterdag wordt er gestart in drie blokken:
@@ -317,7 +288,7 @@
               aflegt. Deze tijd wordt voor iedere ploeg in tienden van seconden
               nauwkeurig apart genomen
             </li>
-            <li>De winnaar is de ploeg met de snelste tijd.</li>
+            <li>De winnaar is de ploeg met de snelste tijd. Behalve bij master- en berdijfsroeivelden, bij deze velden wordt een correctie factor toegepast, deze is gepubliceerd op de website www.winterwedstrijden.nl. </li>
             <li>
               Bij tijdsverschillen kleiner dan 0,2 seconden, is er sprake van
               een ex aequo.
@@ -342,10 +313,7 @@
                   tot 1 uur voor de aanvang van het blok wegen.
                 </li>
                 <li>
-                  De weging verloopt volgens de regels zoals beschreven artikel
-                  39 van het RvR. Er moet op normaal gewicht (dus geen
-                  wintergewicht) worden ingewogen zoals wordt beschreven in
-                  artikel 5 lid 1 & 2 van het RvR.
+                  De weging verloopt volgens de regels zoals beschreven artikel 41 van het RvR. Er is geen sprake van wintergewicht op deze wedstrijd, ploegen worden ingewogen indien deze voldoen aan respectievelijk artikel 5 lid 1,2 RvR.
                 </li>
                 <li>
                   Voor ploegen die in het Beginner- of Eerstejaarsveld uitkomen,
@@ -393,12 +361,18 @@
               stremming voor alle scheepvaart:
               <ul>
                 <li>
-                  Zaterdag: tussen 10:00 uur en 12:00 uur, tussen 13:00 uur en
-                  15:30 uur en tussen 15:45 uur en 18:00 uur.
+                  Zaterdag: 
+                  <br>
+                  tussen 10:00 uur en 12:00 uur
+                  <br>
+                  tussen 13:00 uur en 18:00 uur
                 </li>
                 <li>
-                  Zondag: tussen 10:00 uur en 12:00 uur, tussen 13:00 uur en
-                  15:00 uur en tussen 15:45 uur en 18:00 uur.
+                  Zondag: 
+                  <br>
+                  tussen 10:00 uur en 12:00 uur
+                  <br>
+                  tussen 13:00 uur en 18:00 uur
                 </li>
               </ul>
             </li>
@@ -423,9 +397,7 @@
               opgevolgd.
             </li>
             <li>
-              De controlecommissie zal bij het niet nakomen hiervan (of niet
-              snel genoeg) besluiten omtrent de toe te passen disciplinaire
-              maatregelen, zoals omschreven in sectie 13.
+              De controlecommissie kan bij het niet nakomen hiervan (of niet snel genoeg) besluiten omtrent de toe te passen disciplinaire maatregelen, zoals omschreven in artikel 75 RvR.
             </li>
           </ul>
           <br />
