@@ -6,6 +6,7 @@
         <v-btn to="/" text width="100%" class="drawer--item">Nieuws</v-btn>
         <v-btn to="/blokken" text width="100%" class="drawer--item">Blokken</v-btn>
         <v-btn to="/bepalingen" text width="100%" class="drawer--item">Bepalingen</v-btn>
+        <v-btn to="/correctie factoren" text width="100%" class="drawer--item">Correctie factoren</v-btn>
         <v-btn to="/baan" text width="100%" class="drawer--item">Baankaart</v-btn>
         <v-btn to="/plattegrond" text width="100%" class="drawer--item">Plattegrond</v-btn>
         <v-btn to="/stuurlieden" text width="100%" class="drawer--item">Stuurlieden</v-btn>
