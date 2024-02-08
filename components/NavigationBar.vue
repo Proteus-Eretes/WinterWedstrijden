@@ -75,6 +75,9 @@
               <v-btn to="/bepalingen" flat text>Bepalingen</v-btn>
             </v-list-item>
             <v-list-item>
+              <v-btn to="/correctie factoren" flat text>Correctie factoren</v-btn>
+            </v-list-item>
+            <v-list-item>
               <v-btn to="/baan" flat text>Baankaart</v-btn>
             </v-list-item>
             <v-list-item>
