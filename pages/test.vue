@@ -4,14 +4,16 @@
             <v-card-title>Wijzigingen blokschema</v-card-title>
             <v-card-text color="black"> LET OP! De blokindeling is gewijzigd, dus controleer of er voor jou of jouw roeiers iets is veranderd. 
               <br>
-              Na overleg met de KNRB is besloten dat de junioren ook zullen deelnemen aan de 5k-wedstrijd. Dit besluit is genomen vanwege het dubbel starten en het gezamenlijk gebruik van boten.</v-card-text>
+              Na overleg met de KNRB is besloten dat de junioren ook zullen deelnemen aan de 5k-wedstrijd. Dit besluit is genomen vanwege het dubbel starten en het gezamenlijk gebruik van boten.
+            </v-card-text>
     </v-card>
     <br>
     <v-card light>
             <v-card-title>Wijzigingen blokschema</v-card-title>
             <v-card-text color="black"> LET OP! De blokindeling is gewijzigd, dus controleer of er voor jou of jouw roeiers iets is veranderd. 
               <br>
-              Na overleg met de KNRB is besloten dat de junioren ook zullen deelnemen aan de 5k-wedstrijd. Dit besluit is genomen vanwege het dubbel starten en het gezamenlijk gebruik van boten.</v-card-text>
+              Na overleg met de KNRB is besloten dat de junioren ook zullen deelnemen aan de 5k-wedstrijd. Dit besluit is genomen vanwege het dubbel starten en het gezamenlijk gebruik van boten.
+            </v-card-text>
     </v-card>
     <br>
     <v-card light>
