@@ -20,6 +20,7 @@
       <v-img class="logos" src="/tu-delft.png" />
       <v-img class="logos" src="/jupiler.jpg" />
       <v-img class="logos" src="/GRENADE.png" />
+      <v-img class="logos" src="/concept2.png" />
       <v-img class="logos" src="/roeigoed.jpeg" />
       <v-img class="logos" src="/iris.png" />
     </div>
