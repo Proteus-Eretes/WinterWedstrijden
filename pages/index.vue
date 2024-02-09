@@ -48,7 +48,7 @@
   </div>
 </template>
 
-<script>
+<!-- <script>
 export default {
   data() {
     return {
@@ -60,4 +60,4 @@ export default {
     return { nieuwsItems: res.data.paginate.data };
   }
 };
-</script>
+</script> -->
