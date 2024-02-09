@@ -26,7 +26,7 @@
               epische race worden!</v-card-text>
     </v-card>
     
-    <v-card flat light v-for="item of nieuwsItems" :key="item.id">
+    <!-- <v-card flat light v-for="item of nieuwsItems" :key="item.id">
       <div class="d-flex flex-wrap flex-md-nowrap justify-space-between">
         <div>
 
@@ -44,7 +44,7 @@
           "
         />
       </div>
-    </v-card>
+    </v-card> -->
   </div>
 </template>
 
