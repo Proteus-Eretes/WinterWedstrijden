@@ -4,7 +4,7 @@
         Fietsverhuur tijdens de WinterWedstrijden
       </v-card-title>
       <v-card-text color="black">
-          Tijdens de wedstrijd zijn er fietsen te huur voor coaches en Toeschouwers
+          Tijdens de wedstrijd zijn er fietsen te huur voor coaches en toeschouwers
           om mee te fietsen langs de baan. De fietsen zijn te huur per blok of voor
           een hele dag voor de volgende prijs:
           <ul>
