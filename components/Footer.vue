@@ -71,7 +71,7 @@
           
             <v-col class="col-md-3">
               <a 
-                href="" 
+                href="https://chat.whatsapp.com/LKFTnKqMywwDi138Co5c8w" 
                 target="_blank"
               >
                 <v-img src="/app.png" contain height="40px" />
