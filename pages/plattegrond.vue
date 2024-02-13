@@ -11,7 +11,6 @@
         Zolang u op momenten parkeert waarop gratis parkeren van toepassing is, zal er niets afgeschreven worden.
       </v-card-text>
       <br>
-      <br/>
       <v-card-title>
         Bowa's 
       </v-card-title>
@@ -21,8 +20,7 @@
         Plan uw aankomst en vertrek zo dat het tijdens een blok is. 
         U mag het terrein van Lijm en Cultuur betreden of verlaten met de botenwagen als de organisatie toestemming heeft gegeven.
       </v-card-text>
-    </v-card>
-    <v-card flat light>
+      <br>
       <v-card-title>
         Plattegrond Proteus-Eretes
       </v-card-title>
