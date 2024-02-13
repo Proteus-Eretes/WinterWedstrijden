@@ -13,6 +13,7 @@
     <a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLScX7Tna1rpfELIOd_v8wwokJAYo7aT4J6H8OawYmNSVYCUiUw/viewform?usp=send_form" title="Stuurliedentest">Stuurliedentest</a>.
       </v-card-text>
     </v-card>
+    <br>
     <v-card light>
       <v-card-title>Correctiefactoren Masters</v-card-title>
       <v-card-text color="black"> Dit jaar zullen alle mastertijden met correctiefactoren worden geroeid.
