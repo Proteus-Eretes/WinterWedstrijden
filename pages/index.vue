@@ -1,6 +1,19 @@
 <template>
   <div>
     <v-card light>
+      <v-card-title>Aankondiging verplichte stuurliedeninstructie</v-card-title>
+      <v-card-text color="black">
+    Dit jaar is er weer een stuurliedeninstructie voor de stuurtjes, waarbij gebruik wordt gemaakt van een video om vertrouwd te raken met de roeibaan. 
+    De video behandelt onderwerpen zoals het oproeien, gevaarlijke punten, uitroeien, inhaalregels en het indienen van protesten. 
+    Zorg ervoor dat je de specifieke pagina voor stuurlieden raadpleegt: 
+    <a href="https://www.proteus-eretes.nl/stuurlieden/" title="Pagina stuurlieden">Pagina stuurlieden</a>.
+        <br>
+    Na het bekijken van de video is het verplicht voor elke stuurman of stuurvrouw om een test af te leggen. 
+    Je kunt de test vinden op de volgende link: 
+    <a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLScX7Tna1rpfELIOd_v8wwokJAYo7aT4J6H8OawYmNSVYCUiUw/viewform?usp=send_form" title="Stuurliedentest">Stuurliedentest</a>.
+      </v-card-text>
+    </v-card>
+    <v-card light>
       <v-card-title>Correctiefactoren Masters</v-card-title>
       <v-card-text color="black"> Dit jaar zullen alle mastertijden met correctiefactoren worden geroeid.
       Hierdoor zijn limitaties in geslacht en leeftijd geen probleem. Daarmee hopen we een groter aantal en meer competitieve mastervelden te laten plaatsvinden op de 49e Van Oord WinterWedstrijden.
