@@ -6,7 +6,7 @@
     Dit jaar is er weer een stuurliedeninstructie voor de stuurtjes, waarbij gebruik wordt gemaakt van een video om vertrouwd te raken met de roeibaan. 
     De video behandelt onderwerpen zoals het oproeien, gevaarlijke punten, uitroeien, inhaalregels en het indienen van protesten. 
     Zorg ervoor dat je de specifieke pagina voor stuurlieden raadpleegt: 
-    <a href="https://www.proteus-eretes.nl/stuurlieden/" title="Pagina stuurlieden">Pagina stuurlieden</a>.
+    <a href="https://ww.proteus-eretes.nl/stuurlieden/" title="Pagina stuurlieden">Pagina stuurlieden</a>.
         <br>
     Na het bekijken van de video is het verplicht voor elke stuurman of stuurvrouw om een test af te leggen. 
     Je kunt de test vinden op de volgende link: 
