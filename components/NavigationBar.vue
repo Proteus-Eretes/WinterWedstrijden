@@ -8,7 +8,7 @@
         <v-btn to="/bepalingen" text width="100%" class="drawer--item">Bepalingen</v-btn>
         <v-btn to="/correctie factoren" text width="100%" class="drawer--item">Correctie factoren</v-btn>
         <v-btn to="/baan" text width="100%" class="drawer--item">Baankaart</v-btn>
-        <v-btn to="/plattegrond" text width="100%" class="drawer--item">Plattegrond</v-btn>
+        <v-btn to="/plattegrond" text width="100%" class="drawer--item">Parkeren & Plattegrond</v-btn>
         <v-btn to="/stuurlieden" text width="100%" class="drawer--item">Stuurlieden</v-btn>
         <v-btn to="/velden" text width="100%" class="drawer--item">Velden</v-btn>
         <v-btn href="/vlottijden.pdf" target="_blank" text width="100%" class="drawer--item">Vlottijden</v-btn>
@@ -82,7 +82,7 @@
               <v-btn to="/baan" flat text>Baankaart</v-btn>
             </v-list-item>
             <v-list-item>
-              <v-btn to="/plattegrond" flat text>Plattegrond</v-btn>
+              <v-btn to="/plattegrond" flat text>Parkeren & Plattegrond</v-btn>
             </v-list-item>
             <v-list-item>
               <v-btn to="/stuurlieden" flat text>Stuurlieden</v-btn>
