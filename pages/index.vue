@@ -8,13 +8,13 @@
       <li>M16 4*</li>
       <li>M18 2x</li>
       <li>OBedr 8+</li>
-      <li>DG4+</li>
       <li>Elite velden zullen vanaf 2 inschrijvingen doorgaan</li>
       <br>
       Deze velden zullen geen doorgang vinden:
       <br>
       <li>DE4*</li>
       <li>HE2-</li>
+      <li>DG4+</li>
       <br/>
       De loting zal plaatsvinden op: 14-2-24  20.00
       <br>
