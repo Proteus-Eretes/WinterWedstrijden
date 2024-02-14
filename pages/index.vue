@@ -6,6 +6,7 @@
       De loting is gedaan en is te vinden op <a href="https://hoesnelwasik.nl/ww/0/loting#blocks">hoesnelwasik.nl</a>. 
       Morgen zullen de locatieverdelingen en vlottijden gepubliceerd worden.
       <br>
+      <br/>
       De weercode blijft voor beide dagen Groen.
     </v-card-text>
     </v-card>
