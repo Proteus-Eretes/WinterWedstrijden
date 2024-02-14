@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-car light>
+    <v-card light>
       <v-card-title>Overzicht doorgang velden en communicatie weercodes</v-card-title>
       <v-card-text color ="black">
         Na sluiting van de inschrijfdeadline en het bekijken van de verschillende inschrijvingen is er besloten om de volgende velden  met te weinig inschrijvingen door te laten gaan:
@@ -15,18 +15,16 @@
       <br>
       <li>DE4*</li>
       <li>HE2-</li>
-      <br>
       <br/>
       De loting zal plaatsvinden op: 14-2-24  20.00
       <br>
       Zodra de loting gepubliceerd kan worden zullen wij dit via diverse kanalen laten weten.
-      <br>
       <br/>
       De weercodes zullen daarnaast vanaf nu periodiek worden geüpdatet. 
       Op dit moment is de weercode voor beide dagen Groen. 
       De volgende weer-updates zullen woensdagavond, vrijdagmiddag en zaterdagmorgen plaatsvinden.
       </v-card-text>
-    </v-car>
+    </v-card>
     <br>
     <v-card light>
       <v-card-title>Aankondiging verplichte stuurliedeninstructie</v-card-title>
