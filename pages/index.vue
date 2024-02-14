@@ -19,6 +19,7 @@
       De loting zal plaatsvinden op: 14-2-24  20.00
       <br>
       Zodra de loting gepubliceerd kan worden zullen wij dit via diverse kanalen laten weten.
+      <br>
       <br/>
       De weercodes zullen daarnaast vanaf nu periodiek worden geüpdatet. 
       Op dit moment is de weercode voor beide dagen Groen. 
