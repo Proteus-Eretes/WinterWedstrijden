@@ -1,6 +1,16 @@
 <template>
   <div>
     <v-card light>
+    <v-card-title>Loting en weercode</v-card-title>
+    <v-card-text color ="black">
+      De loting is gedaan en is te vinden op <a href="https://hoesnelwasik.nl/ww/0/loting#blocks">hoesnelwasik.nl</a>. 
+      Morgen zullen de locatieverdelingen en vlottijden gepubliceerd worden.
+      <br>
+      De weercode blijft voor beide dagen Groen.
+    </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
       <v-card-title>Overzicht doorgang velden en communicatie weercodes</v-card-title>
       <v-card-text color ="black">
         Na sluiting van de inschrijfdeadline en het bekijken van de verschillende inschrijvingen is er besloten om de volgende velden  met te weinig inschrijvingen door te laten gaan:
