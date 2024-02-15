@@ -1,6 +1,22 @@
 <template>
   <div>
     <v-card light>
+    <v-card-title></v-card-title>
+    <v-card-text color ="black">
+      
+      | Proteus-Eretes                     | Lijm &amp; Cultuur                                              |
+      |------------------------------------|-----------------------------------------------------------------|
+      | Beatrix         | Pelargos         | Aegir            | Dordrechtse R&amp;ZV| MWC        | Rijnland  |
+      | Thêta           | Proteus-Eretes   | Argo             | Euros               | Saurus     | Spaarne   |
+      | Vidar           | Nautilus         | Asopos de Vliet  | Sk&oslash;ll        | Naarden    | Tor       |
+      | Viking          | Njord            | Okeanos          | Gyas                | Nereus     | Triton    |
+      | Dudok van Heel  |                  | Skadi            | Hemus               | Willem III | Orka      |
+      | Gouda           |                  | Boreas           | Hertog              | Phocas     |           |
+      | Laak            |                  | Zwolsche R&amp;ZV| Die Leythe          | Pontos     |           |
+    </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
     <v-card-title>Loting en weercode</v-card-title>
     <v-card-text color ="black">
       De loting is gedaan en is te vinden op <a href="https://hoesnelwasik.nl/ww/0/loting#blocks">hoesnelwasik.nl</a>. 
