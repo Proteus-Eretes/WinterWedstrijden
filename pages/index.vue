@@ -14,7 +14,7 @@
       De vlotten sluiten 45 min voor de eerste start van het blok.
       <br>
       <br/>
-     
+      <img src="/Schema_verdeling" class="schema" />
     </v-card-text>
     </v-card>
     <br>
@@ -106,6 +106,17 @@
   </div>
 </template>
 
-pre {
-  font-family: inherit; 
+<style scoped>
+h1,
+h2,
+h3 {
+  padding-top: 0.2em;
+  padding-bottom: 0.4em;
 }
+
+.schema {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+}
+</style>
