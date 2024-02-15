@@ -3,14 +3,16 @@
     <v-card light>
     <v-card-title>Vlottijden & Locatie verdeling</v-card-title>
     <v-card-text color ="black">
-      Alle vlottijden staan nu onder deelnemers -> vlottijden.
+      Alle vlottijden van de 49e editie staan nu onder deelnemers -> vlottijden. 
       <br>  
+      <br/>
       Let op alle Eerstejaars en Beginners 8+ en 4+/* hebben ploeg specifieke vlottijden.
-      <br>
       Als deze ploegen na de ploeg specifieke eindtijd komen kunnen juryleden een waarschuwing of tijdstraf uitdelen.
       <br>
+      <br/>
       Voor alle andere velden is er een start vlottijd gegeven. Probeer op de start van de vlottijd met de boot klaar te staan om gecontroleerd te worden door de juryleden.
       <br>
+      <br/>
       De vlotten sluiten 45 min voor de eerste start van het blok.
       <br>
       <br/>
