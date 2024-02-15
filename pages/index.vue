@@ -14,17 +14,7 @@
       De vlotten sluiten 45 min voor de eerste start van het blok.
       <br>
       <br/>
-      <pre>
-      | Proteus-Eretes                     | Lijm &amp; Cultuur                                              |
-      |------------------------------------|-----------------------------------------------------------------|
-      | Beatrix         | Pelargos         | Aegir            | Dordrechtse R&amp;ZV| MWC        | Rijnland  |
-      | Thêta           | Proteus-Eretes   | Argo             | Euros               | Saurus     | Spaarne   |
-      | Vidar           | Nautilus         | Asopos de Vliet  | Sk&oslash;ll        | Naarden    | Tor       |
-      | Viking          | Njord            | Okeanos          | Gyas                | Nereus     | Triton    |
-      | Dudok van Heel  |                  | Skadi            | Hemus               | Willem III | Orka      |
-      | Gouda           |                  | Boreas           | Hertog              | Phocas     |           |
-      | Laak            |                  | Zwolsche R&amp;ZV| Die Leythe          | Pontos     |           |
-    </pre>
+     
     </v-card-text>
     </v-card>
     <br>
