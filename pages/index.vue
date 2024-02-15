@@ -1,9 +1,20 @@
 <template>
   <div>
     <v-card light>
-    <v-card-title></v-card-title>
+    <v-card-title>Vlottijden & Locatie verdeling</v-card-title>
     <v-card-text color ="black">
-      
+      Alle vlottijden staan nu onder deelnemers -> vlottijden.
+      <br>  
+      Let op alle Eerstejaars en Beginners 8+ en 4+/* hebben ploeg specifieke vlottijden.
+      <br>
+      Als deze ploegen na de ploeg specifieke eindtijd komen kunnen juryleden een waarschuwing of tijdstraf uitdelen.
+      <br>
+      Voor alle andere velden is er een start vlottijd gegeven. Probeer op de start van de vlottijd met de boot klaar te staan om gecontroleerd te worden door de juryleden.
+      <br>
+      De vlotten sluiten 45 min voor de eerste start van het blok.
+      <br>
+      <br/>
+      <pre>
       | Proteus-Eretes                     | Lijm &amp; Cultuur                                              |
       |------------------------------------|-----------------------------------------------------------------|
       | Beatrix         | Pelargos         | Aegir            | Dordrechtse R&amp;ZV| MWC        | Rijnland  |
@@ -13,6 +24,7 @@
       | Dudok van Heel  |                  | Skadi            | Hemus               | Willem III | Orka      |
       | Gouda           |                  | Boreas           | Hertog              | Phocas     |           |
       | Laak            |                  | Zwolsche R&amp;ZV| Die Leythe          | Pontos     |           |
+    </pre>
     </v-card-text>
     </v-card>
     <br>
@@ -103,3 +115,7 @@
     </v-card>
   </div>
 </template>
+
+pre {
+  font-family: inherit; 
+}
