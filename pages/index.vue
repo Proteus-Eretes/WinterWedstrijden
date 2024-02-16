@@ -11,6 +11,7 @@
       Als gevolg van de bijschrijving is het veld herloot. 
       </v-card-text>
     </v-card>
+    <br>
     <v-card light>
     <v-card-title>Vlottijden & Locatie verdeling</v-card-title>
     <v-card-text color ="black">
