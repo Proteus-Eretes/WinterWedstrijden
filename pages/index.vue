@@ -1,6 +1,17 @@
 <template>
   <div>
     <v-card light>
+      <v-card-title>Weercode zaterdag en herloting LHB 1x</v-card-title>
+      <v-card-text color ="black">
+      De weercode voor zaterdag is groen gedurende de hele dag. Zondag is er meer wind voorspeld, dit houden wij in de gaten. 
+      Zaterdag 15:00 zullen wij een weercode geven voor zondag. 
+      <br>
+      <br/>
+      Daarnaast is er een boot bijgeschreven in het LHB 1x veld met toestemming van alle deelnemende vereningen. 
+      Als gevolg van de bijschrijving is het veld herloot. 
+      </v-card-text>
+    </v-card>
+    <v-card light>
     <v-card-title>Vlottijden & Locatie verdeling</v-card-title>
     <v-card-text color ="black">
       Alle vlottijden van de 49e editie staan nu onder deelnemers -> vlottijden. 
@@ -36,16 +47,16 @@
       <v-card-text color ="black">
         Na sluiting van de inschrijfdeadline en het bekijken van de verschillende inschrijvingen is er besloten om de volgende velden  met te weinig inschrijvingen door te laten gaan:
         <br>
-      <li>M16 4*</li>
-      <li>M18 2x</li>
-      <li>OBedr 8+</li>
-      <li>Elite velden zullen vanaf 2 inschrijvingen doorgaan</li>
+       <li>M16 4*</li>
+       <li>M18 2x</li>
+       <li>OBedr 8+</li>
+       <li>Elite velden zullen vanaf 2 inschrijvingen doorgaan</li>
       <br>
       Deze velden zullen geen doorgang vinden:
       <br>
-      <li>DE4*</li>
-      <li>HE2-</li>
-      <li>DG4+</li>
+       <li>DE4*</li>
+       <li>HE2-</li>
+       <li>DG4+</li>
       <br/>
       De loting zal plaatsvinden op: 14-2-24  20.00
       <br>
