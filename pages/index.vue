@@ -1,6 +1,15 @@
 <template>
   <div>
     <v-card light>
+      <v-card-title>Weercode zondag</v-card-title>
+      <v-card-text color ="black">
+        Voor zondag neemt de wind en regen toe.
+        Sommige weermodellen voorspellen voor morgen een harde wind. Andere modellen zien er beter uit. Vanwege deze onzekerheid geldt voor blok 6 code geel. Blok 4 en 5 blijven code groen.
+        Om 07:00 en 13:00 volgen weerupdates. Zorg daarnaast voor voldoende warme kleren in verband met de voorspelde regen.
+      </v-card-text>
+    </v-card>
+      <br>
+    <v-card light>
       <v-card-title>Prijsuitrijking en livestream</v-card-title>
       <v-card-text color ="black">
         De tijden van de prijsuitreiking voor zaterdag zijn: 
