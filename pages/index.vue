@@ -1,13 +1,23 @@
 <template>
   <div>
     <v-card light>
-      <v-card-title>Link naar de livestream</v-card-title>
+      <v-card-title>Prijsuitrijking en livestream</v-card-title>
       <v-card-text color ="black">
-        Onderstaand de link voor de livestream van zaterdag
-        <a href="https://www.youtube.com/live/2aZ7cg2XPfg?si=qQJmUV_7MuaicQdf">livestream zaterdag</a>
+        De tijden van de prijsuitreiking voor zaterdag zijn: 
+       <li>12:15 voor blok 1</li>
+       <li>15:30 voor blok 2</li>
+       <li>18:15 voor blok 3</li>
+       <br>
+       De tijden van de prijsuitreiking voor zondag zijn: 
+       <li>12:15 voor blok 4</li>
+       <li>15:30 voor blok 5</li>
+       <li>18:15 voor blok 6</li>
         <br>
         <br/>
-        Onderstaand de link voor de livestream van zondag
+        Onderstaand de link voor de livestream van zaterdag:
+        <a href="https://www.youtube.com/live/2aZ7cg2XPfg?si=qQJmUV_7MuaicQdf">livestream zaterdag</a>
+        <br>
+        Onderstaand de link voor de livestream van zondag:
         <a href="https://www.youtube.com/live/z6gkb7WXJog?si=P_nfxmn1fiiuLyNN">livestream zondag</a>
       </v-card-text>
     </v-card>
