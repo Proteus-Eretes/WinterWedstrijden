@@ -14,10 +14,10 @@
        <li>18:15 voor blok 6</li>
         <br>
         <br/>
-        Onderstaand de link voor de livestream van zaterdag:
+        Hiernaast staat de link voor de livestream van zaterdag:
         <a href="https://www.youtube.com/live/2aZ7cg2XPfg?si=qQJmUV_7MuaicQdf">livestream zaterdag</a>
         <br>
-        Onderstaand de link voor de livestream van zondag:
+        Hiernaast staat de link voor de livestream van zondag:
         <a href="https://www.youtube.com/live/z6gkb7WXJog?si=P_nfxmn1fiiuLyNN">livestream zondag</a>
       </v-card-text>
     </v-card>
