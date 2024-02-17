@@ -1,6 +1,12 @@
 <template>
   <div>
     <v-card light>
+      <v-card-title>Terrein is 7:30 open</v-card-title>
+      <v-card-text color ="black">
+        Het terrein is open vanaf 7:30. 
+      </v-card-text>
+      <br>
+    <v-card light>
       <v-card-title>Weercode zaterdag en herloting LHB 1x</v-card-title>
       <v-card-text color ="black">
       De weercode voor zaterdag is groen gedurende de hele dag. Zondag is er meer wind voorspeld, dit houden wij in de gaten. 
