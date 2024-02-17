@@ -1,6 +1,13 @@
 <template>
   <div>
     <v-card light>
+      <v-card-title>Weercode zaterdag</v-card-title>
+      <v-card-text color ="black">
+        Voor alle blokken (1, 2 en 3) geldt vandaag een weercode groen!
+      </v-card-text>
+    </v-card>
+      <br>
+    <v-card light>
       <v-card-title>Terrein is 7:30 open</v-card-title>
       <v-card-text color ="black">
         Het terrein is open vanaf 7:30. 
