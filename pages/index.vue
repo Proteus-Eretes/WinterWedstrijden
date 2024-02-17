@@ -1,6 +1,18 @@
 <template>
   <div>
     <v-card light>
+      <v-card-title>Link naar de livestream</v-card-title>
+      <v-card-text color ="black">
+        Onderstaand de link voor de livestream van zaterdag
+        <a href="https://www.youtube.com/live/2aZ7cg2XPfg?si=qQJmUV_7MuaicQdf">livestream zaterdag</a>
+        <br>
+        <br/>
+        Onderstaand de link voor de livestream van zondag
+        <a href="https://www.youtube.com/live/z6gkb7WXJog?si=P_nfxmn1fiiuLyNN">livestream zondag</a>
+      </v-card-text>
+    </v-card>
+      <br>
+    <v-card light>
       <v-card-title>Weercode zaterdag</v-card-title>
       <v-card-text color ="black">
         Voor alle blokken (1, 2 en 3) geldt vandaag een weercode groen!
