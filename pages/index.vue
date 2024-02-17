@@ -5,6 +5,7 @@
       <v-card-text color ="black">
         Het terrein is open vanaf 7:30. 
       </v-card-text>
+    </v-card>
       <br>
     <v-card light>
       <v-card-title>Weercode zaterdag en herloting LHB 1x</v-card-title>
