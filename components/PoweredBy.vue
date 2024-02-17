@@ -8,7 +8,7 @@
       <span class="dot" style="background-color: LimeGreen">Groen</span>
       <!-- <span class="dot" style="background-color: gold">Geel</span> -->
       <!-- <span class="dot" style="background-color: red">Rood</span> -->
-      Geüpdate: 16 feb 2024, 18:40
+      Geüpdate: 17 feb 2024, 06:45
     </v-card-text>
     
     <v-card-title>
