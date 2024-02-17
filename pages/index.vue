@@ -1,6 +1,15 @@
 <template>
   <div>
     <v-card light>
+      <v-card-title>LET OP! - Nieuwe rugnumers</v-card-title>
+      <v-card-text color ="black">
+        LET OP! Alle blokken voor zondag hebben nieuwe rugnummers. 
+        Kijk dus goed welk nummer je moet ophalen en breng de huidige rugnummers die je hebt terug.
+        De loting is niet gewijzigd.
+      </v-card-text>
+    </v-card>
+      <br>
+    <v-card light>
       <v-card-title>Weercode zondag</v-card-title>
       <v-card-text color ="black">
         Voor zondag neemt de wind en regen toe.
