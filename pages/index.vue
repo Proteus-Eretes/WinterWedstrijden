@@ -1,6 +1,20 @@
 <template>
   <div>
     <v-card light>
+      <v-card-title>Weerupdate 07:00 blok 4, 5 en 6</v-card-title>
+      <v-card-text color ="black">
+        De weersmodellen zijn een stuk constanter geworden en voorspellen voor de hele dag een harde wind en regen.
+        In de ochtend staat er een harde wind mee die in de loop van de dag draait naar schuin tegen.
+        Op dit moment ziet de wedstrijdleiding echter geen noodzaak tot wijzigingen.
+        <br><br>
+        Wel raden wij alle ploegen aan extra op te letten bij de kandelaarsbrug (2km punt) en zorg te dragen voor warme kleding
+        bij het oproeien en droge kleding na afloop van de wedstrijd.
+        <br><br>
+        Om 13:00 volgt de volgende weerupdate.
+      </v-card-text>
+    </v-card>
+      <br>
+    <v-card light>
       <v-card-title>LET OP! - Nieuwe rugnumers</v-card-title>
       <v-card-text color ="black">
         LET OP! Alle blokken voor zondag hebben nieuwe rugnummers. 
