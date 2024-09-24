@@ -1,15 +1,6 @@
 <template>
   <div>
-    <v-card light>
-      <v-card-title>Weerupdate 13:00 blok 6</v-card-title>
-      <v-card-text color ="black">
-        Blok 6 gaat door! Echter blijft weercode geel van toepassing wegens de draaiing van de wind tegen de vaarrichting 
-        in en de regen.
-        <br><br>
-        Wij blijven alle ploegen aan raden om extra op te letten bij de kandelaarsbrug (2km punt) en zorg te dragen voor 
-        warme kleding bij het oproeien en droge kleding na afloop van de wedstrijd.
-      </v-card-text>
-    </v-card>
+
       <br>
     <v-card light>
       <v-card-title>Weerupdate 07:00 blok 4, 5 en 6</v-card-title>
