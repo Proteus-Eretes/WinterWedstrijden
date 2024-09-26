@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-card flat light>
-      <v-card-title> Bepalingen 49ste Van Oord WinterWedstrijden 2024 </v-card-title>
+      <v-card-title> Bepalingen 50ste Van Oord WinterWedstrijden 2025 </v-card-title>
       <v-card-text>
         <b>Inschrijvingsbepalingen</b>
         <ol>
@@ -9,7 +9,7 @@
             Tijdrace over 5 km voor alle velden.
           </li>
           <li>
-            Wedstrijdleiding: Koen Baggus & Floor Battjes, tel: +31 6 41 54 24 16 & +31 6 46 91 33 48. <br />E-mail:
+            Wedstrijdleiding: Floor Battjes & Nino Bonsangue, tel: +31 6 46 91 33 48 & +31 6 45 15 98 92. <br />E-mail:
             wedstrijdleiding.winterwedstrijden@proteus-eretes.nl <br />Hoofd van
             de jury: Mathijs Louter
           </li>
