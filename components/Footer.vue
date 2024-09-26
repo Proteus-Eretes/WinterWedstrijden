@@ -18,7 +18,7 @@
             style="text-decoration: none; color:inherit;"
             href="tel:+316-41542416"
           >
-            +31 6 415 424 16
+            +31 6 469 133 48
           </a>
           of
           <br>
@@ -26,7 +26,7 @@
             style="text-decoration: none; color:inherit;"
             href="tel:+316-46913348"
           >
-            +31 6 469 133 48
+            +31 6 451 598 92
           </a>
           <br />
           Bestuur Proteus-Eretes:
