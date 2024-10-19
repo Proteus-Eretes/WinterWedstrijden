@@ -1,11 +1,11 @@
 <template>
   <v-card flat light>
     <v-card-title>
-      Blokschema
+      VOORLOPIG blokschema 50ste Van Oord WinterWedstrijden
     </v-card-title>
-    <v-card-text> Laatst aangepast: 14-01-2024</v-card-text>
+    <v-card-text> Laatst aangepast: 14-10-2024</v-card-text>
     <v-card-text>
-      Zaterdag 17 februari 2024
+      Zaterdag 15 februari 2025
     </v-card-text>
     <v-simple-table>
       <thead>
@@ -26,27 +26,27 @@
           <td>Blok 1</td>
           <td>10:00 - 12:00</td>
           <td>
-            LHEj 8+, LHEj 4+, DEj 4+, DE 2x, DG 2x, DB 2x, LHE 1x, LHSB 1x, LHG 1x, LHB 1x
+            LHEj 8+, DEj 4+, LHE 2X, LHG 2X LHB 2X, HE 1X, HG 1X, HSB 1X, HB 1X
           </td>
         </tr>
         <tr>
           <td>Blok 2</td>
           <td>13:00 - 15:00</td>
           <td>
-            DEj 8+, LDEj 4*, LDE 2x, LDG 2x, LDB 2x, HSB 1x, HE 1x, HG 1x, HB 1x
+           DEj 8+, LDEj 4*, LDE 2X, LDG 2X, LDB 2X, HM 2X, OM 2X, DM 2X, DE 1X, DG 1X, DSB 1X, DB 1X
           </td>
         </tr>
         <tr>
           <td>Blok 3</td>
           <td>16:00 - 17:45</td>
           <td>
-            HEj 8+, HEj 4+, MixBedr 8+, M18 4*, M16 4*, J18 2x, J18Ej 2x, J16 2x, J16Ej 2x, DE 2-, DG 2-, M18 1x, M16 1x
+            HEj 8+, HEj 4+, LHEj 4*, LHEj 4+, HE 2-, HG 2-, LHG 2-, DE 2-, DG 2-, M18 2X, M16 2X, J18 1X, J16 1X, HM 1X, DM 1X
           </td>
         </tr>
       </tbody>
     </v-simple-table>
     <v-card-text>
-      Zondag 18 februari 2024
+      Zondag 16 februari 2025
     </v-card-text>
     <v-simple-table>
       <thead>
@@ -67,21 +67,21 @@
           <td>Blok 4</td>
           <td>10:00 - 12:00</td>
           <td>
-            LHE 8+, HB 8+, LHB 8+, DB 8+, DE 4+, DG 4+, DB 4+, J18 4*, J16 4*, LHE 2x, LHG 2x, LHB 2x, M18 2x, M18Ej 2x, M16 2x, M16Ej 2x, LDE 1x, LDSB 1x, LDG 1x, LDB 1x
+            LHE 8+, DB 8+, HE 4+, DE 4+, DG 4+, DB 4+, LDB 4*, DE 2X, DG 2X, DB 2X, J18 2X, J16 2X, LDE 1X, LDG 1X, LDSB 1X, LDB 1X
           </td>
         </tr>
         <tr>
           <td>Blok 5</td>
           <td>13:00 - 15:00</td>
           <td>
-            LHG 4+, LHB 4+, LDB 4*, HE 2x, HG 2x, HB 2x, HE 2-, HG 2-, LHG 2-, DE 1x, DSB 1x, DG 1x, DB 1x, J18 1x, J16 1x
+            LHB 8+, LHB 4*, HG 4+, HB 4+, LHB 4+, HE 2X, HG 2X, HB 2X, LHE 1X, LHG 1X, LHSB 1X, LHB 1X, M18 1X, M16 1X
           </td>
         </tr>
         <tr>
           <td>Blok 6 </td>
           <td>16:00 - 17:45</td>
-          <td> HE 8+, DE 8+, HE 4+, HG 4+, DE 4*, OM 8+, HB 4+, OM 4*, OM 4+, OM 2x, OM 1x
-
+          <td> 
+            HE 8+, HB 8+, DE 8+, DE 4*, J18 4*, J16 4*, M18 4*, M16 4*, HM 4*, OM 4*, DM 4*, HM 8+, OM 8+, DM 8+, MixBedr 8+
           </td>
         </tr>
       </tbody>
