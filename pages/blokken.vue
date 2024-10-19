@@ -1,7 +1,7 @@
 <template>
   <v-card flat light>
     <v-card-title>
-      Blokschema
+      VOORLOPIG blokschema 50ste Van Oord WinterWedstrijden
     </v-card-title>
     <v-card-text> Laatst aangepast: 19-10-2024</v-card-text>
     <v-card-text>
@@ -81,7 +81,6 @@
           <td>Blok 6 </td>
           <td>16:00 - 17:45</td>
           <td> HE 8+, HB 8+, DE 8+, DE 8+, DE 4*, J18 4*, J16 4*, M18 4*, M16 4*, HM 4*, OM 4*, DM 4*, HM 8+, OM 8+, DM 8+, MixBedr 8+
-
           </td>
         </tr>
       </tbody>
