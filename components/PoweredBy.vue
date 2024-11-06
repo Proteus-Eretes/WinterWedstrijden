@@ -21,7 +21,7 @@
       <v-img class="logos" src="/Hadrian.png" />
       <v-img class="logos" src="/jupiler.jpg" />
       <v-img class="logos" src="/GRENADE.png" />
-      <a href="https://www.roeigoed.nl>">
+      <a href="https://www.roeigoed.nl">
         <v-img class="logos" src="/roeigoed.jpeg" />
       </a>
       <v-img class="logos" src="/concept2.png" />
