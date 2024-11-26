@@ -3,7 +3,7 @@
     <v-card-title>
       VOORLOPIG blokschema 50ste Van Oord WinterWedstrijden
     </v-card-title>
-    <v-card-text> Laatst aangepast: 19-10-2024</v-card-text>
+    <v-card-text> Laatst aangepast: 26-11-2024</v-card-text>
     <v-card-text>
       Zaterdag 15 februari 2025
     </v-card-text>
@@ -40,7 +40,7 @@
           <td>Blok 3</td>
           <td>16:00 - 17:45</td>
           <td>
-            HEj 8+, HEj 4+, LHEj 4*, LHEj 4+, HE 2-, HG 2-, LHG 2-, DE 2-, DG 2-, M18 2x, M16 2x, J18 1x, J16 1x, HM 1x, DM 1x, 
+            HEj 8+, Mix 8+, HEj 4+, LHEj 4*, LHEj 4+, HE 2-, HG 2-, LHG 2-, DE 2-, DG 2-, M18 2x, M16 2x, J18 1x, J16 1x, HM 1x, DM 1x, 
           </td>
         </tr>
       </tbody>
@@ -74,13 +74,13 @@
           <td>Blok 5</td>
           <td>13:00 - 15:00</td>
           <td>
-            LHB 8+, LHB 4*, HG 4+, HB 4+, LHG 4+, HE 2x, HG 2x, HB 2x, LHE 1x, LHG 1x, LHSB 1x, LHB 1x, M18 1x, M16 1x
+            HB 8+, LHB 8+, LHB 4*, HG 4+, HB 4+, LHG 4+, HE 2x, HG 2x, HB 2x, LHE 1x, LHG 1x, LHSB 1x, LHB 1x, M18 1x, M16 1x
           </td>
         </tr>
         <tr>
           <td>Blok 6 </td>
           <td>16:00 - 17:45</td>
-          <td> HE 8+, HB 8+, DE 8+, DE 8+, DE 4*, J18 4*, J16 4*, M18 4*, M16 4*, HM 4*, OM 4*, DM 4*, HM 8+, OM 8+, DM 8+, MixBedr 8+
+          <td> HE 8+, DE 8+, HM 8+, DM 8+, OM 8+, MixBedr 8+, DE 4*, HM 4*, DM 4*, OM 4*, J18 4*, J16 4*, M18 4*, M16 4*, HE 2+, DE 2+
           </td>
         </tr>
       </tbody>
