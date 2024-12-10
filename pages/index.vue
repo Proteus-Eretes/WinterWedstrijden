@@ -7,8 +7,8 @@
               Deze officiële opening van het nationale roeiseizoen zal dit jaar 15 en 16 februari plaatsvinden.
               <br>
               Iedereen zal hier gaan strijden voor een goede start van hun seizoen. Wat voor de eerstejaarsploegen
-              de eerste echte roeiwedstrijd zal worden, zal voor de toppers van Nederland het moment zijn om zich
-              te bewijzen op dit meetmoment van de KNRB. Maar wat iedereen gemeen heeft: het zal een harde, koude en
+              de eerste echte roeiwedstrijd zal worden, zal voor de andere toppers van Nederland het moment zijn om zich
+              te bewijzen tijdens deze vijftigste editie. Wat iedereen gemeen heeft: het zal een harde, koude en
               epische race worden!</v-card-text>
     </v-card>
   </div>
