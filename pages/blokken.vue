@@ -40,7 +40,7 @@
           <td>Blok 3</td>
           <td>16:00 - 17:45</td>
           <td>
-            HEj 8+, Mix 8+, HEj 4+, LHEj 4*, LHEj 4+, DPRI 1x, DM 1x, HG 2-, LHG 2-, HE 2-, M18 2x, M16 2x, J18 1x, J16 1x, HM 1x, HPR1 1x 
+            HEj 8+, Mix 8+, HEj 4+, LHEj 4*, LHEj 4+, DM 1x, HG 2-, LHG 2-, HE 2-, M18 2x, M16 2x, J18 1x, J16 1x, HM 1x, HPR1 1x, DPRI 1x
           </td>
         </tr>
       </tbody>
@@ -74,13 +74,13 @@
           <td>Blok 5</td>
           <td>13:00 - 15:00</td>
           <td>
-            HB 8+, LHB 8+, LHB 4*, HG 4+, HB 4+, LHG 4+, HE 2x, HG 2x, HB 2x, LHE 1x, LHG 1x, LHSB 1x, LHB 1x, M18 1x, M16 1x
+            HB 8+, LHB 8+, LHB 4*, HG 4+, HB 4+, LHG 4+, HE 2x, HG 2x, HB 2x, HE 2+, LHE 1x, LHG 1x, LHSB 1x, LHB 1x,
           </td>
         </tr>
         <tr>
           <td>Blok 6 </td>
           <td>16:00 - 17:45</td>
-          <td> HE 8+, DE 8+, HM 8+, DM 8+, OM 8+, MixBedr 8+, DE 4*, HM 4*, DM 4*, OM 4*, J18 4*, J16 4*, M18 4*, M16 4*, HE 2+, DE 2+
+          <td> HE 8+, DE 8+, HM 8+, DM 8+, OM 8+, MixBedr 8+, DE 4*, HM 4*, DM 4*, OM 4*, J18 4*, J16 4*, M18 4*, M16 4*, J18 2X, J16 2X, DE 2+, M18 1X, M16 1X
           </td>
         </tr>
       </tbody>
