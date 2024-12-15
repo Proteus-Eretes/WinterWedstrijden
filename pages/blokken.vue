@@ -3,7 +3,7 @@
     <v-card-title>
       VOORLOPIG blokschema 50ste Van Oord WinterWedstrijden
     </v-card-title>
-    <v-card-text> Laatst aangepast: 26-11-2024</v-card-text>
+    <v-card-text> Laatst aangepast: 15-12-2024</v-card-text>
     <v-card-text>
       Zaterdag 15 februari 2025
     </v-card-text>
@@ -40,7 +40,7 @@
           <td>Blok 3</td>
           <td>16:00 - 17:45</td>
           <td>
-            HEj 8+, Mix 8+, HEj 4+, LHEj 4*, LHEj 4+, HE 2-, HG 2-, LHG 2-, DE 2-, DG 2-, M18 2x, M16 2x, J18 1x, J16 1x, HM 1x, DM 1x, 
+            HEj 8+, Mix 8+, HEj 4+, LHEj 4*, LHEj 4+, DPRI 1x, DM 1x, HG 2-, LHG 2-, HE 2-, M18 2x, M16 2x, J18 1x, J16 1x, HM 1x, HPR1 1x 
           </td>
         </tr>
       </tbody>
@@ -67,7 +67,7 @@
           <td>Blok 4</td>
           <td>10:00 - 12:00</td>
           <td>
-            LHE 8+, DB 8+, HE 4+, DE 4+, DG 4+, DB 4+, LDB 4*, DE 2x, DG 2x, DB 2x, J18 2x, J16 2x, LDE 1x, LDG 1x, LDSG 1x, LDB 1x
+            LHE 8+, DB 8+, HE 4+, DE 4+, DG 4+, DB 4+, LDB 4*, DE 2x, DG 2x, DB 2x, DE 2-, DG 2-, LDE 1x, LDG 1x, LDSG 1x, LDB 1x
           </td>
         </tr>
         <tr>
