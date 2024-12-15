@@ -80,7 +80,7 @@
         <tr>
           <td>Blok 6 </td>
           <td>16:00 - 17:45</td>
-          <td> HE 8+, DE 8+, HM 8+, DM 8+, OM 8+, MixBedr 8+, DE 4*, HM 4*, DM 4*, OM 4*, J18 4*, J16 4*, M18 4*, M16 4*, J18 2X, J16 2X, DE 2+, M18 1X, M16 1X
+          <td> HE 8+, DE 8+, HM 8+, DM 8+, OM 8+, MixBedr 8+, DE 4*, HM 4*, DM 4*, OM 4*, J18 4*, J16 4*, M18 4*, M16 4*, J18 2x, J16 2x, DE 2+, M18 1x, M16 1x
           </td>
         </tr>
       </tbody>
