@@ -7,13 +7,13 @@
       <h1>General Information</h1>
       <h2>Entries</h2>
       <p>
-        On the 17th and 18th of February 2024 the 49th Van Oord
+        On the 15th and 16th of February 2025 the 50th Van Oord
         WinterWedstrijden Regatta will take place on the river Schie between
         Rotterdam and Delft, The Netherlands. This is the first regatta of the
         national rowing season and we would be very happy to receive
         participating teams from all over the world. Entries for international
-        crews will be open from the 29th of January until the 12th February
-        2024.
+        crews will be open from the 27th of January until the 10th February
+        2025.
       </p>
       <p>
         To participate, send an email to
@@ -102,13 +102,11 @@
         provide information via a whatsapp service.<br>
         How it works:
         <ol>
-          <li>Add +31 6 23386493 to your contacts</li>
-          <li>Send us a Whatsapp message saying if you want dutch or english information</li>
-          <li>You will get a message when there is an important update concerning the regatta, for example changes, weather codes and progress during and the days before the weekend.</li>
+          <li>Click on the Whatsapp icon below in the footer.</li>
         </ol>
       </p>
       <h1>Time Schedule</h1>
-      <h2>Saturday February 17th 2024</h2>
+      <h2>Saturday February 15th 2025</h2>
       <v-simple-table>
         <thead>
           <tr>

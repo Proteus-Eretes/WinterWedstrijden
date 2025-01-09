@@ -18,9 +18,7 @@
       <v-img class="logos" src="/pe.png" />
       <v-img class="logos" src="/vanoord.png" />
       <v-img class="logos" src="/tu-delft.png" />
-      <v-img class="logos" src="/Hadrian.png" />
       <v-img class="logos" src="/jupiler.jpg" />
-      <v-img class="logos" src="/GRENADE.png" />
       <a style="width: 100%; display: inline-block;" href="//www.roeigoed.nl">
         <v-img class="logos" src="/roeigoed.jpeg" />
       </a>
