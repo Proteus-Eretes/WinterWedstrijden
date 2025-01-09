@@ -7,13 +7,13 @@
       <h1>General Information</h1>
       <h2>Entries</h2>
       <p>
-        On the 17th and 18th of February 2024 the 49th Van Oord
+        On the 15th and 16th of February 2025 the 50th Van Oord
         WinterWedstrijden Regatta will take place on the river Schie between
         Rotterdam and Delft, The Netherlands. This is the first regatta of the
         national rowing season and we would be very happy to receive
         participating teams from all over the world. Entries for international
-        crews will be open from the 29th of January until the 12th February
-        2024.
+        crews will be open from the 27th of January until the 10th February
+        2025.
       </p>
       <p>
         To participate, send an email to
@@ -102,13 +102,11 @@
         provide information via a whatsapp service.<br>
         How it works:
         <ol>
-          <li>Add +31 6 23386493 to your contacts</li>
-          <li>Send us a Whatsapp message saying if you want dutch or english information</li>
-          <li>You will get a message when there is an important update concerning the regatta, for example changes, weather codes and progress during and the days before the weekend.</li>
+          <li>Click on the Whatsapp icon below in the footer.</li>
         </ol>
       </p>
       <h1>Time Schedule</h1>
-      <h2>Saturday February 17th 2024</h2>
+      <h2>Saturday February 15th 2025</h2>
       <v-simple-table>
         <thead>
           <tr>
@@ -128,19 +126,26 @@
             <td>Shift 1</td>
             <td>10:00 - 12:00</td>
             <td>
-              LM 1x, W 2x
+              M 1x, LM 2x
             </td>
           </tr>
           <tr>
             <td>Shift 2</td>
             <td>13:00 - 15:00</td>
             <td>
-              M 1x, W 2-
+              W 1x, LW 2x
+            </td>
+          </tr>
+          <tr>
+            <td>Shift 3</td>
+            <td>16:00 - 18:00</td>
+            <td>
+              M 2-
             </td>
           </tr>
         </tbody>
       </v-simple-table>
-      <h2>Sunday February 18th 2024</h2>
+      <h2>Sunday February 16th 2025</h2>
       <v-simple-table>
         <thead>
           <tr>
@@ -160,20 +165,20 @@
             <td>Shift 4</td>
             <td>10:00 - 12:00</td>
             <td>
-              LW 1x, LM 2x, W 4+
+              M 4+, LW 1x, W 2-, W 2x, W 4+
             </td>
           </tr>
           <tr>
             <td>Shift 5</td>
             <td>13:00 - 15:00</td>
             <td>
-              W 1x, M 2-, M 2x
+              LM 1x, M 2x
             </td>
           </tr>
           <tr>
             <td>Shift 6</td>
             <td>16:00 - 18:00</td>
-            <td>M 4+, W 4*, M 8+, W 8+</td>
+            <td>W 4*, M 8+, W 8+</td>
           </tr>
         </tbody>
       </v-simple-table>
@@ -183,7 +188,7 @@
         The following presentation will give you information on the rules that
         apply during the Van Oord Winterwedstrijden regatta.
         After watching the video, each Coxswain must take a test. The test can be found under the following link:
-      <a href="https://forms.gle/FyjKMP88hbLUQby88" target="_blank">Coxswains Instructions test</a>.
+      <a href="https://forms.gle/wAUogQRQWMwTE2jn7" target="_blank">Coxswains Instructions test</a>.
       </p>
       <ul>
         <li>

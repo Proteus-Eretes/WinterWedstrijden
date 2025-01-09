@@ -18,7 +18,6 @@
         <v-btn to="/baanrecords" text width="100%" class="drawer--item">Baanrecords</v-btn>
         <v-btn href="https://www.proteus-eretes.nl/fotos" target="_blank" text width="100%" class="drawer--item">Foto's</v-btn>
         <v-btn to="/van%20oord" text width="100%" class="drawer--item">Van Oord</v-btn>
-        <v-btn to="/merchandise" text width="100%" class="drawer--item">Merchandise</v-btn>
         <v-btn to="/contact" text width="100%" class="drawer--item">Contact</v-btn>
         <v-btn to="/international" text width="100%" class="drawer--item">International</v-btn>
       </v-list>
@@ -109,9 +108,6 @@
             </v-list-item>
             <v-list-item>
               <v-btn to="/baanrecords" flat text>Baanrecords</v-btn>
-            </v-list-item>
-            <v-list-item>
-              <v-btn to="/merchandise" flat text>Merchandise</v-btn>
             </v-list-item>
           </v-list>
         </v-menu>

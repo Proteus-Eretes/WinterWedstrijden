@@ -14,11 +14,11 @@
             de jury: Mathijs Louter
           </li>
           <li>
-            Inschrijvingen: tot maandag 12 februari 2024, 20:00 uur via het KNRB
+            Inschrijvingen: tot maandag 10 februari 2025, 20:00 uur via het KNRB
             inschrijfprogramma.
           </li>
           <li>
-            Wijzigingen: tot vrijdag 16 februari 2024, 20:00 via het KNRB
+            Wijzigingen: tot vrijdag 14 februari 2025, 20:00 via het KNRB
             inschrijfprogramma.
           </li>
           <li>
@@ -27,7 +27,7 @@
             €70,00. <br />Bedrijfsacht €225,00.
           </li>
           <li>
-            Het inschrijfgeld dient donderdag 15 februari 2024 voor 17:00 uur op
+            Het inschrijfgeld dient donderdag 13 februari 2025 voor 17:00 uur op
             bankrekening te staan, met nummer NL44 RABO 0103 4052 40 t.n.v.
             D.S.R. Proteus-Eretes inz. WinterWedstrijden te Delft o.v.v.
             verenigingsnaam. Mocht hieraan niet zijn voldaan, dan moet het
@@ -35,11 +35,11 @@
             eerste ploeg van het weekend, per pinpas worden voldaan.
           </li>
           <li>
-            Loting: woensdag 14 februari 2024, 20:00 uur, D.S.R. Proteus-Eretes,
+            Loting: woensdag 12 februari 2025, 20:00 uur, D.S.R. Proteus-Eretes,
             Rotterdamseweg 362a Delft, telefoon: +31 15 2623720.
           </li>
           <li>
-            Op zaterdag wordt er gestart in drie blokken: om 10:00, 13:00,
+            Op zaterdag en zondag wordt er gestart in drie blokken: om 10:00, 13:00,
             16:00 uur.
           </li>
           <li>
@@ -64,7 +64,7 @@
     <br>
 
     <v-card flat light>
-      <v-card-title> Reglementen 49ste Van Oord WinterWedstrijden 2024 </v-card-title>
+      <v-card-title> Reglementen 50ste Van Oord WinterWedstrijden 2025 </v-card-title>
       <v-card-text>
         <ol>
           <li>

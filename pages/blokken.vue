@@ -1,9 +1,9 @@
 <template>
   <v-card flat light>
     <v-card-title>
-      VOORLOPIG blokschema 50ste Van Oord WinterWedstrijden
+      Definitief blokschema 50ste Van Oord WinterWedstrijden
     </v-card-title>
-    <v-card-text> Laatst aangepast: 15-12-2024</v-card-text>
+    <v-card-text> Laatst aangepast: 09-01-2025</v-card-text>
     <v-card-text>
       Zaterdag 15 februari 2025
     </v-card-text>
