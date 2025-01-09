@@ -40,7 +40,7 @@
           <td>Blok 3</td>
           <td>16:00 - 17:45</td>
           <td>
-            HEj 8+, Mix 8+, HEj 4+, LHEj 4*, LHEj 4+, DM 1x, HG 2-, LHG 2-, HE 2-, M18 2x, M16 2x, J18 1x, J16 1x, HM 1x, HPR1 1x, DPR1 1x
+            HEj 8+, Mix 8+, HEj 4+, LHEj 4+, DM 1x, HG 2-, LHG 2-, HE 2-, M18 2x, M16 2x, J18 1x, J16 1x, HM 1x, HPR1 1x, DPR1 1x
           </td>
         </tr>
       </tbody>
@@ -74,7 +74,7 @@
           <td>Blok 5</td>
           <td>13:00 - 15:00</td>
           <td>
-            HB 8+, LHB 8+, LHB 4*, HG 4+, HB 4+, LHG 4+, HE 2x, HG 2x, HB 2x, HE 2+, LHE 1x, LHG 1x, LHSB 1x, LHB 1x,
+            HB 8+, LHB 8+, HG 4+, HB 4+, LHG 4+, LHB 4+, HE 2x, HG 2x, HB 2x, HE 2+, LHE 1x, LHG 1x, LHSB 1x, LHB 1x,
           </td>
         </tr>
         <tr>
