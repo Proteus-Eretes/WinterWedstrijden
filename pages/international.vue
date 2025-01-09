@@ -126,19 +126,26 @@
             <td>Shift 1</td>
             <td>10:00 - 12:00</td>
             <td>
-              LM 1x, W 2x
+              M 1x, LM 2x
             </td>
           </tr>
           <tr>
             <td>Shift 2</td>
             <td>13:00 - 15:00</td>
             <td>
-              M 1x, W 2-
+              W 1x, LW 2x
+            </td>
+          </tr>
+          <tr>
+            <td>Shift 3</td>
+            <td>16:00 - 18:00</td>
+            <td>
+              M 2-
             </td>
           </tr>
         </tbody>
       </v-simple-table>
-      <h2>Sunday February 18th 2024</h2>
+      <h2>Sunday February 16th 2025</h2>
       <v-simple-table>
         <thead>
           <tr>
@@ -158,20 +165,20 @@
             <td>Shift 4</td>
             <td>10:00 - 12:00</td>
             <td>
-              LW 1x, LM 2x, W 4+
+              M 4+, LW 1x, W 2-, W 2x, W 4+
             </td>
           </tr>
           <tr>
             <td>Shift 5</td>
             <td>13:00 - 15:00</td>
             <td>
-              W 1x, M 2-, M 2x
+              LM 1x, M 2x
             </td>
           </tr>
           <tr>
             <td>Shift 6</td>
             <td>16:00 - 18:00</td>
-            <td>M 4+, W 4*, M 8+, W 8+</td>
+            <td>W 4*, M 8+, W 8+</td>
           </tr>
         </tbody>
       </v-simple-table>
@@ -181,7 +188,7 @@
         The following presentation will give you information on the rules that
         apply during the Van Oord Winterwedstrijden regatta.
         After watching the video, each Coxswain must take a test. The test can be found under the following link:
-      <a href="https://forms.gle/FyjKMP88hbLUQby88" target="_blank">Coxswains Instructions test</a>.
+      <a href="https://forms.gle/wAUogQRQWMwTE2jn7" target="_blank">Coxswains Instructions test</a>.
       </p>
       <ul>
         <li>
