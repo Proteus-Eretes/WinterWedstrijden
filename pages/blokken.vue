@@ -67,7 +67,7 @@
           <td>Blok 4</td>
           <td>10:00 - 12:00</td>
           <td>
-            LHE 8+, DB 8+, HE 4+, DE 4+, DG 4+, DB 4+, LDB 4*, DE 2x, DG 2x, DB 2x, DE 2-, DG 2-, LDE 1x, LDG 1x, LDSG 1x, LDB 1x
+            LHE 8+, DB 8+, HE 4+, DE 4+, DG 4+, DB 4+, LDB 4*, DE 2x, DG 2x, DB 2x, DE 2-, DG 2-, LDE 1x, LDG 1x, LDSB 1x, LDB 1x
           </td>
         </tr>
         <tr>
