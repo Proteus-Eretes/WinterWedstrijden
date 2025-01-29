@@ -1,7 +1,7 @@
 <template>
     <div>
       <v-card flat light>
-        <v-card-title> Correctie factoren 49ste Van Oord WinterWedstrijden 2024 </v-card-title>
+        <v-card-title> Correctie factoren 50ste Van Oord WinterWedstrijden 2025 </v-card-title>
         <v-card-text>
           <b>Correctie facotoren</b>
           <br>
