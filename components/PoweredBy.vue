@@ -15,15 +15,21 @@
       Powered by
     </v-card-title>  
     <div class="d-flex flex-wrap flex-sm-nowrap flex-lg-wrap">
-      <v-img class="logos" src="/pe.png" />
-      <v-img class="logos" src="/vanoord.png" />
+      <a style="width: 100%; display: inline-block;" href="//www.proteus-eretes.nl">
+        <v-img class="logos" src="/pe.png" />
+        </a>
+      <a style="width: 100%; display: inline-block;" href="//www.vanoord.com">
+        <v-img class="logos" src="/vanoord.png" />
+        </a>
       <v-img class="logos" src="/tu-delft.png" />
-      <v-img class="logos" src="/jupiler.jpg" />
+      <a style="width: 100%; display: inline-block;" href="//www.concept2.nl">
+        <v-img class="logos" src="/concept2.png" />
+      </a>
       <a style="width: 100%; display: inline-block;" href="//www.roeigoed.nl">
         <v-img class="logos" src="/roeigoed.jpeg" />
       </a>
-      <v-img class="logos" src="/concept2.png" />
       <v-img class="logos" src="/iris.png" />
+      <v-img class="logos" src="/jupiler-2.svg" />
     </div>
 
   </v-card>
