@@ -6,7 +6,7 @@
     </v-card-title>
     <v-card-text>
       <!-- <span class="dot" style="background-color: LimeGreen">Groen</span> -->
-      <span class="dot" style="background-color: yellow">Geel</span>
+      <span class="dot" style="background-color: green">Groen</span>
       <!-- <span class="dot" style="background-color: red">Rood</span> -->
       Geüpdate: 03 feb 2025, 14:00
     </v-card-text>
