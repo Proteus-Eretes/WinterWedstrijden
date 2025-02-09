@@ -23,7 +23,7 @@
         Bowa's 
       </v-card-title>
       <v-card-text>
-        Als u aankomt met uw botenwagen bij de wedstrijd, neem dan contact op met +316 34366026 (Dianne Harting) of +316 47165273 (Koen de Regt). 
+        Als u aankomt met uw botenwagen bij de wedstrijd, neem dan contact op met +316 47165273 (Koen de Regt) of +316 11153068 (Aafke Tilstra). 
         Let op dat het niet mogelijk is om tijdens de blokwisseling het terrein op te rijden of te verlaten met een botenwagen. 
         Plan uw aankomst en vertrek zo dat het tijdens een blok is. 
         U mag het terrein van Lijm en Cultuur betreden of verlaten met de botenwagen als de organisatie toestemming heeft gegeven.
