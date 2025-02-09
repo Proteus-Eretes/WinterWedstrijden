@@ -6,7 +6,7 @@
     <v-card-text>
       De opening van het nationale roeiseizoen, het evenement waar menig roeier
       de hele winter op gewacht heeft, de WinterWedstrijden komen er weer aan.
-      Voor de 49ste maal zal dit door Proteus-Eretes georganiseerde evenement
+      Voor de 50ste maal zal dit door Proteus-Eretes georganiseerde evenement
       plaatsvinden.
       <br />
       <br />
