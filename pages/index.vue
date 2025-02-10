@@ -7,8 +7,6 @@ We raden alle deelnemers aan om zich goed voor te bereiden op koud weer, extra l
               <br>
               Houdt de updates in de gaten voor eventuele wijzigingen dichterbij de wedstrijd! De volgende update zal woensdagavond gedeeld worden.</v-card-text>
     </v-card>
-  </div>
-  <div>
     <v-card light>
             <v-card-title>50ste Van Oord WinterWedstrijden</v-card-title>
             <v-card-text color="black"> Vijf kilometer varen in een achtervolgingsrace op de Schie in
