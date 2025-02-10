@@ -1,4 +1,13 @@
 <template>
+    <div>
+    <v-card light>
+            <v-card-title>Weerupdate 10-02-2025 - 50ste Van Oord WinterWedstrijden</v-card-title>
+            <v-card-text color="black"> Na overleg geeft de organisatie van de 50e van Oord Winterwedstrijden voorlopig weercode groen af. Wel houden wij de weersontwikkelingen goed in de gaten en nemen indien nodig gepaste maatregelen.
+We raden alle deelnemers aan om zich goed voor te bereiden op koud weer, extra lagen kleding mee te nemen, en te zorgen voor een water- en winddichte bescherming voor het oproeien en/of sturen.
+              <br>
+              Houdt de updates in de gaten voor eventuele wijzigingen dichterbij de wedstrijd! De volgende update zal woensdagavond gedeeld worden.</v-card-text>
+    </v-card>
+  </div>
   <div>
     <v-card light>
             <v-card-title>50ste Van Oord WinterWedstrijden</v-card-title>
