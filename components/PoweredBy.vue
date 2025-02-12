@@ -6,9 +6,9 @@
     </v-card-title>
     <v-card-text>
       <!-- <span class="dot" style="background-color: LimeGreen">Groen</span> -->
-      <span class="dot" style="background-color: green">Groen</span>
+      <span class="dot" style="background-color: yellow">Geel</span>
       <!-- <span class="dot" style="background-color: red">Rood</span> -->
-      Geüpdate: 10 feb 2025, 12:00
+      Geüpdate: 12 feb 2025, 21:00
     </v-card-text>
     
     <v-card-title>
