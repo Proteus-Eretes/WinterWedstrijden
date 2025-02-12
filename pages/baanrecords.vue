@@ -282,10 +282,10 @@ export default {
         },
         {
           name: "DG2x",
-          jaar: "2019",
-          vereniging: "Saurus",
-          slag: "Klerks",
-          tijd: "20:01.9"
+          jaar: "2024",
+          vereniging: "Phocas",
+          slag: "de Vries",
+          tijd: "19:49.7"
         },
         {
           name: "DB 2x",
