@@ -28,6 +28,9 @@
       <a style="width: 100%; display: inline-block;" href="//www.roeigoed.nl">
         <v-img class="logos" src="/roeigoed.jpeg" />
       </a>
+      <a style="width: 80%; display: inline-block; margin: auto;" href="//dextro-energy.com/pages/dextrose-nl">
+        <v-img class="logos" src="/dextro.webp"/>
+      </a>
       <v-img class="logos" src="/iris.png" />
       <v-img class="logos" src="/jupiler-2.svg" />
     </div>
