@@ -1,35 +1,50 @@
 <template>
     <div>
       <v-card light> 
-        <v-card-title>Weerupdate 12-02-2025 - CODE GEEL</v-card-title>
-            <v-card-text color="black">Geachte deelnemers,
-              <br> <br>
+        <v-card-title>Update 13-02-2025, De loting is bekend </v-card-title>
+            <v-card-text color="black">
+              Geachte deelnemers,
+              <br><br>
+              De loting is officieel bekend. Deze zal later op <a href = "//hoesnelwasik.nl">hoesnelwasik</a> verschijnen.
+              <br><br>
+              De loting is nu al te bekijken als <a  href="/Loting_WW_2025.pdf" target="_blank" text dark>PDF versie.</a>
+              <!-- <embed src="/static/Loting_WW_2025.pdf" width="500" height="375" type="application/pdf"> -->
+            
+          </v-card-text>
+      </v-card>
+      <br>
 
-De wedstrijdorganisatie heeft vanavond voorafgaande aan de loting overleg gehad. Gezien de voorspelde weersomstandigheden hebben wij zojuist de weercode aangepast naar: GEEL.
-<br>
-<br>
-De organisatie zal voorlopig conform de oorspronkelijke planning doorgaan. Er worden op dit moment geen wijzigingen of aanpassingen doorgevoerd in het programma. Wel worden de voorbereidingen getroffen voor eventuele aanpassingen en zullen er extra veiligheidsmaatregelen worden getroffen in verband met de voorspelde kou.
-<br> <br>
-<b>Let op:</b> Gezien de verwachte koude weersomstandigheden verzoeken wij alle deelnemers om zich gepast te kleden en voorbereid te zijn op winterse omstandigheden. Hierover zal later een uitgebreider advies worden gedeeld.
-<br><br>
-Wij danken u voor uw begrip en medewerking. Wij kijken ernaar uit u te verwelkomen en wensen alle deelnemers veel succes.
-<br><br>
-Met vriendelijke groet,  
-50e Van Oord Winterwedstrijden
-<br><br>
----
-<br><br>
-<b>Volgende update:</b>
-<br>
-De volgende updates zullen plaatsvinden op
-<br>
-Donderdag 13-2-2025 20.00
-<br>
-Vrijdag 14-2-2025 20.00
-<br>
-Zaterdag 15-2-2025 20.00
-<br>
-Zaterdag & Zondag, 2 uur voorafgaande aan elk blok.</v-card-text>
+      <v-card light> 
+        <v-card-title>Weerupdate 12-02-2025 - CODE GEEL</v-card-title>
+            <v-card-text color="black">
+              Geachte deelnemers,
+              <br> <br>
+              De wedstrijdorganisatie heeft vanavond voorafgaande aan de loting overleg gehad. Gezien de voorspelde weersomstandigheden hebben wij zojuist de weercode aangepast naar: GEEL.
+              <br>
+              <br>
+              De organisatie zal voorlopig conform de oorspronkelijke planning doorgaan. Er worden op dit moment geen wijzigingen of aanpassingen doorgevoerd in het programma. Wel worden de voorbereidingen getroffen voor eventuele aanpassingen en zullen er extra veiligheidsmaatregelen worden getroffen in verband met de voorspelde kou.
+              <br> <br>
+              <b>Let op:</b> Gezien de verwachte koude weersomstandigheden verzoeken wij alle deelnemers om zich gepast te kleden en voorbereid te zijn op winterse omstandigheden. Hierover zal later een uitgebreider advies worden gedeeld.
+              <br><br>
+              Wij danken u voor uw begrip en medewerking. Wij kijken ernaar uit u te verwelkomen en wensen alle deelnemers veel succes.
+              <br><br>
+              Met vriendelijke groet,  
+              50e Van Oord Winterwedstrijden
+              <br><br>
+              ---
+              <br><br>
+              <b>Volgende update:</b>
+              <br>
+              De volgende updates zullen plaatsvinden op
+              <br>
+              Donderdag 13-2-2025 20.00
+              <br>
+              Vrijdag 14-2-2025 20.00
+              <br>
+              Zaterdag 15-2-2025 20.00
+              <br>
+              Zaterdag & Zondag, 2 uur voorafgaande aan elk blok.
+          </v-card-text>
       </v-card>
       <br>
     <v-card light>
