@@ -1,6 +1,24 @@
 <template>
     <div>
       <v-card light> 
+        <v-card-title>Update 13-2-25: Code Geel </v-card-title>
+            <v-card-text color="black">
+
+Beste deelnemers en belangstellenden,
+<br><br>
+Gezien de aanhoudende kou die wordt verwacht, delen wij de volgende update:
+<br><br>
+Vrijdag 12:00 uur: Beslissing over de doorgang en/of aanpassing van de wedstrijd op Zaterdag. 
+<br>
+Vrijdag 20:00 uur:  Beslissing over de doorgang en/of aanpassing van de wedstrijd op Zondag
+<br><br>
+Voorlopig zijn er géén aanpassingen.
+<br><br>
+We waarderen jullie begrip en flexibiliteit en streven er naar dat iedereen tijdig wordt geïnformeerd. Houd onze kanalen in de gaten voor verdere updates.
+          </v-card-text>
+      </v-card>
+      <br>
+      <v-card light> 
         <v-card-title>Update 13-02-2025, De loting is bekend </v-card-title>
             <v-card-text color="black">
               Geachte deelnemers,
