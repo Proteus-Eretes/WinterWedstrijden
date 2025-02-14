@@ -17,10 +17,10 @@
               <br><br>
               In een volgend bericht zullen we de dispensatie inzake onderkleding voor roeiers en stuurlieden delen.
               <br>
-              De volgende updates zullen zijn om:
-              Vrijdag 20.00 - update zondag
-              Zaterdag 10.00 - update blok 2 - zaterdag
-              Zaterdag 13.00 - update blok 3 - zaterdag 
+              De volgende updates zullen zijn om: <br>
+              Vrijdag 20.00 - update zondag <br>
+              Zaterdag 10.00 - update blok 2 - zaterdag <br>
+              Zaterdag 13.00 - update blok 3 - zaterdag <br>
               <br><br>
               Wij vertrouwen op jullie begrip.
           </v-card-text>
