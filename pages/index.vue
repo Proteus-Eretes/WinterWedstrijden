@@ -3,6 +3,26 @@
       <v-card light> 
         <v-card-title>Update 14-02-2025 - Vlottijden </v-card-title>
             <v-card-text color="black">  
+              Update 14 februari 2025 - Code GEEL - ZONDAG <br>
+              <br>
+              De wedstrijdorganisatie van de Van Oord Winterwedstrijden heeft zojuist het volgende besloten: <br>
+              <br>
+              Voorlopig blijft de zondag ongewijzigd. <br>
+              <br>
+              De volgende updates zullen zijn om: <br>
+              Zaterdag 10.00 - definitieve update doorgang blok 2 - zaterdag <br>
+              Zaterdag 13.00 - definitieve update doorgang blok 3 - zaterdag <br>
+              Zaterdag 16.30 - update zondag <br>
+              <br>
+              De situatie zaterdag blijft zoals eerder gecommuniceerd. <br>
+              <br>
+              Wij vertrouwen op jullie begrip. <br>
+            </v-card-text>
+      </v-card>
+      <br>
+      <v-card light> 
+        <v-card-title>Update 14-02-2025 - Vlottijden </v-card-title>
+            <v-card-text color="black">  
               De vlottijden zijn gepubliceerd. Ze zijn te vinden onder Deelnemers > <a href="/Vlottijden_WW_2025.pdf" target="_blank">Vlottijden</a>.
             </v-card-text>
       </v-card>
