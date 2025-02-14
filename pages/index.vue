@@ -1,7 +1,7 @@
 <template>
     <div>
       <v-card light> 
-        <v-card-title>Update 14-02-2025 - Vlottijden </v-card-title>
+        <v-card-title>Update 14-02-2025 over zondag</v-card-title>
             <v-card-text color="black">  
               Update 14 februari 2025 - Code GEEL - ZONDAG <br>
               <br>
