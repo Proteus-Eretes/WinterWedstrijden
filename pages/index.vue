@@ -1,24 +1,31 @@
 <template>
     <div>
       <v-card light> 
+        <v-card-title>Update 14-02-2025 - Vlottijden </v-card-title>
+            <v-card-text color="black">  
+              De vlottijden zijn gepubliceerd. Ze zijn te vinden onder Deelnemers > <a href="/Vlottijden_WW_2025.pdf" target="_blank">Vlottijden</a>.
+            </v-card-text>
+      </v-card>
+      <br>
+      <v-card light> 
         <v-card-title>Update 14-02-2025 - Kou maatregelen </v-card-title>
             <v-card-text color="black">  
               Kou maatregelen:
               <br>
-In afwijking van RvR Art 8.3 en 8.4 heeft het Hoofd Jury besloten dat het belang van warme (onder)kleding belangrijker is dan volledige uniformiteit en correctheid van <b>onderkleding</b>. De volgende besluiten zijn derhalve van kracht:
-<br><br>
-- Roeiers als bovenste laag <b>altijd het correcte verenigingstenue te dragen</b>. Dit vanwege herkenbaarheid. Hierop zal wel worden gehandhaafd. <br>
-- Onderkleding het liefst zo uniform mogelijk, maar <b>warm aangekleed</b> is hierin belangrijker. De jury zal hier <b>niet</b> op handhaven. <br>
-- Eis voor stuurtjes: indien de stuurman/vrouw <b>niet</b> warm gekleed is zal deze niet het water op mogen. De stuur dient <b>wel conform de reguliere regels ingewogen te worden</b> (R.v.R. 7.3.b). Op het water dienen deze echter goed "ingepakt" te sturen en ziet de organisatie liever een dikke wind-en waterdichte jas dan een los pakje.  <br>
-<br>
-Tips voor roeiers / stuurtjes / coaches / toeschouwers:
-<br><br>
-- Meerdere lagen <br>
-- Muts <br>
-- Water- en winddichte laag <br>
-- 2 paar sokken <br>
-- Zorg voor genoeg kleding tijdens op- en uitroeien <br>
-- Extra droge kleding &amp;</p> sokken voor als je de boot uitkomt en  moet wachten <br>
+              In afwijking van RvR Art 8.3 en 8.4 heeft het Hoofd Jury besloten dat het belang van warme (onder)kleding belangrijker is dan volledige uniformiteit en correctheid van <b>onderkleding</b>. De volgende besluiten zijn derhalve van kracht:
+              <br><br>
+              - Roeiers als bovenste laag <b>altijd het correcte verenigingstenue te dragen</b>. Dit vanwege herkenbaarheid. Hierop zal wel worden gehandhaafd. <br>
+              - Onderkleding het liefst zo uniform mogelijk, maar <b>warm aangekleed</b> is hierin belangrijker. De jury zal hier <b>niet</b> op handhaven. <br>
+              - Eis voor stuurtjes: indien de stuurman/vrouw <b>niet</b> warm gekleed is zal deze niet het water op mogen. De stuur dient <b>wel conform de reguliere regels ingewogen te worden</b> (R.v.R. 7.3.b). Op het water dienen deze echter goed "ingepakt" te sturen en ziet de organisatie liever een dikke wind-en waterdichte jas dan een los pakje.  <br>
+              <br>
+              Tips voor roeiers / stuurtjes / coaches / toeschouwers:
+              <br><br>
+              - Meerdere lagen <br>
+              - Muts <br>
+              - Water- en winddichte laag <br>
+              - 2 paar sokken <br>
+              - Zorg voor genoeg kleding tijdens op- en uitroeien <br>
+              - Extra droge kleding sokken voor als je de boot uitkomt en  moet wachten <br>
             </v-card-text>
       </v-card>
       <br>
