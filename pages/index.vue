@@ -1,6 +1,14 @@
 <template>
     <div>
       <v-card light> 
+        <v-card-title>Update 14-02-2025 - Bijschrijving </v-card-title>
+            <v-card-text color="black">  
+              Beste deelnemers, <br>
+              Het DG2X veld is opnieuw geloot wegens een bijschrijving.
+            </v-card-text>
+      </v-card>
+      <br>
+      <v-card light> 
         <v-card-title>Update 14-02-2025 over zondag</v-card-title>
             <v-card-text color="black">  
               Update 14 februari 2025 - Code GEEL - ZONDAG <br>
