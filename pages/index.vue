@@ -51,7 +51,7 @@
             <v-card-text color="black">
               Geachte deelnemers,
               <br><br>
-              De loting is officieel bekend. Deze zal later op <a href = "//hoesnelwasik.nl">hoesnelwasik</a> verschijnen.
+              De loting is officieel bekend. Deze zal later op <a href = "//hoesnelwasik.nl/ww/0/uitslagen#blocks">hoesnelwasik</a> verschijnen.
               <br><br>
               De loting is nu al te bekijken als <a  href="/Loting_WW_2025.pdf" target="_blank" text dark>PDF versie.</a>
               <!-- <embed src="/static/Loting_WW_2025.pdf" width="500" height="375" type="application/pdf"> -->
