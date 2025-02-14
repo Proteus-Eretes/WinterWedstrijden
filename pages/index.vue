@@ -1,20 +1,48 @@
 <template>
     <div>
       <v-card light> 
+        <v-card-title>Update 14-02-2025 - Code GEEL - Aangepaste blokken en schrappen velden op ZATERDAG </v-card-title>
+            <v-card-text color="black">            
+              De wedstrijdorganisatie van de Van Oord Winterwedstrijden heeft zojuist het volgende besloten:
+              <br><br>
+              Blok 1 is afgelast en zal niet doorgaan. <br>
+              - Het LHEj8+ veld wordt verplaatst naar Blok 2 (Weegtijd 10.30 - 12.00). <br>
+              - Het DEj4+ veld wordt verplaatst naar Blok 3 (Weegtijd stuurlieden 14.00 - 15.00). <br>
+              - De overige velden in Blok 1 komen te vervallen. <br>
+              <br>
+              Op dit moment is er over de volledige lengte van de wedstrijdbaan sprake van aanzienlijke ijsvorming. Ondanks de bereidheid om de gehele nacht door te blijven varen om het water open te houden, kunnen wij in Blok 1 geen ijsvrije baan garanderen. In combinatie met de verwachte gevoelstemperaturen kan de organisatie geen veilige wedstrijd organiseren in blok 1.
+              <br><br>
+              Om de drukte en wachttijden in Blokken 2 en 3 te beperken, is besloten enkel de klassementsvelden te verplaatsen. We verzoeken derhalve ook alle ploegen zich strikt te houden aan de te publiceren vlottijden, zodat de wachttijd op het water 
+              voor alle ploegen beperkt wordt. Dit zal ook worden gehandhaafd door de jury.
+              <br><br>
+              In een volgend bericht zullen we de dispensatie inzake onderkleding voor roeiers en stuurlieden delen.
+              <br>
+              De volgende updates zullen zijn om:
+              Vrijdag 20.00 - update zondag
+              Zaterdag 10.00 - update blok 2 - zaterdag
+              Zaterdag 13.00 - update blok 3 - zaterdag 
+              <br><br>
+              Wij vertrouwen op jullie begrip.
+          </v-card-text>
+      </v-card>
+      <br>
+     
+
+      <v-card light> 
         <v-card-title>Update 13-2-25: Code Geel </v-card-title>
             <v-card-text color="black">
 
-Beste deelnemers en belangstellenden,
-<br><br>
-Gezien de aanhoudende kou die wordt verwacht, delen wij de volgende update:
-<br><br>
-Vrijdag 12:00 uur: Beslissing over de doorgang en/of aanpassing van de wedstrijd op Zaterdag. 
-<br>
-Vrijdag 20:00 uur:  Beslissing over de doorgang en/of aanpassing van de wedstrijd op Zondag
-<br><br>
-Voorlopig zijn er géén aanpassingen.
-<br><br>
-We waarderen jullie begrip en flexibiliteit en streven er naar dat iedereen tijdig wordt geïnformeerd. Houd onze kanalen in de gaten voor verdere updates.
+            Beste deelnemers en belangstellenden,
+            <br><br>
+            Gezien de aanhoudende kou die wordt verwacht, delen wij de volgende update:
+            <br><br>
+            Vrijdag 12:00 uur: Beslissing over de doorgang en/of aanpassing van de wedstrijd op Zaterdag. 
+            <br>
+            Vrijdag 20:00 uur:  Beslissing over de doorgang en/of aanpassing van de wedstrijd op Zondag
+            <br><br>
+            Voorlopig zijn er géén aanpassingen.
+            <br><br>
+            We waarderen jullie begrip en flexibiliteit en streven er naar dat iedereen tijdig wordt geïnformeerd. Houd onze kanalen in de gaten voor verdere updates.4
           </v-card-text>
       </v-card>
       <br>
