@@ -1,6 +1,38 @@
 <template>
     <div>
       <v-card light> 
+        <v-card-title>Update 15-02-2025 - code GEEL - Aangepaste blokken en doorgang Zondag</v-card-title>
+            <v-card-text color="black">  
+              De wedstrijdorganisatie van de Van Oord Winterwedstrijden heeft zojuist het volgende besloten: <br><br>
+
+Blok 4 (Zondag) is afgelast en zal niet doorgaan. <br><br>
+
+-De volgende velden worden verplaatst naar Blok 5 <br>
+- LDB 1x <br>
+- LDG 1x <br>
+- LDB 4* <br>
+- DB 8+ <br>
+<br><br>
+-De volgende velden worden verplaatst naar Blok 6 <br>
+- DG 2- <br>
+- DB 2x <br>
+- DG 2x <br>
+- HE 4+ <br>
+- DB 4+ <br>
+- DG 4+ <br>
+<br><br>
+We verzoeken derhalve ook alle ploegen zich strikt te houden aan de te publiceren vlottijden, zodat de wachttijd op het water voor alle ploegen beperkt wordt. Dit zal ook worden gehandhaafd door de jury.
+<br><br>
+De volgende updates zullen zijn om: <br> <br>
+
+Zondag 10.00 - update blok 5 <br>
+Zondag 13.00 - update blok 6 <br>
+  <br><br>
+Wij vertrouwen op jullie begrip.
+            </v-card-text>
+      </v-card>
+      <br>
+      <v-card light> 
         <v-card-title>Update 15-02-2025 - 12:00 </v-card-title>
             <v-card-text color="black">  
               Beste deelnemers, <br>
