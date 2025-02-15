@@ -1,6 +1,14 @@
 <template>
     <div>
       <v-card light> 
+        <v-card-title>Update 15-02-2025 - Aangepaste vlottijden blok 5 en 6 bekend</v-card-title>
+            <v-card-text color="black">  
+              Beste deelnemers, <br>
+              De nieuwe vlottijden zijn terug te vinden onder het kopje "vlottijden"!
+            </v-card-text>
+      </v-card>
+      <br>
+      <v-card light> 
         <v-card-title>Update 15-02-2025 - HG 2x opnieuw geloot</v-card-title>
             <v-card-text color="black">  
               Beste deelnemers, <br>
