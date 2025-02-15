@@ -1,6 +1,14 @@
 <template>
     <div>
       <v-card light> 
+        <v-card-title>Update 15-02-2025 - HG 2x opnieuw geloot</v-card-title>
+            <v-card-text color="black">  
+              Beste deelnemers, <br>
+              Het veld HG 2x is opnieuw geloot! 
+            </v-card-text>
+      </v-card>
+      <br>
+      <v-card light> 
         <v-card-title>Update 15-02-2025 - code GEEL - Aangepaste blokken en doorgang Zondag</v-card-title>
             <v-card-text color="black">  
               De wedstrijdorganisatie van de Van Oord Winterwedstrijden heeft zojuist het volgende besloten: <br><br>
