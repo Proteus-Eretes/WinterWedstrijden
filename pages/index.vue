@@ -1,6 +1,15 @@
 <template>
     <div>
       <v-card light> 
+        <v-card-title>Update 15-02-2025 - 09:00 </v-card-title>
+            <v-card-text color="black">  
+              Beste deelnemers, <br>
+              Blok 2 zal door gaan. De temperatuur blijft laag, dus kleed gepast! <br>
+              Het besluit voor blok 3 zal volgen om 13:00.
+            </v-card-text>
+      </v-card>
+      <br>
+      <v-card light> 
         <v-card-title>Update 14-02-2025 - Bijschrijving </v-card-title>
             <v-card-text color="black">  
               Beste deelnemers, <br>
