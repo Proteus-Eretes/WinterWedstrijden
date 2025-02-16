@@ -1,5 +1,49 @@
 <template>
     <div>
+     
+      <v-card light> 
+        <v-card-title>Update 16-02-2025 - Mastervelden gecorrigeerde tijden</v-card-title>
+            <v-card-text color="black"> 
+            Beste deelnemers, <br>
+            <br>
+            Hieronder staan de gecorrigeerde tijden van de mastervelden: <br>
+            <br>
+            <h3>DM 4*</h3>
+              <ol>
+                <li>DDS 2, 19:41.04</li>
+                <li>DDS 1, 20:04.33</li>
+            </ol>
+            <h3>HM 4*</h3>
+            <ol>
+                <li>DDS 1, 19:27.50</li>
+                <li>DDS 2, 19:35.84</li>
+                <li>DDS 3, 20:58.41</li> 
+            </ol>
+            <h3>HM 8+</h3>
+            <ol>
+                <li>Oud Proteus-Eretes 3, 16:31.30</li>
+                <li>Oud Proteus-Eretes 1, 16:59.14</li>
+                <li>Nautulus, 17:10.69</li> 
+                <li>Oud Proteus-Eretes 4, 17:21.27</li>
+                <li>Oud Laga, 17:46.04</li>  
+                <li>Viking, 18:00.87</li>
+                <li>Proteus-Eretes 2, 20:52.84</li> 
+            </ol>
+            <h3>OM 4*</h3>
+            <ol>
+                <li>DDS, 22:37.97</li>
+            </ol>
+            <h3>OM 8+</h3>
+            <ol>
+                <li>Oud Asopos, 16:47.14</li>
+                <li>Oud Proteus-Eretes/Phocas, 18:03.70</li>
+                <li>Oud Saurus, 18:43.87</li>
+            </ol>
+            <br>
+          </v-card-text>
+      </v-card>
+      <br>
+
       <v-card light> 
         <v-card-title>Update 16-02-2025 - Blok 5 en 6 gaan door!</v-card-title>
             <v-card-text color="black">  
