@@ -1,6 +1,17 @@
 <template>
     <div>
       <v-card light> 
+        <v-card-title>Update 16-02-2025 - HB 8+ opnieuw geloot</v-card-title>
+            <v-card-text color="black">  
+              Beste deelnemers, <br>
+              Het veld HB 8+ is opnieuw geloot! 
+<br><br>
+              <b>Let op!</b> <br>
+              De rugnummers voor het hele veld zijn veranderd. Deze dienen opgehaald te worden op Lijm & Cultuur.
+            </v-card-text>
+      </v-card>
+      <br>
+      <v-card light> 
         <v-card-title>Update 16-02-2025 - Nieuwe blokindeling</v-card-title>
             <v-card-text color="black">  
               <v-simple-table>
@@ -50,6 +61,9 @@
             <v-card-text color="black">  
               Beste deelnemers, <br>
               Het veld HG 2x is opnieuw geloot! 
+<br><br>
+              <b>Let op!</b> <br>
+              De rugnummers voor het hele veld zijn veranderd. Deze dienen opgehaald te worden op Lijm & Cultuur.
             </v-card-text>
       </v-card>
       <br>
