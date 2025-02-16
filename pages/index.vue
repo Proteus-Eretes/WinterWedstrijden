@@ -1,6 +1,14 @@
 <template>
     <div>
       <v-card light> 
+        <v-card-title>Update 16-02-2025 - Blok 5 en 6 gaan door!</v-card-title>
+            <v-card-text color="black">  
+              Beste deelnemers, <br>
+              Blok 5 en 6 gaan door!
+            </v-card-text>
+      </v-card>
+      <br>
+      <v-card light> 
         <v-card-title>Update 16-02-2025 - HB 8+ opnieuw geloot</v-card-title>
             <v-card-text color="black">  
               Beste deelnemers, <br>
