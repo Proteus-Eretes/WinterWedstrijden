@@ -1,6 +1,43 @@
 <template>
     <div>
       <v-card light> 
+        <v-card-title>Update 16-02-2025 - Nieuwe blokindeling</v-card-title>
+            <v-card-text color="black">  
+              <v-simple-table>
+      <thead>
+        <tr>
+          <th class="text-left">
+            Blok
+          </th>
+          <th class="text-left">
+            Tijd
+          </th>
+          <th class="text-left">
+            Velden
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Blok 5</td>
+          <td>13:00 - 15:00</td>
+          <td>
+            HB 8+, LHB 8+, DB 8+, HG 4+, HB 4+, LHG 4+, LDB 4*, HG 2x, HB 2x, HE 2+, LHE 1x, LHSB 1x, LHG 1x, LHB 1x, LDG 1x, LDB 1x
+          </td>
+        </tr>
+        <tr>
+          <td>Blok 6</td>
+          <td>16:00 - 18:00</td>
+          <td>
+            HE 8+, DE 8+, HE 4+, HM 8+, OM 8+, DG 4+, DB 4+, HM 4*, OM 4*, DM 4*, DG 2x, DB 2x, DG 2-, M18 1x, M16 1x
+          </td>
+        </tr>
+      </tbody>
+    </v-simple-table>
+            </v-card-text>
+      </v-card>
+      <br>
+      <v-card light> 
         <v-card-title>Update 15-02-2025 - Aangepaste vlottijden blok 5 en 6 bekend</v-card-title>
             <v-card-text color="black">  
               Beste deelnemers, <br>
