@@ -358,6 +358,13 @@ export default {
           tijd: "21:59.4"
         },
         {
+          name: "LDE 2x",
+          jaar: "2025",
+          vereniging: "Skadi",
+          slag: "Bavelaar",
+          tijd: "20:36,5"
+        },
+        {
           name: "LDG 2x",
           jaar: "2019",
           vereniging: "Orca",
