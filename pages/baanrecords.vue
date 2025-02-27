@@ -288,7 +288,7 @@ export default {
           tijd: "19:20.0"
         },
         {
-          name: "DG2x",
+          name: "DG 2x",
           jaar: "2024",
           vereniging: "Phocas",
           slag: "de Vries",
@@ -369,7 +369,7 @@ export default {
           jaar: "2025",
           vereniging: "Skadi",
           slag: "Bavelaar",
-          tijd: "20:36,5"
+          tijd: "20:36.5"
         },
         {
           name: "LDG 2x",
