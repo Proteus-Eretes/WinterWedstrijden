@@ -85,6 +85,13 @@ export default {
           tijd: "17:49.0"
         },
         {
+          name: "HE 2+",
+          jaar: "2025",
+          vereniging: "Proteus-Eretes",
+          slag: "Gaard",
+          tijd: "20:43.3"
+        },
+        {
           name: "HE 4+",
           jaar: "2019",
           vereniging: "Willem III/Nereus",
@@ -92,7 +99,7 @@ export default {
           tijd: "16:43.9"
         },
         {
-          name: "HG4 +",
+          name: "HG 4+",
           jaar: "2007",
           vereniging: "Laga",
           slag: "Oostveen",
@@ -289,10 +296,10 @@ export default {
         },
         {
           name: "DB 2x",
-          jaar: "1991",
+          jaar: "2025",
           vereniging: "Skoll",
-          slag: "Bruggemann",
-          tijd: "22:45.9"
+          slag: "Hoexum",
+          tijd: "20:13.5"
         },
         {
           name: "DE 4+",
