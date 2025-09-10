@@ -31,8 +31,8 @@
       <a style="width: 80%; display: inline-block; margin: auto;" href="//dextro-energy.com/pages/dextrose-nl">
         <v-img class="logos" src="/dextro.webp"/>
       </a>
+      <v-img class="logos" src="/Logo-Heineken0.0.png" />
       <v-img class="logos" src="/iris.png" />
-      <v-img class="logos" src="/jupiler-2.svg" />
     </div>
 
   </v-card>
