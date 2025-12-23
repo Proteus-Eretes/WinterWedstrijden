@@ -5,10 +5,10 @@
       Weercode
     </v-card-title>
     <v-card-text>
-      <!-- <span class="dot" style="background-color: LimeGreen">Groen</span> -->
-      <span class="dot" style="background-color: yellow">Geel</span>
+      <span class="dot" style="background-color: LimeGreen">Groen</span>
+      <!-- <span class="dot" style="background-color: yellow">Geel</span> -->
       <!-- <span class="dot" style="background-color: red">Rood</span> -->
-      Geüpdate: 16 feb 2025, 09:30
+      Geüpdate: 12 dec 2025, 18:00
     </v-card-text>
     
     <v-card-title>
