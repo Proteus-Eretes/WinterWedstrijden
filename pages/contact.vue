@@ -14,7 +14,7 @@
         Nederland
         <br />
         <br />
-        Telefoon wedstrijdleiding: +31 6 46913348 en +31 6 45159892
+        Telefoon wedstrijdleiding: +31 6 57364844 en +31 6 45159892
         <br />
         Telefoon bestuur Proteus Eretes: 015-2623720
         <br />

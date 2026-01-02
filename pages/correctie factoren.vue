@@ -1,34 +1,34 @@
 <template>
     <div>
       <v-card flat light>
-        <v-card-title> Correctie factoren 50ste Van Oord WinterWedstrijden 2025 </v-card-title>
+        <v-card-title> Correctiefactoren 51ste Van Oord WinterWedstrijden 2026 </v-card-title>
         <v-card-text>
-          <b>Correctie facotoren</b>
+          <b>Correctiefactoren</b>
           <br>
-          Op  <a href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank">hoesnelwasik.nl</a> staan de geroeide tijden. 
-          In een post op de nieuwspagina van de site zullen gecorrigeerde tijden worden gepubliceerd. 
-          Voor het bedrijfsroeiveld en mastervelden wordt de winnaar bepaald op basis van de gecorrigeerde tijden. 
+           Op de uitslagenpagina in RaceClocker is de tijd, gecorrigeerd aan de hand van de correctiefactoren, in de kolom "Resultaat Handicap" te zien.</br>
           <br>
-          <br/>
+          </br>
           <b>Bedrijfsroeiveld</b>
           <br>
-          Voor de tijden bedrijfsroeiveld zullen de klassement correctiefactoren worden toegepast: 
-          “ Voor elke roeiende vrouw aan boord van de 8+ wordt de eindtijd per wedstrijd met 1,25% verminderd.” 
+          Voor de tijden in het bedrijfsroeiveld zullen de klassementscorrectiefactoren worden toegepast:
+          <br> 
+          “ Voor elke roeiende vrouw aan boord van de 8+ wordt de eindtijd per wedstrijd met 1% verminderd.” 
+          </br>
           <br>
-          <br/>
+          </br>
           <b>Mastervelden</b>
           <br>
-          De correctie factoren zullen worden overgenomen van de KNRB <a href="https://knrb.nl/artikel/correctiefactoren/" target="_blank">(https://knrb.nl/artikel/correctiefactoren/)</a>. Hierbij zullen we een persoonlijke correctiefactor bepalen waarna een bootgemiddelde van de correctie factoren wordt geconstateerd.
+          De KNRB spreekt op dit moment geen voorkeur uit over de correctiemethodiek (zie  <a href="https://knrb.nl/artikel/correctiefactoren/" target="_blank">https://knrb.nl/artikel/correctiefactoren/</a>). Bij de WinterWedstrijden wordt de correctiefactor bepaald aan de hand van een persoonlijke correctiefactor per roeier (zie  <a href="https://www.de-maas.nl/correctiefactoren/tabel-3" target="_blank">Correctiefactoren tabel 3 - KR&ZV De Maas</a>), waaruit een bootgemiddelde wordt bepaald. Hierbij zullen we een persoonlijke correctiefactor bepalen waarna een bootgemiddelde van de correctie factoren wordt geconstateerd.
           <br>
           Voorbeeld:
           <br>
           <pre>
-Roeier      Leeftijd        correctie factor
+Roeier      Leeftijd        correctiefactor
 M           44              0,967
 M           38              0,982
 V           52              0,849
 V           36              0,885
-Bootgemiddelde correctie factor:  0,9208
+Bootgemiddelde correctiefactor:  0,9208
           </pre>
 
         </v-card-text>

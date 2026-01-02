@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-card flat light>
-      <v-card-title> Bepalingen 50ste Van Oord WinterWedstrijden 2025 </v-card-title>
+      <v-card-title> Bepalingen 51ste Van Oord WinterWedstrijden 2026 </v-card-title>
       <v-card-text>
         <b>Inschrijvingsbepalingen</b>
         <ol>
@@ -9,33 +9,33 @@
             Tijdrace over 5 km voor alle velden.
           </li>
           <li>
-            Wedstrijdleiding: Floor Battjes & Nino Bonsangue, tel: +31 6 46 91 33 48 & +31 6 45 15 98 92. <br />E-mail:
+            Wedstrijdleiding: Aleid Goverts & Nino Bonsangue, tel: +31 6 57 36 48 44 & +31 6 45 15 98 92. <br />E-mail:
             wedstrijdleiding.winterwedstrijden@proteus-eretes.nl <br />Hoofd van
             de jury: Mathijs Louter
           </li>
           <li>
-            Inschrijvingen: tot maandag 10 februari 2025, 20:00 uur via het KNRB
+            Inschrijvingen: tot maandag 9 februari 2026, 20:00 uur via het KNRB
             inschrijfprogramma.
           </li>
           <li>
-            Wijzigingen: tot vrijdag 14 februari 2025, 20:00 via het KNRB
+            Wijzigingen: tot zondag 15 februari 2025, 20:00 via het KNRB
             inschrijfprogramma.
           </li>
           <li>
-            Inschrijfgelden: <br />Senior: skiff €36,00; twee €64,00; vier
-            €98,00; acht €137,00. <br />Junior: skiff €25,00; twee €51,00; vier
-            €70,00. <br />Bedrijfsacht €225,00.
+            Inschrijfgelden: <br />Senior: skiff €37,00; twee €65,00; vier
+            €100,00; acht €140,00. <br />Junior: skiff €30,00; twee €61,00; vier
+            €84,00. <br />Bedrijfsacht €230,00.
           </li>
           <li>
-            Het inschrijfgeld dient donderdag 13 februari 2025 voor 17:00 uur op
+            Het inschrijfgeld dient donderdag 12 februari 2026 voor 17:00 uur op
             bankrekening te staan, met nummer NL44 RABO 0103 4052 40 t.n.v.
             D.S.R. Proteus-Eretes inz. WinterWedstrijden te Delft o.v.v.
             verenigingsnaam. Mocht hieraan niet zijn voldaan, dan moet het
             volledige inschrijfgeld van de vereniging bij aanmelden van de
-            eerste ploeg van het weekend, per pinpas worden voldaan.
+            eerste ploeg van het weekend, per pinpas worden voldaan. Hier kunnen mogelijke transactiekosten aan verbonden zijn.
           </li>
           <li>
-            Loting: woensdag 12 februari 2025, 20:00 uur, D.S.R. Proteus-Eretes,
+            Loting: woensdag 11 februari 2026, 20:00 uur, D.S.R. Proteus-Eretes,
             Rotterdamseweg 362a Delft, telefoon: +31 15 2623720.
           </li>
           <li>
@@ -44,7 +44,7 @@
           </li>
           <li>
             Wedstrijdnummers met minder dan 3 inschrijvingen worden niet
-            verroeid. Uitzondering zijn juniorenvelden en mastervelden,
+            verroeid. Uitzondering zijn juniorenvelden, mastervelden en bedrijfsachten,
             hiervoor zijn 2 inschrijvingen nodig. Wedstrijdnummers met
             respectievelijk minder dan 3 of 2 inschrijvingen, zullen indien
             mogelijk worden samengevoegd met andere velden van hogere categorie.
@@ -64,7 +64,7 @@
     <br>
 
     <v-card flat light>
-      <v-card-title> Reglementen 50ste Van Oord WinterWedstrijden 2025 </v-card-title>
+      <v-card-title> Reglementen 51ste Van Oord WinterWedstrijden 2026 </v-card-title>
       <v-card-text>
         <ol>
           <li>
@@ -125,13 +125,13 @@
                   elke ploeg een tijd om te water te gaan.
                 </li>
                 <li>
-                  Alle ploegen dienen op een voor hen voorgeschreven tijdstip gereed te zijn om het water op te gaan. Dit tijdstip is afhankelijk van het veld waarin geroeid wordt en de lotingsvolgorde. De sluitingstijd van de vlotten verschilt per veld. Ploegen die na hun vlottijd pas gereed zijn, kunnen enkel het water op gaan indien de omstandigheden dit toelaten. 
+                  Alle ploegen dienen op een voor hen voorgeschreven tijdstip gereed te zijn om het water op te gaan. Dit tijdstip is afhankelijk van het veld waarin geroeid wordt en de lotingsvolgorde. De sluitingstijd van de vlotten verschilt per veld en staan vermeld op www.winterwedstrijden.nl. Ploegen die na hun vlottijd pas gereed zijn, kunnen enkel het water op gaan indien de omstandigheden dit toelaten. Boten die vanuit eigen gelegenheid te water gaan, dienen de vlotten gepasseerd te zijn voor de uiterlijke sluitingstijd van de vlotten voor het desbetreffende veld.
                 </li>
                 <li>
                   De controlecommissie kan bij het missen van de vlottijd besluiten omtrent de toe te passen disciplinaire maatregelen, zoals omschreven in artikel 75 RvR.
                 </li>
                 <li>
-                  Elke ploeg dient uiterlijk 25 minuten voor de starttijd van het betreffende blok ten minste 2 km (ter hoogte van een wit bruggetje en gemaal) opgeroeid te zijn in de richting van Rotterdam. Ploegen die na deze tijd dit punt passeren, dienen terug te keren richting Delft.
+                  Elke ploeg dient uiterlijk 25 minuten voor de starttijd van het betreffende blok onder de kandelaarbrug door opgeroeid te zijn in de richting van Rotterdam. Ploegen die na deze tijd dit punt passeren, dienen terug te keren richting Delft.
                 </li>
                 <li>
                   Alle ploegen dienen zich uiterlijk 10 minuten vóór de eerste start van een blok achter de startlijn te bevinden. De jury kan bij het missen van dit tijdslot besluiten omtrent de toe te passen disciplinaire maatregelen, zoals omschreven in artikel 75 RvR.
@@ -166,14 +166,10 @@
           <li><b>Rugnummers en boegbord</b></li>
           <ul>
             <li>
-              Iedere ploeg is verantwoordelijk voor zijn eigen herkenbaarheid. Naast het verenigingsspecifieke tenue en bladen worden daarvoor drie rugnummers en een boegnummer. De rug- en boegnummers zijn te verkrijgen bij de inschrijfbalie 2 tot 1 uur voor aanvang van elk blok. Alle rug- en boegnummers dienen voor 18:00 uur op de gestarte dag ingeleverd te worden. Voor het niet of te laat inleveren van de rugnummers en/of boegnummer wordt maximaal EUR 20,- (rugnummers EUR 10,- en boegnummer EUR 10,-) in rekening gebracht bij de desbetreffende vereniging.
+              De rugnummers moeten duidelijk zichtbaar op de rug van de boegroeier (één op het oproeitenue en één op het wedstrijdtenue) worden gedragen. Bij gestuurde nummers is het derde rugnummer voor op de rug van de achterin zittende stuurman (-vrouw) of voor op het achterdek bij een voorin liggende stuurman (-vrouw).
             </li>
             <li>
-              De rugnummers moeten duidelijk zichtbaar op de rug van de
-              boegroeier (één op oproeitenue en één op wedstrijdtenue) worden
-              gedragen. Bij gestuurde nummers is het derde rugnummer voor op de
-              rug van de achterin zittende stuurman (-vrouw) of voor op het
-              achterdek bij een voorin liggende stuurman (-vrouw).
+              De rug- en boegnummers zijn te verkrijgen bij de inschrijfbalie 2 tot 1 uur voor aanvang van elk blok. Alle rug- en boegnummers dienen voor 18:00 uur op de gestarte dag ingeleverd te worden. Voor het niet of te laat inleveren van de rugnummers en/of boegnummer wordt maximaal EUR 20,- (rugnummers EUR 10,- en boegnummer EUR 10,-) in rekening gebracht bij de desbetreffende vereniging.
             </li>
             <li>
               Het boegnummer dient op de daarvoor bestemde houder op de boeg
@@ -233,9 +229,7 @@
           <li><b>Protesten, aanvaringen en materiaalpech</b></li>
           <ul>
             <li>
-              Een protest, kenbaar gemaakt door het onmiddellijk ná het passeren
-              van de finish opsteken van een hand door één van de leden van de
-              ploeg. Het protest moet uiterlijk binnen 60 minuten na de laatste
+              Een protest wordt kenbaar gemaakt door het, onmiddellijk ná het passeren van de finish, opsteken van een hand door één van de leden van de ploeg. Het protest moet uiterlijk binnen 60 minuten na de laatste
               finish van het betreffende blok schriftelijk bij de
               wedstrijdleiding worden bevestigd door de
               verenigingsvertegenwoordiger. De vertegenwoordigers van de bij een
@@ -248,11 +242,11 @@
               betreffende partij te horen.
             </li>
             <li>
-              Materiaalschade dient gemeld te worden bij de kamprechter, die
+              Materiaalschade dient gemeld te worden bij het jurylid, dat
               aanwezig is op het botenterrein of bij de wedstrijdleiding vóór de
               vlottijd van de roeiende ploeg. Indien er na de vlottijd
-              materiaalschade optreedt dient deze direct gemeld te worden aan de
-              kamprechter of het lid van de organisatie ter plaatse. Als de
+              materiaalschade optreedt dient deze direct gemeld te worden aan het
+              jurylid of het lid van de organisatie ter plaatse. Als de
               schade deelname aan de wedstrijd redelijkerwijs hindert, dit ter
               beoordeling van de jury, kan de vlottijd worden uitgesteld tot
               maximaal 45 min voor de eerste start van het aanstaande blok.
@@ -288,7 +282,7 @@
               aflegt. Deze tijd wordt voor iedere ploeg in tienden van seconden
               nauwkeurig apart genomen
             </li>
-            <li>De winnaar is de ploeg met de snelste tijd. Behalve bij master- en berdijfsroeivelden, bij deze velden wordt een correctie factor toegepast, deze is gepubliceerd op de website www.winterwedstrijden.nl. </li>
+            <li>De winnaar is de ploeg met de snelste tijd. Behalve bij master- en bedrijfsroeivelden, bij deze velden wordt een correctie factor toegepast, deze is gepubliceerd op de website www.winterwedstrijden.nl. </li>
             <li>
               Bij tijdsverschillen kleiner dan 0,2 seconden, is er sprake van
               een ex aequo.
@@ -305,12 +299,7 @@
               Lichte roeiers:
               <ul>
                 <li>
-                  De weging zal plaatsvinden 2 tot 1 uur voor aanvang van elk
-                  blok, op een aangegeven locatie.
-                </li>
-                <li>
-                  Eerstejaars lichte ploegen (LEj8+, LEj4+ en LDEj4*) mogen 2,5
-                  tot 1 uur voor de aanvang van het blok wegen.
+                  Conform doorlopende dispensatie van de KNRB zal de weging van de Winterwedstrijden voor alle roeiers plaatsvinden tussen één en tweeënhalf uur voor starttijd van het blok van de betreffende race. De weging zal plaatsvinden op een aangegeven locatie.
                 </li>
                 <li>
                   De weging verloopt volgens de regels zoals beschreven artikel 41 van het RvR. Er is geen sprake van wintergewicht op deze wedstrijd, ploegen worden ingewogen indien deze voldoen aan respectievelijk artikel 5 lid 1,2 RvR.
@@ -326,18 +315,8 @@
               Stuurlieden:
               <ul>
                 <li>
-                  Alle ploegen mogen zowel door een stuurvrouw als stuurman
-                  gestuurd worden.
-                </li>
-                <li>
-                  De weging zal plaatsvinden 2 tot 1 uur voor aanvang van elk
-                  blok, op een aangegeven locatie.
-                </li>
-                <li>
-                  De gewichten van een stuurlieden zijn overeenkomstig met de
-                  criteria van artikel 7 van het RvR.
-                </li>
-                <li>Stuurlieden dienen zelf eventuele ballast mee te nemen.</li>
+                  Er is geen weging voor stuurlieden, aangezien deze wedstrijd geen klasserende wedstrijd is, zoals beschreven is in artikel 7 lid 3 van het RvR.
+                </li>  
               </ul>
             </li>
           </ul>
@@ -421,12 +400,10 @@
             </li>
           </ul>
           <br />
-          <li><b>Afwijking van bepalingen</b></li>
+          <li><b>Afwijking van bepalingen en reglementen</b></li>
           <ul>
             <li>
-              Van de hierboven omschreven bepalingen moet worden afgeweken voor
-              zover de eisen van goed zeemanschap en sportiviteit dit onder
-              bijzondere omstandigheden vereisen.
+              Goed zeemanschap en sportiviteit is ten alle tijden belangrijk
             </li>
             <li>In niet voorziene gevallen beslist het Hoofd van de Jury</li>
           </ul>

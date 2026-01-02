@@ -29,16 +29,11 @@
           wij u naar RvR artikel 7, lid 3.
         </li>
         <li>
-          Stuurlieden worden gewogen op de ergozolder van Proteus-Eretes, net als de roeiers
-          2 (2.5 voor EJ-velden) tot 1 uur voor de start van het blok waarin gestart wordt.
-        </li>
-        <li>
-          Stuurlieden voor Veteranen-, Club- Mixed, Bedrijfs- en Junioren 16 ploegen worden 
-          niet gewogen.
-        </li>
-        <li>
-          Indien een stuurman/vrouw niet aan de eisen conform RvR atrikel 7 voldoet, wordt de 
-          ploeg uitgesloten.
+        Het RvR is afgelopen november gewijzigd. We attenderen stuurlieden graag op de volgende wijziging:
+        <br>
+        Op <s>Nationale </s> <u>klasserende</u> wedstrijden geldt voor stuurlieden van ploegen die starten in 
+        een veld voor Senioren een <u> minimumgewicht</u> <s>of Junioren 18 een minimumgewicht</s>.
+        </br>
         </li>
       </ul>
     </v-card-text>
