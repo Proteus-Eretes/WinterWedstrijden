@@ -155,13 +155,13 @@
       <thead>
         <tr>
           <th class="text-left">
-            Blok
+            Shift
           </th>
           <th class="text-left">
-            Tijd
+            Time
           </th>
           <th class="text-left">
-            Velden
+            Event
           </th>
         </tr>
       </thead>
