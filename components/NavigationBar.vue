@@ -14,7 +14,8 @@
         <v-btn href="/Nieuwe vlotindeling V2.pdf" target="_blank" text width="100%" class="drawer--item">Vlottijden</v-btn>
         <v-btn to="/fietsverhuur" text width="100%" class="drawer--item">Fietsverhuur</v-btn>
         <v-btn to="/geschiedenis" text width="100%" class="drawer--item">Geschiedenis</v-btn>            
-        <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text width="100%" class="drawer--item">Uitslagen</v-btn>
+        <v-btn href="https://www.raceclocker.com/d2fddf6-startlist" target="_blank" text width="100%" class="drawer--item">Loting</v-btn>
+        <v-btn href="https://www.raceclocker.com/d2fddf6" target="_blank" text width="100%" class="drawer--item">Uitslagen</v-btn>
         <v-btn to="/baanrecords" text width="100%" class="drawer--item">Baanrecords</v-btn>
         <v-btn href="https://www.proteus-eretes.nl/fotos" target="_blank" text width="100%" class="drawer--item">Foto's</v-btn>
         <v-btn to="/van%20oord" text width="100%" class="drawer--item">Van Oord</v-btn>
@@ -112,7 +113,19 @@
           </v-list>
         </v-menu>
 
-        <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text dark>Uitslagen</v-btn>
+          <v-menu offset-y>
+            <template v-slot:activator="{ on }">
+              <v-btn text dark v-on="on">Loting & Uitslagen</v-btn>
+            </template>
+            <v-list dense>
+              <v-list-item>
+                <v-btn href="https://www.raceclocker.com/d2fddf6-startlist" target="_blank" flat text>Loting</v-btn>
+              </v-list-item>
+              <v-list-item>
+                <v-btn href="https://www.raceclocker.com/d2fddf6" target="_blank" flat text>Uitslagen</v-btn>
+              </v-list-item>
+            </v-list>
+          </v-menu>
         <v-btn href="https://www.proteus-eretes.nl/fotos" target="_blank" text dark>Foto's</v-btn>
         <v-btn to="/van%20oord" text dark>Van Oord</v-btn>
         <v-btn to="/contact" text dark>Contact</v-btn>
