@@ -7,13 +7,13 @@
       <h1>General Information</h1>
       <h2>Entries</h2>
       <p>
-        On the 15th and 16th of February 2025 the 50th Van Oord
+        On the 14th and 15th of February 2026 the 51th Van Oord
         WinterWedstrijden Regatta will take place on the river Schie between
         Rotterdam and Delft, The Netherlands. This is the first regatta of the
         national rowing season and we would be very happy to receive
         participating teams from all over the world. Entries for international
-        crews will be open from the 27th of January until the 10th February
-        2025.
+        crews will be open from the 26th of January until the 9th February
+        2026.
       </p>
       <p>
         To participate, send an email to
@@ -49,10 +49,15 @@
       </p>
       <h2>Registration Fees</h2>
       <ul>
-        <li>€137,- for an 8+.</li>
-        <li>€98,- for a 4x and 4+.</li>
-        <li>€64,- for a 2x and 2-.</li>
-        <li>€36,- for a 1x.</li>
+        <li>
+            Senior: 1x €37,00; 2x/- €65,00; 4+/* €100,00; 8+ €140,00. 
+        </li>
+        <li>
+            Junior: 1x €30,00; 2x/- €61,00; 4+/* €84,00.
+        </li>
+        <li>
+            Business 8+ €230,00.
+        </li>
       </ul>
       <h2>Boat Rental</h2>
       <p>
@@ -106,82 +111,83 @@
         </ol>
       </p>
       <h1>Time Schedule</h1>
-      <h2>Saturday February 15th 2025</h2>
-      <v-simple-table>
-        <thead>
-          <tr>
-            <th class="text-left">
-              Shift
-            </th>
-            <th class="text-left">
-              Time
-            </th>
-            <th class="text-left">
-              Fields
-            </th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Shift 1</td>
-            <td>10:00 - 12:00</td>
-            <td>
-              M 1x, LM 2x
-            </td>
-          </tr>
-          <tr>
-            <td>Shift 2</td>
-            <td>13:00 - 15:00</td>
-            <td>
-              W 1x, LW 2x
-            </td>
-          </tr>
-          <tr>
-            <td>Shift 3</td>
-            <td>16:00 - 18:00</td>
-            <td>
-              M 2-
-            </td>
-          </tr>
-        </tbody>
-      </v-simple-table>
-      <h2>Sunday February 16th 2025</h2>
-      <v-simple-table>
-        <thead>
-          <tr>
-            <th class="text-left">
-              Shift
-            </th>
-            <th class="text-left">
-              Time
-            </th>
-            <th class="text-left">
-              Fields
-            </th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Shift 4</td>
-            <td>10:00 - 12:00</td>
-            <td>
-              M 4+, LW 1x, W 2-, W 2x, W 4+
-            </td>
-          </tr>
-          <tr>
-            <td>Shift 5</td>
-            <td>13:00 - 15:00</td>
-            <td>
-              LM 1x, M 2x
-            </td>
-          </tr>
-          <tr>
-            <td>Shift 6</td>
-            <td>16:00 - 18:00</td>
-            <td>W 4*, M 8+, W 8+</td>
-          </tr>
-        </tbody>
-      </v-simple-table>
+      <h2>Saturday February 14th 2026</h2>
+   <v-simple-table>
+      <thead>
+        <tr>
+          <th class="text-left">
+            Shift
+          </th>
+          <th class="text-left">
+            Time
+          </th>
+          <th class="text-left">
+            Event
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Shift 1</td>
+          <td>10:00 - 12:00</td>
+          <td>
+            M2-, LM 2-, LW 2x, W1x
+          </td>
+        </tr>
+        <tr>
+          <td>Shift 2</td>
+          <td>13:00 - 15:00</td>
+          <td>
+            OMasters 4*, LM2x, Junior M18 2x, Junior M16 2x, MMasters 1x, WMasters 1x, Junior W18 1x, Junior W16 1x
+          </td>
+        </tr>
+        <tr>
+          <td>Shift 3</td>
+          <td>16:00 - 17:45</td>
+          <td>
+            W2-, M1x
+          </td>
+        </tr>
+      </tbody>
+    </v-simple-table>
+      <h2>Sunday February 15th 2026</h2>
+    <v-simple-table>
+      <thead>
+        <tr>
+          <th class="text-left">
+            Blok
+          </th>
+          <th class="text-left">
+            Tijd
+          </th>
+          <th class="text-left">
+            Velden
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Shift 4</td>
+          <td>10:00 - 12:00</td>
+          <td>
+            M8+, Business 8+, M4+, W4+, LW4*, W2x, MMasters 2x, OMasters 2x, WMasters 2x, LM1x
+          </td>
+        </tr>
+        <tr>
+          <td>Shift 5</td>
+          <td>13:00 - 15:00</td>
+          <td>
+            LM8+, W8+, W4+, M2x, Junior W18 2x, Junior W16 2x, LW1x, Junior M18 1x, Junior M16 1x
+          </td>
+        </tr>
+        <tr>
+          <td>Shift 6 </td>
+          <td>16:00 - 17:45</td>
+          <td> M8+, LM8+, W8+, Mix8+, OMasters 8+, M4+, LM4+, W4*, Junior O18 4*, Junior O16 4*
+          </td>
+        </tr>
+      </tbody>
+    </v-simple-table>
       <h1>Coxswains and steering bows</h1>
       <h2>Race instructions</h2>
       <p>
@@ -214,17 +220,8 @@
           Rules of Racing, Article 7, sub3. (only in Dutch)
         </li>
         <li>
-          Coxswain weighing will take place at "Proteus-Eretes"
-          (Rotterdamseweg 362a, Delft). Like the rowers, also the coxswains
-          weighing will take place between 2 and 1 hours before the start of
-          their own devision.
+          No weighing of coxswains for all events.
         </li>
-        <li>
-          No weighing of coxswains for master, mixed, corporate and junior
-          events.
-        </li>
-        <li>Coxswains must be weighed wearing their racing uniform.</li>
-        <li>Coxswains must provide their own deadweight if needed.</li>
       </ul>
       <h2>Coxswain age</h2>
       <p>
@@ -236,7 +233,7 @@
       <h1>Weather Codes</h1>
       <p>
         The Van Oord WinterWedstrijden regatta uses weather codes. As from
-        Wednesday before the race weekend, 20.00h, the up to date weather codes
+        Sunday the week before the race weekend, the up to date weather codes
         will be presented at the home page.
       </p>
       <p>
@@ -246,18 +243,9 @@
       <p>The weather codes will be communicated on the homepage.</p>
       <p>
         The decision if a time slot will be cancelled or continued will be made
-        at least 1 hour and 30 minutes before the first start of each time slot.
-        From that moment the colour green or red will be featured. This means
-        the decision will be made at:
+        well in advance before the start of the race.
+        From that moment the colour green or red will be featured.
       </p>
-      <ul>
-        <li>Time slot 1: Saturday, 08:30</li>
-        <li>Time slot 2: Saturday, 11:30</li>
-        <li>Time slot 3: Saturday, 14:15</li>
-        <li>Time slot 4: Sunday, 08:30</li>
-        <li>Time slot 5: Sunday, 11:30</li>
-        <li>Time slot 6: Sunday, 14:15</li>
-      </ul>
       <h2>Explanation weather codes</h2>
       <p>
         <b>Green:</b> The weather is not indicating any reason to change
