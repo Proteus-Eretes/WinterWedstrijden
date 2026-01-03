@@ -6,15 +6,16 @@
         <v-btn to="/" text width="100%" class="drawer--item">Nieuws</v-btn>
         <v-btn to="/blokken" text width="100%" class="drawer--item">Blokken</v-btn>
         <v-btn to="/bepalingen" text width="100%" class="drawer--item">Bepalingen</v-btn>
-        <v-btn to="/correctie factoren" text width="100%" class="drawer--item">Correctiefactoren</v-btn>
+        <v-btn to="/correctiefactoren" text width="100%" class="drawer--item">Correctiefactoren</v-btn>
         <v-btn to="/baan" text width="100%" class="drawer--item">Baankaart</v-btn>
         <v-btn to="/plattegrond" text width="100%" class="drawer--item">Parkeren & Plattegrond</v-btn>
         <v-btn to="/stuurlieden" text width="100%" class="drawer--item">Stuurlieden</v-btn>
-        <v-btn to="/velden" text width="100%" class="drawer--item">Velden</v-btn>
+        <v-btn href="https://roeievenementen.knrb.nl/tournament-details/3449?tab=details" text width="100%" class="drawer--item">Velden</v-btn>
         <v-btn href="/Nieuwe vlotindeling V2.pdf" target="_blank" text width="100%" class="drawer--item">Vlottijden</v-btn>
         <v-btn to="/fietsverhuur" text width="100%" class="drawer--item">Fietsverhuur</v-btn>
         <v-btn to="/geschiedenis" text width="100%" class="drawer--item">Geschiedenis</v-btn>            
-        <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text width="100%" class="drawer--item">Uitslagen</v-btn>
+        <v-btn href="https://www.raceclocker.com/d2fddf6-startlist" target="_blank" text width="100%" class="drawer--item">Loting</v-btn>
+        <v-btn href="https://www.raceclocker.com/d2fddf6" target="_blank" text width="100%" class="drawer--item">Uitslagen</v-btn>
         <v-btn to="/baanrecords" text width="100%" class="drawer--item">Baanrecords</v-btn>
         <v-btn href="https://www.proteus-eretes.nl/fotos" target="_blank" text width="100%" class="drawer--item">Foto's</v-btn>
         <v-btn to="/van%20oord" text width="100%" class="drawer--item">Van Oord</v-btn>
@@ -75,7 +76,7 @@
               <v-btn to="/bepalingen" flat text>Bepalingen</v-btn>
             </v-list-item>
             <v-list-item>
-              <v-btn to="/correctie factoren" flat text>Correctiefactoren</v-btn>
+              <v-btn to="/correctiefactoren" flat text>Correctiefactoren</v-btn>
             </v-list-item>
             <v-list-item>
               <v-btn to="/baan" flat text>Baankaart</v-btn>
@@ -87,7 +88,7 @@
               <v-btn to="/stuurlieden" flat text>Stuurlieden</v-btn>
             </v-list-item>
             <v-list-item>
-              <v-btn to="/velden" flat text>Velden</v-btn>
+              <v-btn href="https://roeievenementen.knrb.nl/tournament-details/3449?tab=details" flat text>Velden</v-btn>
             </v-list-item>
             <v-list-item>
               <v-btn href="/Nieuwe vlotindeling V2.pdf" target="_blank" text dark>Vlottijden</v-btn>
@@ -112,7 +113,19 @@
           </v-list>
         </v-menu>
 
-        <v-btn href="https://hoesnelwasik.nl/ww/0/uitslagen#blocks" target="_blank" text dark>Uitslagen</v-btn>
+          <v-menu offset-y>
+            <template v-slot:activator="{ on }">
+              <v-btn text dark v-on="on">Loting & Uitslagen</v-btn>
+            </template>
+            <v-list dense>
+              <v-list-item>
+                <v-btn href="https://www.raceclocker.com/d2fddf6-startlist" target="_blank" flat text>Loting</v-btn>
+              </v-list-item>
+              <v-list-item>
+                <v-btn href="https://www.raceclocker.com/d2fddf6" target="_blank" flat text>Uitslagen</v-btn>
+              </v-list-item>
+            </v-list>
+          </v-menu>
         <v-btn href="https://www.proteus-eretes.nl/fotos" target="_blank" text dark>Foto's</v-btn>
         <v-btn to="/van%20oord" text dark>Van Oord</v-btn>
         <v-btn to="/contact" text dark>Contact</v-btn>

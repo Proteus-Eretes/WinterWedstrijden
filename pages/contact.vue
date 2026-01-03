@@ -23,8 +23,9 @@
         Wedstrijdleiding: wedstrijdleiding.winterwedstrijden@proteus-eretes.nl
         <br />
         <br />
-        Website van WinterWedstrijden: www.winterwedstrijden.nl Website van
-        D.S.R. Proteus-Eretes: www.proteus-eretes.nl
+        Website van WinterWedstrijden: <a href="https://www.winterwedstrijden.nl">www.winterwedstrijden.nl</a>
+        <br/>
+        Website van D.S.R. Proteus-Eretes: <a href="https://www.proteus-eretes.nl">www.proteus-eretes.nl</a>
       </v-card-text>
     </v-card>
     <br />
