@@ -11,7 +11,7 @@
         <v-btn to="/plattegrond" text width="100%" class="drawer--item">Parkeren & Plattegrond</v-btn>
         <v-btn to="/stuurlieden" text width="100%" class="drawer--item">Stuurlieden</v-btn>
         <v-btn href="https://roeievenementen.knrb.nl/tournament-details/3449?tab=details" text width="100%" class="drawer--item">Velden</v-btn>
-        <v-btn href="/Nieuwe vlotindeling V2.pdf" target="_blank" text width="100%" class="drawer--item">Vlottijden</v-btn>
+        <v-btn href="/vlottijden-2026.pdf" target="_blank" text width="100%" class="drawer--item">Vlottijden</v-btn>
         <v-btn to="/fietsverhuur" text width="100%" class="drawer--item">Fietsverhuur</v-btn>
         <v-btn to="/geschiedenis" text width="100%" class="drawer--item">Geschiedenis</v-btn>            
         <v-btn href="https://www.raceclocker.com/d2fddf6-startlist" target="_blank" text width="100%" class="drawer--item">Loting</v-btn>
@@ -91,7 +91,7 @@
               <v-btn href="https://roeievenementen.knrb.nl/tournament-details/3449?tab=details" flat text>Velden</v-btn>
             </v-list-item>
             <v-list-item>
-              <v-btn href="/Nieuwe vlotindeling V2.pdf" target="_blank" text dark>Vlottijden</v-btn>
+              <v-btn href="/vlottijden-2026.pdf" target="_blank" text dark>Vlottijden</v-btn>
             </v-list-item>
           </v-list>
         </v-menu>
