@@ -90,8 +90,6 @@
         </tr>
       </tbody>
     </v-simple-table>
-      </tbody>
-
   </v-card>
 </template>
 
