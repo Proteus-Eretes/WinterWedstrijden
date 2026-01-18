@@ -10,7 +10,7 @@
       <br>
       Na het bekijken van de video moet elk stuurlid een test maken. De test is
       te vinden onder de volgende link: 
-      <a href="https://forms.gle/wAUogQRQWMwTE2jn7" target="_blank">Stuurliedentest</a>.
+      <a href="https://forms.gle/DrfNPSzdXhE2z1Kk9" target="_blank">Stuurliedentest</a>.
     </v-card-text>
     <br>
     <div class="video">
