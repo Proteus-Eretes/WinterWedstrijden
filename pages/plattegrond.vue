@@ -7,7 +7,7 @@
         Wanneer u van plan bent om met de auto naar de wedstrijd te komen is het niet mogelijk om de auto op het terrein te parkeren. 
         De beste optie is een parkeergarage op 300 meter lopen van Lijm en Cultuur. Dit is TU Delft Parking P5 met als adres: Cornelis Drebbelweg 1, 1349 GM Delft. 
         Indien deze parkeerplaats vol blijkt te zijn, kunt u naar een van de andere garages op de campus. Hier kunt u op zaterdag en zondag gratis parkeren. 
-        Belangrijk is wel dat u een bankpas of OV-chipkaart nodig heeft om zich te registreren. Deze dient u tegen de slagboom aan te houden. 
+        Belangrijk is wel dat u een bankpas of OV-chipkaart nodig heeft om zich te registreren. Deze dient u tegen de inritzuil aan te houden. 
         Zolang u op momenten parkeert waarop gratis parkeren van toepassing is, zal er niets afgeschreven worden.
         <br>
         Zie onderstaande link en afbeelding voor meer informatie:
@@ -23,7 +23,7 @@
         Bowa's 
       </v-card-title>
       <v-card-text>
-        Als u aankomt met uw botenwagen bij de wedstrijd, neem dan contact op met +316 47165273 (Koen de Regt) of +316 11153068 (Aafke Tilstra). 
+        Als u aankomt met uw botenwagen bij de wedstrijd, neem dan contact op met +316 11153068 (Aafke Tilstra) of +316 21373247 (Roef Bekker). 
         Let op dat het niet mogelijk is om tijdens de blokwisseling het terrein op te rijden of te verlaten met een botenwagen. 
         Plan uw aankomst en vertrek zo dat het tijdens een blok is. 
         U mag het terrein van Lijm en Cultuur betreden of verlaten met de botenwagen als de organisatie toestemming heeft gegeven.
