@@ -18,7 +18,9 @@
           </br>
           <b>Mastervelden</b>
           <br>
-          De KNRB spreekt op dit moment geen voorkeur uit over de correctiemethodiek (zie  <a href="https://knrb.nl/artikel/correctiefactoren/" target="_blank">https://knrb.nl/artikel/correctiefactoren/</a>). Bij de WinterWedstrijden wordt de correctiefactor bepaald aan de hand van een persoonlijke correctiefactor per roeier (zie  <a href="https://www.de-maas.nl/correctiefactoren/tabel-3" target="_blank">Correctiefactoren tabel 3 - KR&ZV De Maas</a>), waaruit een bootgemiddelde wordt bepaald. Hierbij zullen we een persoonlijke correctiefactor bepalen waarna een bootgemiddelde van de correctie factoren wordt geconstateerd.
+          De KNRB spreekt op dit moment geen voorkeur uit over de correctiemethodiek (zie  <a href="https://knrb.nl/artikel/correctiefactoren/" target="_blank">https://knrb.nl/artikel/correctiefactoren/</a>). 
+          Bij de WinterWedstrijden wordt de correctiefactor bepaald aan de hand van een persoonlijke correctiefactor per roeier (zie  <a href="https://www.de-maas.nl/correctiefactoren/tabel-3" target="_blank">Correctiefactoren tabel 3 - KR&ZV De Maas</a>), 
+          waaruit een bootgemiddelde wordt bepaald. Hiermee kunnen we binnen een veld correctie toepassen, tussen velden (Master 4* en Master 8+) wordt dit niet toegepast, waar ieder veld haar eigen winnaar heeft.
           <br>
           Voorbeeld:
           <br>
