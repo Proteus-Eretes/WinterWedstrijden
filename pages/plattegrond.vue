@@ -40,7 +40,7 @@
         Rotterdamseweg 362A<br>
         2628 AT<br>
         Delft
-        <img src="/plattegrondpe.png" class="baankaart" />
+        <img src="Plattegrond Beuk 2026 (1).png" class="baankaart" />
       </v-card-text>
       <v-card-title>
         Plattegrond Lijm & Cultuur
