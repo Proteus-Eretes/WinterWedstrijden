@@ -28,6 +28,9 @@
       <a style="width: 100%; display: inline-block;" href="//www.roeigoed.nl">
         <v-img class="logos" src="/roeigoed.jpeg" />
       </a>
+      <a style="width: 100%; display: inline-block;" id = "westvaer" href="//www.westvaer.nl">
+        <v-img class="logos"  src="https://www.westvaer.nl/assets/themes/site/img/logo-wit.svg" />
+      </a> 
     </div>
 
   </v-card>
@@ -47,6 +50,13 @@
 .logos {
   width: 87.5%;
   margin: 4px 6.25%;
+}
+#westvaer {
+  background-color: #0e1d42;
+  border-radius: 6px; /* rounded corners */
+  padding: 8px; /* space between SVG and edge */
+  margin: 0px 16px;
+  margin-bottom: 12px;
 }
 
 .dot {
