@@ -81,7 +81,25 @@
             </v-card-text>
       </v-card>
       <br> -->
-     
+    <br>
+    <v-card light>
+            <v-card-title>Mededeling stuurlieden</v-card-title>
+            <v-card-text color="black"> 
+              Het RvR is afgelopen november gewijzigd. We attenderen stuurlieden graag op de volgende wijziging:
+        <br>
+        Op <s>Nationale </s> <u>klasserende</u> wedstrijden geldt voor stuurlieden van ploegen die starten in 
+        een veld voor Senioren een <u> minimumgewicht</u> <s>of Junioren 18 een minimumgewicht</s>.
+            </v-card-text>
+    </v-card>
+    <br><v-card light>
+            <v-card-title>Inschrijvingen geopend</v-card-title>
+            <v-card-text color="black"> 
+            U kunt zich nu via uw verenigingsvertegenwoordiger inschrijven in het KNRB-systeem.
+            <br>
+            De inschrijvingen zijn tot 9 februari 2026- 20:00 geopend.
+            </v-card-text>
+    </v-card>
+    <br>
     <v-card light>
             <v-card-title>51ste Van Oord WinterWedstrijden</v-card-title>
             <v-card-text color="black"> Vijf kilometer varen in een achtervolgingsrace op de Schie in

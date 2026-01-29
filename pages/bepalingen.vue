@@ -114,18 +114,14 @@
                     startgebied stipt op te volgen.
                   </li>
                   <li>
-                    De jury kan bij het niet opvolgen van aanwijzingen disciplinaire maatregelen toepassen, zoals omschreven in artikel 56 RVR .
+                    De jury kan bij het niet opvolgen van aanwijzingen disciplinaire maatregelen toepassen, zoals omschreven in artikel 75 RVR.
                   </li>
                 </ul>
               </li>
               <li>Tijdig oproeien:</li>
               <ul>
                 <li>
-                  Ten tijde van de loting publiceert de wedstrijdleiding voor
-                  elke ploeg een tijd om te water te gaan.
-                </li>
-                <li>
-                  Alle ploegen dienen op een voor hen voorgeschreven tijdstip gereed te zijn om het water op te gaan. Dit tijdstip is afhankelijk van het veld waarin geroeid wordt en de lotingsvolgorde. De sluitingstijd van de vlotten verschilt per veld en staan vermeld op www.winterwedstrijden.nl. Ploegen die na hun vlottijd pas gereed zijn, kunnen enkel het water op gaan indien de omstandigheden dit toelaten. Boten die vanuit eigen gelegenheid te water gaan, dienen de vlotten gepasseerd te zijn voor de uiterlijke sluitingstijd van de vlotten voor het desbetreffende veld.
+                  Alle ploegen dienen op een voor hen voorgeschreven tijdstip gereed te zijn om het water op te gaan. Dit tijdstip is afhankelijk van het veld waarin geroeid wordt en de lotingsvolgorde. De sluitingstijd van de vlotten verschilt per veld en staan vermeld op de www.winterwedstrijden.nl. Ploegen die na hun vlottijd pas gereed zijn, kunnen enkel het water op gaan indien de omstandigheden dit toelaten. Boten die vanuit eigen gelegenheid te water gaan, dienen de vlotten gepasseerd te zijn voor de uiterlijke sluitingstijd van de vlotten voor het desbetreffende veld. Bij uitzetten of passeren na de vlottijd welke per ploeg is gepubliceerd, kan een tijdstraf van 5 seconden worden opgelegd.        
                 </li>
                 <li>
                   De controlecommissie kan bij het missen van de vlottijd besluiten omtrent de toe te passen disciplinaire maatregelen, zoals omschreven in artikel 75 RvR.
