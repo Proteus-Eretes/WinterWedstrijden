@@ -1,5 +1,11 @@
 <template>
   <div>
+    <v-card light>
+      <v-card-title>Loting</v-card-title>
+      <v-card-text color="black"> De loting zal 11-02-2026 20:00 plaatsvinden.
+      </v-card-text>
+    </v-card>
+    <br>
     <iframe src="https://www.raceclocker.com/d2fddf6-startlist" class = "raceklokker_iframe"></iframe>
     <br>
   </div>
