@@ -376,6 +376,18 @@
             </li>
           </ul>
           <br />
+          <li><b>Overlast</b></li>
+          <ul>
+            <li>
+              Het is verboden om langs de gehele baan de tuinen of privétereinen van
+              aanwonende te betreden, dit is eigen terrein. Bij overtreding kunnen er een
+              disciplinaire maatregelen worden toegepast, zoals omschreven in artikel 75 RvR.
+            </li>
+            <li>
+              Bij constatering van (ernstige) overlast, zoals urineren op privéterrein, zal direct uitsluiting volgen.
+            </li>
+          </ul>
+          <br />
           <li><b>Disciplinaire maatregelen</b></li>
           <ul>
             <li>

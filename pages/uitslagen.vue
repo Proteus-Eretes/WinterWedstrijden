@@ -1,5 +1,19 @@
 <template>
   <div>
+    <v-card light>
+      <v-card-title>Uitslagen</v-card-title>
+      <v-card-text color="black">
+         <ul>
+            <li>Blok 1: Tijden onofficieel</li>
+            <li>Blok 2: Tijden onofficieel</li>
+            <li>Blok 3: Tijden onofficieel</li>
+            <li>Blok 4: Tijden onofficieel</li>
+            <li>Blok 5: Tijden onofficieel</li>
+            <li>Blok 6: Tijden onofficieel</li>
+          </ul>
+      </v-card-text>
+    </v-card>
+    <br>
     <iframe src="https://www.raceclocker.com/d2fddf6" class = "raceklokker_iframe"></iframe>
     <br>
   </div>
