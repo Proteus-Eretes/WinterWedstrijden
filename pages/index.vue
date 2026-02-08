@@ -83,6 +83,22 @@
       <br> -->
     <br>
     <v-card light>
+            <v-card-title>Update 8 februari – Weercode Zaterdag en Zondag</v-card-title>
+            <v-card-text color="black"> 
+              Voor het weekend 14–15 februari verwachten we voorlopig prima roeiweer in Delft: fris en wisselend bewolkt.
+              <ul>
+                <li><b>Zaterdag 14 februari</b></li>
+                Kans op lichte regenbuien, temperaturen rond 3–5°C en een matige wind.
+                
+                <li><b>Zondag 15 februari</b></li>
+                Afwisseling van wolken en opklaringen, temperaturen rond 3–6°C en weinig wind.
+              </ul>
+              <br>
+              Tot in Delft en succes met de voorbereidingen!
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Mededeling stuurlieden</v-card-title>
             <v-card-text color="black"> 
               Het RvR is afgelopen november gewijzigd. We attenderen stuurlieden graag op de volgende wijziging:
