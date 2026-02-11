@@ -83,6 +83,24 @@
       <br> -->
     <br>
     <v-card light>
+            <v-card-title>Update 11 februari – Weercode Zaterdag en Zondag</v-card-title>
+            <v-card-text color="black"> 
+              <ul>
+                <li><b>Zaterdag 14 februari</b></li>
+                Blok 1: code geel
+                <br>Blok 2 & 3: code groen.
+                <li><b>Zondag 15 februari</b></li>
+                Hele dag code geel
+              </ul>
+              <br>
+              Dit vanwege de lage gevoelstemperatuur door een combinatie van wind en koude omstandigheden. 
+              We raden alle ploegen sterk aan om warm gekleed te gaan en meerdere laagjes te dragen. De jury verwacht dat roeiers warm, maar wel met herkenbaar boventenue in verenigingskleuren, zullen starten.
+              <br><br>
+              De volgende update volgt vrijdag om 13.00 uur.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Update 8 februari – Weercode Zaterdag en Zondag</v-card-title>
             <v-card-text color="black"> 
               Voor het weekend 14–15 februari verwachten we voorlopig prima roeiweer in Delft: fris en wisselend bewolkt.
