@@ -10,8 +10,8 @@
         <!--<span class="dot" style="background-color: LimeGreen">Groen</span>-->
         <li>Blok 1 <span class="dot" style="background-color: yellow">Geel</span></li> 
         <!-- <span class="dot" style="background-color: red">Rood</span> -->
-        <li>Blok 2<span class="dot" style="background-color: LimeGreen">Groen</span></li>
-        <li>Blok 3<span class="dot" style="background-color: LimeGreen">Groen</span></li>
+        <li>Blok 2<span class="dot" style="background-color: yellow">Geel</span></li> 
+        <li>Blok 3<span class="dot" style="background-color: yellow">Geel</span></li> 
       </ul>
       <b>Zondag</b>
       <ul>

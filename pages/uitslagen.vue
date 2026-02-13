@@ -4,12 +4,12 @@
       <v-card-title>Uitslagen</v-card-title>
       <v-card-text color="black">
          <ul>
-            <li>Blok 1: Tijden onofficieel</li>
-            <li>Blok 2: Tijden onofficieel</li>
-            <li>Blok 3: Tijden onofficieel</li>
-            <li>Blok 4: Tijden onofficieel</li>
-            <li>Blok 5: Tijden onofficieel</li>
-            <li>Blok 6: Tijden onofficieel</li>
+            <li>Blok 1: Uitslagen onofficieel</li>
+            <li>Blok 2: Uitslagen onofficieel</li>
+            <li>Blok 3: Uitslagen onofficieel</li>
+            <li>Blok 4: Uitslagen onofficieel</li>
+            <li>Blok 5: Uitslagen onofficieel</li>
+            <li>Blok 6: Uitslagen onofficieel</li>
           </ul>
       </v-card-text>
     </v-card>
