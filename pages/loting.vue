@@ -2,7 +2,7 @@
   <div>
     <v-card light>
       <v-card-title>Loting</v-card-title>
-      <v-card-text color="black"> De loting zal 11-02-2026 20:00 plaatsvinden.
+      <v-card-text color="black"> De loting staat online.
       </v-card-text>
     </v-card>
     <br>
