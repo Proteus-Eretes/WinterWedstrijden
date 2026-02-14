@@ -9,7 +9,7 @@
           <li>Update zaterdag 20:00: het MG 4+ veld is opnieuw geloot na bijschrijving.</li>
         </ul>
         <br>
-        Door het code rood van blok 6 zijn alle velden van blok 6 verplaatst naar blok 5. De loting blijft gelijk, de rugnummers veranderen wel. Een update hierover volgt uiterlijk 20:00.
+        Door het code rood van blok 6 zijn alle velden van blok 6 verplaatst naar blok 5. De loting blijft gelijk, de rugnummers veranderen wel.
       </v-card-text>
     </v-card>
     <br>

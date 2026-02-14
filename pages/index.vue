@@ -83,7 +83,16 @@
       <br> -->
     <br>
     <v-card light>
-            <v-card-title>Update 14 februari 19:30 – Weercode zondag</v-card-title>
+            <v-card-title>Implicaties Loting</v-card-title>
+            <v-card-text color="black"> 
+               Door het code rood van blok 6 zijn alle velden van blok 6 verplaatst naar blok 5. De loting blijft gelijk, de rugnummers veranderen wel.
+               <br>
+               De nieuwe veld-volgorde en rugnummers kunt u terug vinden op raceclocker.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
+            <v-card-title>Update 14 februari 19:30 – Weercode Zondag</v-card-title>
             <v-card-text color="black"> 
               De organisatie heeft zojuist het volgende besloten voor zondag:
               <ul>
