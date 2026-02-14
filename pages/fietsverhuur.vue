@@ -13,8 +13,7 @@
           </ul>
           Ook zullen er drie exclusieve 💞Valentijns-tandems💞 te huren zijn, voor de volgende prijs:
           <ul>
-            <li>€11,00 voor een blok</li>
-            <li>€24,00 voor de hele dag</li>
+            <li>€15,00 voor een blok</li>
           </ul>
           <b>
             Let op dat er alleen gepind kan worden.
