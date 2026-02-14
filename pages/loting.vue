@@ -3,6 +3,7 @@
     <v-card light>
       <v-card-title>Loting</v-card-title>
       <v-card-text color="black"> De loting staat online.
+        <br>Update vrijdag 22:00: het VG 2x veld is opnieuw geloot na bijschrijving.
       </v-card-text>
     </v-card>
     <br>
