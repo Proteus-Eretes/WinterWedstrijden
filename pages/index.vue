@@ -83,6 +83,18 @@
       <br> -->
     <br>
     <v-card light>
+            <v-card-title>Update 14 februari 07:30 – Weercode Zaterdag</v-card-title>
+            <v-card-text color="black"> 
+              De weercode voor de gehele zaterdag blijft ongewijzigd: code geel.
+              <br>
+              De gevoelstemperatuur is laag door een combinatie van wind en lage temperaturen. De jury verwacht dat roeiers warm, maar wel herkenbaar in verenigingskleuren, zullen starten.
+              Conform RvR. art 60. kan de jury in het kader van de veiligheid van roeiers en stuurlieden, ploegen en stuurlieden die onvoldoende warm gekleed zijn deelname weigeren.
+              <br><br>
+              De volgende update voor zondag volgt later maar blijft voor nu: code geel.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Update 13 februari – Weercode Zaterdag en Zondag</v-card-title>
             <v-card-text color="black"> 
               De organisatie heeft zojuist het volgende besloten voor zaterdag en zondag:
