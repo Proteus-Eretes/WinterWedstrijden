@@ -9,7 +9,7 @@
           een hele dag voor de volgende prijs:
           <ul>
             <li>€6,00 voor een blok</li>
-            <li>€12,50 voor de hele dag</li>
+            <li>€10,00 voor de hele dag (blok 4 en 5)</li>
           </ul>
           Ook zullen er drie exclusieve 💞Valentijns-tandems💞 te huren zijn, voor de volgende prijs:
           <ul>
