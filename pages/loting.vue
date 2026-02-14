@@ -3,7 +3,13 @@
     <v-card light>
       <v-card-title>Loting</v-card-title>
       <v-card-text color="black"> De loting staat online.
-        <br>Update vrijdag 22:00: het VG 2x veld is opnieuw geloot na bijschrijving.
+        <ul>
+          <li>Update vrijdag 22:00: het VG 2x veld is opnieuw geloot na bijschrijving.</li>
+          <li>Update zaterdag 20:00: het MB 4+ veld is opnieuw geloot na bijschrijving.</li>
+          <li>Update zaterdag 20:00: het MG 4+ veld is opnieuw geloot na bijschrijving.</li>
+        </ul>
+        <br>
+        Door het code rood van blok 6 zijn alle velden van blok 6 verplaatst naar blok 5. De loting blijft gelijk, de rugnummers veranderen wel. Een update hierover volgt uiterlijk 20:00.
       </v-card-text>
     </v-card>
     <br>

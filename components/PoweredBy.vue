@@ -17,9 +17,9 @@
       <ul>
         <li>Blok 4 <span class="dot" style="background-color: yellow">Geel</span></li> 
         <li>Blok 5<span class="dot" style="background-color: yellow">Geel</span></li>
-        <li>Blok 6<span class="dot" style="background-color: yellow">Geel</span></li>
+        <li>Blok 6<span class="dot" style="background-color: red">Rood</span></li>
       </ul>
-      Geüpdate: 14 feb 2026, 07:30
+      Geüpdate: 14 feb 2026, 19:30
     </v-card-text>
     
     <v-card-title>

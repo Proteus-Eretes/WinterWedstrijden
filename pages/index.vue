@@ -83,6 +83,33 @@
       <br> -->
     <br>
     <v-card light>
+            <v-card-title>Update 14 februari 19:30 – Weercode zondag</v-card-title>
+            <v-card-text color="black"> 
+              De organisatie heeft zojuist het volgende besloten voor zondag:
+              <ul>
+                <li><b>Blok 4 & 5</b></li>
+                Code geel.
+                <li><b>Blok 6</b></li>
+                Code ROOD.
+              </ul>
+              <br>
+              Blok 6 is afgelast en zal in zijn geheel verplaatst worden naar Blok 5.
+              <br><br>
+              Dit vanwege de berichtgeving van de KNMI en de voorspelde sneeuw en gladheid.
+              Zaterdag was zonnig en daardoor relatief warm, zondag is bewolkt en koud. 
+              We raden alle ploegen sterk aan om warm gekleed te gaan en meerdere laagjes te dragen. 
+              De jury verwacht dat roeiers warm, maar wel herkenbaar in verenigingskleuren, zullen starten. 
+              Conform RvR. art 60. kan de jury in het kader van de veiligheid van roeiers en stuurlieden, ploegen en stuurlieden die onvoldoende warm gekleed zijn deelname weigeren.
+              <br><br>
+              Roeiers:  Boventenue in officieel tenue , op uitvoering van het onderkleding zoals thermo's zal de jury niet handhaven.
+              <br>Stuurlieden: herkenbaar in verenigingskleuren, liefst met warme jas, laagjes.
+              <br><br>
+              De volgende update is zondag om 8.00 voorafgaande aan het 1e blok.
+
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Update 14 februari 07:30 – Weercode Zaterdag</v-card-title>
             <v-card-text color="black"> 
               De weercode voor de gehele zaterdag blijft ongewijzigd: code geel.
