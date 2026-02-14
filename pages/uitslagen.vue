@@ -4,7 +4,7 @@
       <v-card-title>Uitslagen</v-card-title>
       <v-card-text color="black">
          <ul>
-            <li>Blok 1: Uitslagen onofficieel</li>
+            <li>Blok 1: Uitslagen officieel</li>
             <li>Blok 2: Uitslagen onofficieel</li>
             <li>Blok 3: Uitslagen onofficieel</li>
             <li>Blok 4: Uitslagen onofficieel</li>
