@@ -8,7 +8,8 @@
             <li>Blok 2: Uitslagen officieel</li>
             <li>Blok 3: Uitslagen officieel</li>
             <li>Blok 4: Uitslagen officieel</li>
-            <li>Blok 6: Uitslagen onofficieel</li>
+            <li>Blok 6: Uitslagen officieel</li>
+            603-VE 8+: Ex. Aequo
           </ul>
       </v-card-text>
     </v-card>
