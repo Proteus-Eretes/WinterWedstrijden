@@ -83,6 +83,25 @@
       <br> -->
     <br>
     <v-card light>
+            <v-card-title>Update 15 februari 19:30 – Weercode Zondag</v-card-title>
+            <v-card-text color="black"> 
+               <ul>
+                <li><b>Blok 4</b></li>
+                Code geel. Gaat door.
+                <li><b>Blok 5</b></li>
+                Code geel. Update volgt 10:30.
+                <li><b>Blok 6</b></li>
+                Code ROOD.
+              </ul>
+              <br>
+              Kleed je warm aan. Niet warm gekleed is niet starten!
+              <br>
+              <br>
+              De volgende update is zondag om 10.30 voorafgaande aan het 5e blok.
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Implicaties Loting</v-card-title>
             <v-card-text color="black"> 
                Door het code rood van blok 6 zijn alle velden van blok 6 verplaatst naar blok 5. De loting blijft gelijk, de rugnummers veranderen wel.
