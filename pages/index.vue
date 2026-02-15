@@ -83,6 +83,20 @@
       <br> -->
     <br>
     <v-card light>
+            <v-card-title>Update 15 februari 10:30 – Weercode Zondag</v-card-title>
+            <v-card-text color="black"> 
+               <ul>
+                <li><b>Blok 5</b></li>
+                Code geel. Gaat door.
+                <li><b>Blok 6</b></li>
+                Code ROOD.
+              </ul>
+              <br>
+              Kleed je warm aan. Niet warm gekleed is niet starten!
+            </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Update 15 februari 07:30 – Weercode Zondag</v-card-title>
             <v-card-text color="black"> 
                <ul>

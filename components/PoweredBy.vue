@@ -19,7 +19,7 @@
         <li>Blok 5<span class="dot" style="background-color: yellow">Geel</span></li>
         <li>Blok 6<span class="dot" style="background-color: red">Rood</span></li>
       </ul>
-      Geüpdate: 15 feb 2026, 07:30
+      Geüpdate: 15 feb 2026, 10:30
     </v-card-text>
     
     <v-card-title>
