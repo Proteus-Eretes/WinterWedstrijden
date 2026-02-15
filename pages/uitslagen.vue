@@ -9,7 +9,6 @@
             <li>Blok 3: Uitslagen officieel</li>
             <li>Blok 4: Uitslagen onofficieel</li>
             <li>Blok 5: Uitslagen onofficieel</li>
-            <li>Blok 6: Uitslagen onofficieel</li>
           </ul>
       </v-card-text>
     </v-card>
