@@ -83,7 +83,7 @@
       <br> -->
     <br>
     <v-card light>
-            <v-card-title>Update 15 februari 19:30 – Weercode Zondag</v-card-title>
+            <v-card-title>Update 15 februari 07:30 – Weercode Zondag</v-card-title>
             <v-card-text color="black"> 
                <ul>
                 <li><b>Blok 4</b></li>
