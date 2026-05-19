@@ -83,6 +83,11 @@
       <br> -->
     <br>
     <v-card light>
+            <v-card-title>51ste Van Oord WinterWedstrijden</v-card-title>
+            <v-card-text color="black"> Dit waren de Van Oord WinterWedstrijden! Tot volgend jaar!</v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>Update 15 februari 10:30 – Weercode Zondag</v-card-title>
             <v-card-text color="black"> 
                <ul>
