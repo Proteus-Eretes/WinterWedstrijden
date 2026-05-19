@@ -8,18 +8,18 @@
       <b>Zaterdag</b>
       <ul>
         <!--<span class="dot" style="background-color: LimeGreen">Groen</span>-->
-        <li>Blok 1 <span class="dot" style="background-color: yellow">Geel</span></li> 
+        <li>Blok 1 <span class="dot" style="background-color: LimeGreen">Groen</span></li> 
         <!-- <span class="dot" style="background-color: red">Rood</span> -->
-        <li>Blok 2<span class="dot" style="background-color: yellow">Geel</span></li> 
-        <li>Blok 3<span class="dot" style="background-color: yellow">Geel</span></li> 
+        <li>Blok 2<span class="dot" style="background-color: LimeGreen">Groen</span></li> 
+        <li>Blok 3<span class="dot" style="background-color: LimeGreen">Groen</span></li> 
       </ul>
       <b>Zondag</b>
       <ul>
-        <li>Blok 4 <span class="dot" style="background-color: yellow">Geel</span></li> 
-        <li>Blok 5<span class="dot" style="background-color: yellow">Geel</span></li>
-        <li>Blok 6<span class="dot" style="background-color: red">Rood</span></li>
+        <li>Blok 4 <span class="dot" style="background-color: LimeGreen">Groen</span></li> 
+        <li>Blok 5<span class="dot" style="background-color: LimeGreen">Groen</span></li>
+        <li>Blok 6<span class="dot" style="background-color: LimeGreen">Groen</span></li>
       </ul>
-      Geüpdate: 15 feb 2026, 10:30
+      Geüpdate: 19 mei 2026, 18:00
     </v-card-text>
     
     <v-card-title>
