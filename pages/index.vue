@@ -83,8 +83,8 @@
       <br> -->
     <br>
     <v-card light>
-            <v-card-title>51ste Van Oord WinterWedstrijden</v-card-title>
-            <v-card-text color="black"> Dit waren de Van Oord WinterWedstrijden! Tot volgend jaar!</v-card-text>
+            <v-card-title>51ste WinterWedstrijden</v-card-title>
+            <v-card-text color="black"> Dit waren de WinterWedstrijden! Tot volgend jaar!</v-card-text>
     </v-card>
     <br>
     <v-card light>
@@ -246,9 +246,9 @@
     </v-card>
     <br>
     <v-card light>
-            <v-card-title>51ste Van Oord WinterWedstrijden</v-card-title>
+            <v-card-title>51ste WinterWedstrijden</v-card-title>
             <v-card-text color="black"> Vijf kilometer varen in een achtervolgingsrace op de Schie in
-              winterse weersomstandigheden: dat zijn de Van Oord WinterWedstrijden.
+              winterse weersomstandigheden: dat zijn de WinterWedstrijden.
               Deze officiële opening van het nationale roeiseizoen zal dit jaar 14 en 15 februari plaatsvinden.
               <br>
               Iedereen zal hier gaan strijden voor een goede start van hun seizoen. Wat voor de eerstejaarsploegen

@@ -77,15 +77,7 @@
                 <v-img src="/app.png" contain height="40px" />
               </a>
             </v-col>
-            
-            <!-- <a
-              href="https://www.instagram.com/vanoordwinterwedstrijden/"
-              target="_blank"
-            >
-              <v-col class="d-flex social-icon">
-                <v-img src="/ig.png" contain height="40px" />
-              </v-col>
-            </a>
+            <!--
             <a
               href="https://www.facebook.com/WinterWedstrijden.pe"
               target="_blank"

@@ -7,7 +7,7 @@
       <h1>General Information</h1>
       <h2>Entries</h2>
       <p>
-        On the 14th and 15th of February 2026 the 51th Van Oord
+        On the 14th and 15th of February 2026 the 51th 
         WinterWedstrijden Regatta will take place on the river Schie between
         Rotterdam and Delft, The Netherlands. This is the first regatta of the
         national rowing season and we would be very happy to receive
@@ -192,7 +192,7 @@
       <h2>Race instructions</h2>
       <p>
         The following presentation will give you information on the rules that
-        apply during the Van Oord Winterwedstrijden regatta.
+        apply during the Winterwedstrijden regatta.
         After watching the video, each Coxswain must take a test. The test can be found under the following link:
       <a href="https://forms.gle/DrfNPSzdXhE2z1Kk9" target="_blank">Coxswains Instructions test</a>.
       </p>
@@ -232,7 +232,7 @@
       <img src="/baankaart5k.png" class="baankaart" />
       <h1>Weather Codes</h1>
       <p>
-        The Van Oord WinterWedstrijden regatta uses weather codes. As from
+        The WinterWedstrijden regatta uses weather codes. As from
         Sunday the week before the race weekend, the up to date weather codes
         will be presented at the home page.
       </p>

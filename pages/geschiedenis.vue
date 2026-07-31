@@ -39,9 +39,9 @@
       Jarenlang werd de WW gesponsord door eetcafé De Kurk in Delft, vervolgens
       door Multec en nog later door Pink Elephant. Aan die jarenlange
       naamsverbintenissen danken we de bijnamen de ‘kurk’, de ‘multec’ of de
-      ‘pink’, welbekend bij de ouderen onder ons. Tegenwoordig is Van Oord
-      trotse hoofdsponsor van de WW, waarvan elk jaar ook medewerkers meeroeien
-      met de wedstrijd in het bedrijfsveld.
+      ‘pink’, welbekend bij de ouderen onder ons. 
+      Daarna is Van Oord een aantal jaar hoofdsponsor van de WW geweest, 
+      destijds roeide medewerkers van Van Oord mee in het bedrijfsroeiveld op de WW. 
     </v-card-text>
   </v-card>
 </template>

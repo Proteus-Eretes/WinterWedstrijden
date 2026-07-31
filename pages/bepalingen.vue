@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-card flat light>
-      <v-card-title> Bepalingen 51ste Van Oord WinterWedstrijden 2026 </v-card-title>
+      <v-card-title> Bepalingen 51ste WinterWedstrijden 2026 </v-card-title>
       <v-card-text>
         <b>Inschrijvingsbepalingen</b>
         <ol>
@@ -64,7 +64,7 @@
     <br>
 
     <v-card flat light>
-      <v-card-title> Reglementen 51ste Van Oord WinterWedstrijden 2026 </v-card-title>
+      <v-card-title> Reglementen 51ste WinterWedstrijden 2026 </v-card-title>
       <v-card-text>
         <ol>
           <li>

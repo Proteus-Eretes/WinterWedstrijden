@@ -29,9 +29,6 @@
       <a style="width: 100%; display: inline-block;" href="//www.proteus-eretes.nl">
         <v-img class="logos" src="/pe.png" />
         </a>
-      <a style="width: 100%; display: inline-block;" href="//www.vanoord.com">
-        <v-img class="logos" src="/vanoord.png" />
-        </a>
       <v-img class="logos" src="/tu-delft.png" />
       <a style="width: 100%; display: inline-block;" href="//www.concept2.nl">
         <v-img class="logos" src="/concept2.png" />

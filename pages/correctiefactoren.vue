@@ -1,7 +1,7 @@
 <template>
     <div>
       <v-card flat light>
-        <v-card-title> Correctiefactoren 51ste Van Oord WinterWedstrijden 2026 </v-card-title>
+        <v-card-title> Correctiefactoren 51ste WinterWedstrijden 2026 </v-card-title>
         <v-card-text>
           <b>Correctiefactoren</b>
           <br>

@@ -1,7 +1,7 @@
 <template>
   <v-card flat light>
     <v-card-title>
-      Definitief blokschema 51ste Van Oord WinterWedstrijden
+      Definitief blokschema 51ste WinterWedstrijden
     </v-card-title>
     <v-card-text> Laatst aangepast: 19-12-2025</v-card-text>
     <v-card-text>

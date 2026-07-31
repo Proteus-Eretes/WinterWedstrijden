@@ -5,7 +5,7 @@
       Uitgeschreven velden
     </v-card-title>
     <v-card-text>
-      De uitgeschreven velden van de van Oord WinterWedstrijden zijn in
+      De uitgeschreven velden van de WinterWedstrijden zijn in
       onderstaande tabel te zien.
 
     </v-card-text>
