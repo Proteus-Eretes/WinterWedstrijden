@@ -82,6 +82,7 @@
       </v-card>
       <br> -->
     <br>
+    
     <v-card light>
             <v-card-title>51ste Van Oord WinterWedstrijden</v-card-title>
             <v-card-text color="black"> Dit waren de Van Oord WinterWedstrijden! Tot volgend jaar!</v-card-text>
@@ -257,6 +258,10 @@
               epische race worden!</v-card-text>
     </v-card>
     <br>
+    <v-card light>
+            <v-card-title>Er is geprogrammeerdn</v-card-title>
+            <v-card-text color="black"> Wow, wat doen ze dat goed!</v-card-text>
+    </v-card>
   </div>
 </template>
 
