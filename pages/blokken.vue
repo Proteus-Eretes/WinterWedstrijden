@@ -1,10 +1,11 @@
 <template>
   <v-card flat light>
     <v-card-title>
-      Definitief blokschema 51ste Van Oord WinterWedstrijden
+      Blokschema 52ste WinterWedstrijden 2027
     </v-card-title>
-    <v-card-text> Laatst aangepast: 19-12-2025</v-card-text>
-    <v-card-text>
+    <v-card-text> Blokschema 52ste WinterWedstrijden 2027 volgt.</v-card-text>
+    <!-- <v-card-text> Laatst aangepast: 19-12-2025</v-card-text> -->
+    <!-- <v-card-text>
       Zaterdag 14 februari 2026
     </v-card-text>
     <v-simple-table>
@@ -89,7 +90,7 @@
           </td>
         </tr>
       </tbody>
-    </v-simple-table>
+    </v-simple-table> -->
   </v-card>
 </template>
 

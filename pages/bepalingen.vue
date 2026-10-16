@@ -1,9 +1,14 @@
 <template>
   <div>
     <v-card flat light>
-      <v-card-title> Bepalingen 51ste Van Oord WinterWedstrijden 2026 </v-card-title>
+      <v-card-title> Bepalingen 52ste WinterWedstrijden 2027 </v-card-title>
       <v-card-text>
-        <b>Inschrijvingsbepalingen</b>
+        De bepalingen van de 52ste WinterWedstrijden 2027 worden op een later moment gepubliceerd. <br>
+        Wedstrijdleiding: Aleid Goverts & Annabel Beckers, tel: +31 6 57 36 48 44 & +31 6 86 07 55 20 <br>
+        E-mail: wedstrijdleiding.winterwedstrijden@proteus-eretes.nl <br>
+        Hoofd van de jury: Mathijs Louter
+
+        <!-- <b>Inschrijvingsbepalingen</b>
         <ol>
           <li>
             Tijdrace over 5 km voor alle velden.
@@ -56,14 +61,14 @@
             wedstrijdleiding. Voor het uitschrijven van een nieuw veld moeten er
             van minimaal twee verenigingen samen 3 inschrijvingen zijn.
           </li>
-        </ol>
+        </ol> -->
       </v-card-text>
     </v-card>
     
     
     <br>
 
-    <v-card flat light>
+    <!-- <v-card flat light>
       <v-card-title> Reglementen 51ste Van Oord WinterWedstrijden 2026 </v-card-title>
       <v-card-text>
         <ol>
@@ -417,7 +422,7 @@
           </ul>
         </ol>
       </v-card-text>
-    </v-card>
+    </v-card> -->
   </div>
 </template>
 

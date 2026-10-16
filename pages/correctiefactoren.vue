@@ -1,8 +1,9 @@
 <template>
     <div>
       <v-card flat light>
-        <v-card-title> Correctiefactoren 51ste Van Oord WinterWedstrijden 2026 </v-card-title>
-        <v-card-text>
+        <v-card-title> Correctiefactoren 52ste WinterWedstrijden 2027 </v-card-title>
+        <v-card-text> Correctiefactoren voor de 52ste WinterWedstrijden 2027 volgen.</v-card-text>
+        <!-- <v-card-text>
           <b>Correctiefactoren</b>
           <br>
            Op de uitslagenpagina in RaceClocker is de tijd, gecorrigeerd aan de hand van de correctiefactoren, in de kolom "Resultaat Handicap" te zien.</br>
@@ -33,7 +34,7 @@ V           36              0,885
 Bootgemiddelde correctiefactor:  0,9208
           </pre>
 
-        </v-card-text>
+        </v-card-text> -->
     </v-card>
   </div>
 </template>

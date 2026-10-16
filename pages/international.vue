@@ -7,13 +7,13 @@
       <h1>General Information</h1>
       <h2>Entries</h2>
       <p>
-        On the 14th and 15th of February 2026 the 51th Van Oord
+        On the 13th and 14th of February 2027 the 52th
         WinterWedstrijden Regatta will take place on the river Schie between
         Rotterdam and Delft, The Netherlands. This is the first regatta of the
         national rowing season and we would be very happy to receive
         participating teams from all over the world. Entries for international
-        crews will be open from the 26th of January until the 9th February
-        2026.
+        crews will be open from the 25th of January until the 8th February
+        2027.
       </p>
       <p>
         To participate, send an email to
@@ -50,6 +50,9 @@
       <h2>Registration Fees</h2>
       <ul>
         <li>
+          Registration fees to be determined.
+        </li>
+        <!-- <li>
             Senior: 1x €37,00; 2x/- €65,00; 4+/* €100,00; 8+ €140,00. 
         </li>
         <li>
@@ -57,7 +60,7 @@
         </li>
         <li>
             Business 8+ €230,00.
-        </li>
+        </li> -->
       </ul>
       <h2>Boat Rental</h2>
       <p>
@@ -111,7 +114,8 @@
         </ol>
       </p>
       <h1>Time Schedule</h1>
-      <h2>Saturday February 14th 2026</h2>
+      Time schedule will be updated later.<br>
+      <!-- <h2>Saturday February 14th 2026</h2>
    <v-simple-table>
       <thead>
         <tr>
@@ -187,12 +191,12 @@
           </td>
         </tr>
       </tbody>
-    </v-simple-table>
+    </v-simple-table> -->
       <h1>Coxswains and steering bows</h1>
       <h2>Race instructions</h2>
       <p>
         The following presentation will give you information on the rules that
-        apply during the Van Oord Winterwedstrijden regatta.
+        apply during the Winterwedstrijden regatta.
         After watching the video, each Coxswain must take a test. The test can be found under the following link:
       <a href="https://forms.gle/DrfNPSzdXhE2z1Kk9" target="_blank">Coxswains Instructions test</a>.
       </p>
@@ -232,7 +236,7 @@
       <img src="/baankaart5k.png" class="baankaart" />
       <h1>Weather Codes</h1>
       <p>
-        The Van Oord WinterWedstrijden regatta uses weather codes. As from
+        The WinterWedstrijden regatta uses weather codes. As from
         Sunday the week before the race weekend, the up to date weather codes
         will be presented at the home page.
       </p>
