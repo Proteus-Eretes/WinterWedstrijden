@@ -6,7 +6,7 @@
     <v-card-text>
       De opening van het nationale roeiseizoen, het evenement waar menig roeier
       de hele winter op gewacht heeft, de WinterWedstrijden komen er weer aan.
-      Voor de 51ste maal zal dit door Proteus-Eretes georganiseerde evenement
+      Voor de 52ste maal zal dit door Proteus-Eretes georganiseerde evenement
       plaatsvinden.
       <br />
       <br />
@@ -37,11 +37,10 @@
       <br />
       <br />
       Jarenlang werd de WW gesponsord door eetcafé De Kurk in Delft, vervolgens
-      door Multec en nog later door Pink Elephant. Aan die jarenlange
+      door Multec, Pink Elephant en Van Oord. Aan die jarenlange
       naamsverbintenissen danken we de bijnamen de ‘kurk’, de ‘multec’ of de
-      ‘pink’, welbekend bij de ouderen onder ons. Tegenwoordig is Van Oord
-      trotse hoofdsponsor van de WW, waarvan elk jaar ook medewerkers meeroeien
-      met de wedstrijd in het bedrijfsveld.
+      ‘pink’, welbekend bij de ouderen onder ons. Momenteel zijn wij op zoek naar nieuwe sponsors.
+      Bij interesse, neem contact op met business@proteus-eretes.nl!
     </v-card-text>
   </v-card>
 </template>

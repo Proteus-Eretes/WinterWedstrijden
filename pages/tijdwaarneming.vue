@@ -3,7 +3,7 @@
     <v-card-title> Tijdwaarneming </v-card-title>
     <v-card-text>
       Menig roeier meet zichzelf aan de hand van de tijd die is geklokt op de
-      Van Oord WinterWedstrijden. Om meer duidelijkheid te verschaffen over de
+      WinterWedstrijden. Om meer duidelijkheid te verschaffen over de
       tijdwaarneming staat hier een uitleg over de klokkers, de nauwkeurigheid,
       de bepaling van een ex-aequo en tot slot de totstandkoming van de
       definitieve tijden.
