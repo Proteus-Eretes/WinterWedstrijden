@@ -257,6 +257,14 @@
               epische race worden!</v-card-text>
     </v-card>
     <br>
+    <v-card light>
+            <v-card-title>Doei Doei VanOord</v-card-title>
+            <v-card-text color="black"> 
+               Door het code rood van blok 6 heeft van Oord besloten te stoppen met sponseren. Sippe tijden. 
+               <br>
+               Wil jij nou de nieuwe sponsor worden? Mail acquisitie.winterwedstijden@proteus-eretes.nl! Wij hebben er zin in!
+            </v-card-text>
+    </v-card>
   </div>
 </template>
 
