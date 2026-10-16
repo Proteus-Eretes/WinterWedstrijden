@@ -26,7 +26,7 @@
             style="text-decoration: none; color:inherit;"
             href="tel:+316-46913348"
           >
-            +31 6 451 598 92
+            +31 6 680 755 20
           </a>
           <br />
           Bestuur Proteus-Eretes:
