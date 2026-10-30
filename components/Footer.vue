@@ -16,7 +16,7 @@
           Wedstrijdleiding:
           <a
             style="text-decoration: none; color:inherit;"
-            href="tel:+316-41542416"
+            href="tel:+316-57364844"
           >
             +31 6 573 648 44
           </a>
@@ -24,7 +24,7 @@
           <br>
           <a
             style="text-decoration: none; color:inherit;"
-            href="tel:+316-46913348"
+            href="tel:+316-86075520"
           >
             +31 6 860 755 20
           </a>
