@@ -2,7 +2,7 @@
     <div>
     <br>
     <v-card light>
-            <v-card-title>52ste WinterWedstrijden</v-card-title>
+            <v-card-title>52ste WinterWedstrijden 2027</v-card-title>
             <v-card-text color="black"> Vijf kilometer varen in een achtervolgingsrace op de Schie in
               winterse weersomstandigheden: dat zijn de WinterWedstrijden.
               Deze officiële opening van het nationale roeiseizoen zal dit jaar 13 en 14 februari plaatsvinden.
