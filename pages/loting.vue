@@ -2,19 +2,24 @@
   <div>
     <v-card light>
       <v-card-title>Loting</v-card-title>
-      <v-card-text color="black"> De loting staat online.
+      <v-card-text color="black"> De loting staat van de WinterWedstrijden van 2027 is nog niet online.
+        <!--
         <ul>
           <li>Update vrijdag 22:00: het VG 2x veld is opnieuw geloot na bijschrijving.</li>
           <li>Update zaterdag 20:00: het MB 4+ veld is opnieuw geloot na bijschrijving.</li>
           <li>Update zaterdag 20:00: het MG 4+ veld is opnieuw geloot na bijschrijving.</li>
         </ul>
+      
         <br>
-        Door het code rood van blok 6 zijn alle velden van blok 6 verplaatst naar blok 5. De loting blijft gelijk, de rugnummers veranderen wel.
+        Door het code rood van blok 6 zijn alle velden van blok 6 verplaatst naar blok 5. De loting blijft gelijk, de rugnummers veranderen wel.-->
       </v-card-text>
+   
     </v-card>
     <br>
-    <iframe src="https://www.raceclocker.com/d2fddf6-startlist" class = "raceklokker_iframe"></iframe>
+    <!--
+    <iframe src="https://www.raceclocker.com/d2fddf6-startlist" class = "raceklokker_iframe"></iframe> -->
     <br>
+    
   </div>
 
 </template>

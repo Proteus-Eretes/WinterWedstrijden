@@ -1,21 +1,23 @@
 <template>
   <div>
     <v-card light>
-      <v-card-title>Uitslagen</v-card-title>
+      <v-card-title>Uitslagen 2027</v-card-title>
       <v-card-text color="black">
          <ul>
-            <li>Blok 1: Uitslagen officieel</li>
-            <li>Blok 2: Uitslagen officieel</li>
-            <li>Blok 3: Uitslagen officieel</li>
-            <li>Blok 4: Uitslagen officieel</li>
-            <li>Blok 6: Uitslagen officieel</li>
-            603-VE 8+: Ex. Aequo
+            <li>Blok 1: Nog niet gefinisht</li>
+            <li>Blok 2: Nog niet gefinisht</li>
+            <li>Blok 3: Nog niet gefinisht</li>
+            <li>Blok 4: Nog niet gefinisht</li>
+            <li>Blok 5: Nog niet gefinisht</li>
+            <li>Blok 6: Nog niet gefinisht</li>
+            
           </ul>
       </v-card-text>
     </v-card>
+    <!--
     <br>
     <iframe src="https://www.raceclocker.com/d2fddf6" class = "raceklokker_iframe"></iframe>
-    <br>
+    <br>-->
   </div>
 
 </template>
