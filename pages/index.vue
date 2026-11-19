@@ -2,6 +2,14 @@
     <div>
     <br>
     <v-card light>
+            <v-card-title>Blokschema 52ste WinterWedstrijden</v-card-title>
+            <v-card-text color="black"> Het blokschema van de 52ste WinterWedstrijden 2027 is gepubliceerd.
+              <br>
+              De bepalingen en reglementen zijn ook geupdatet.
+              </v-card-text>
+    </v-card>
+    <br>
+    <v-card light>
             <v-card-title>52ste WinterWedstrijden 2027</v-card-title>
             <v-card-text color="black"> Vijf kilometer varen in een achtervolgingsrace op de Schie in
               winterse weersomstandigheden: dat zijn de WinterWedstrijden.
@@ -12,7 +20,7 @@
               te bewijzen tijdens deze 52ste editie. Wat iedereen gemeen heeft: het zal een harde, koude en
               epische race worden!
               <br>
-              Om dit mogelijk te maken zijn wij nog op zoek naar partners, waaronder een nieuwe hoofdsponsor. Bij interesse,
+              Om dit mogelijk te maken zijn wij nog op zoek naar partners. Bij interesse,
               neem contact op business@proteus-eretes.nl!
               </v-card-text>
     </v-card>
