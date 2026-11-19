@@ -4,7 +4,7 @@
     <v-main>
       <img
         v-if="showBanner"
-        src="banner3.0-26.svg"
+        src="Banner27.svg"
         alt="WinterWedstrijden"
         class="banner"
       />
