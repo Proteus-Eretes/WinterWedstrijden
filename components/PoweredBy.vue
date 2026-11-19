@@ -19,7 +19,7 @@
         <li>Blok 5<span class="dot" style="background-color: LimeGreen">Groen</span></li>
         <li>Blok 6<span class="dot" style="background-color: LimeGreen">Groen</span></li>
       </ul>
-      Geüpdate: 19 mei 2026, 18:00
+      Geüpdate: 19 november 2026, 16:00
     </v-card-text>
     
     <v-card-title>

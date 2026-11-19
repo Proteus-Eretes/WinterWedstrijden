@@ -13,7 +13,7 @@
         <v-btn href="https://roeievenementen.knrb.nl/tournament-details/3449?tab=details" text width="100%" class="drawer--item">Velden</v-btn>
         <v-btn href="https://www.youtube.com/watch?v=myRnBA14Psc" text width="100%" class="drawer--item">Livestream</v-btn>
         <!--<v-btn href="/vlottijden-2026.pdf" target="_blank" text width="100%" class="drawer--item">Vlottijden</v-btn>-->
-        <v-btn href="/vlot tijden v03 20260213 0800.pdf" target="_blank" text width="100%" class="drawer--item">Vlottijden</v-btn>
+        <v-btn href="/Vlottijden placeholder.pdf" target="_blank" text width="100%" class="drawer--item">Vlottijden</v-btn>
         <v-btn to="/fietsverhuur" text width="100%" class="drawer--item">Fietsverhuur</v-btn>
         <v-btn to="/geschiedenis" text width="100%" class="drawer--item">Geschiedenis</v-btn>            
         <v-btn to="/loting"  text width="100%" class="drawer--item">Loting</v-btn>
@@ -94,7 +94,7 @@
             </v-list-item>
             <v-list-item>
               <!--<v-btn href="/vlottijden-2026.pdf" target="_blank" text dark>Vlottijden</v-btn>-->
-              <v-btn href="/vlot tijden v03 20260213 0800.pdf" target="_blank" text dark>Vlottijden</v-btn>
+              <v-btn href="/Vlottijden placeholder.pdf" target="_blank" text dark>Vlottijden</v-btn>
             </v-list-item>
           </v-list>
         </v-menu>
