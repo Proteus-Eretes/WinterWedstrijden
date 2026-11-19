@@ -3,36 +3,31 @@
     <v-card flat light>
       <v-card-title> Bepalingen 52ste WinterWedstrijden 2027 </v-card-title>
       <v-card-text>
-        De bepalingen van de 52ste WinterWedstrijden 2027 worden op een later moment gepubliceerd. <br>
-        Wedstrijdleiding: Aleid Goverts & Annabel Beckers, tel: +31 6 57 36 48 44 & +31 6 86 07 55 20 <br>
-        E-mail: wedstrijdleiding.winterwedstrijden@proteus-eretes.nl <br>
-        Hoofd van de jury: Mathijs Louter
-
-        <!-- <b>Inschrijvingsbepalingen</b>
+        <b>Inschrijvingsbepalingen</b>
         <ol>
           <li>
-            Tijdrace over 5 km voor alle velden.
+            Tijdrace over 5 km voor alle velden, behalve Pr1x. Tijdrace over 3 km voor Pr1x.
           </li>
           <li>
-            Wedstrijdleiding: Aleid Goverts & Nino Bonsangue, tel: +31 6 57 36 48 44 & +31 6 45 15 98 92. <br />E-mail:
+            Wedstrijdleiding: Aleid Goverts & Annabel Beckers, tel: +31 6 57 36 48 44 & +31 6 86 07 55 20. <br />E-mail:
             wedstrijdleiding.winterwedstrijden@proteus-eretes.nl <br />Hoofd van
             de jury: Mathijs Louter
           </li>
           <li>
-            Inschrijvingen: tot maandag 9 februari 2026, 20:00 uur via het KNRB
+            Inschrijvingen: tot maandag 8 februari 2027, 20:00 uur via het KNRB
             inschrijfprogramma.
           </li>
           <li>
-            Wijzigingen: tot zondag 15 februari 2025, 20:00 via het KNRB
+            Wijzigingen: tot zondag 14 februari 2027, 20:00 via het KNRB
             inschrijfprogramma.
           </li>
           <li>
-            Inschrijfgelden: <br />Senior: skiff €37,00; twee €65,00; vier
-            €100,00; acht €140,00. <br />Junior: skiff €30,00; twee €61,00; vier
-            €84,00. <br />Bedrijfsacht €230,00.
+            Inschrijfgelden: <br />Senior: skiff €38,00; twee €67,00; vier
+            €103,00; acht €144,00. <br />Junior: skiff €33,00; twee €64,00; vier
+            €92,00. <br />Bedrijfsacht €235,00.
           </li>
           <li>
-            Het inschrijfgeld dient donderdag 12 februari 2026 voor 17:00 uur op
+            Het inschrijfgeld dient donderdag 11 februari 2027 voor 17:00 uur op
             bankrekening te staan, met nummer NL44 RABO 0103 4052 40 t.n.v.
             D.S.R. Proteus-Eretes inz. WinterWedstrijden te Delft o.v.v.
             verenigingsnaam. Mocht hieraan niet zijn voldaan, dan moet het
@@ -40,7 +35,7 @@
             eerste ploeg van het weekend, per pinpas worden voldaan. Hier kunnen mogelijke transactiekosten aan verbonden zijn.
           </li>
           <li>
-            Loting: woensdag 11 februari 2026, 20:00 uur, D.S.R. Proteus-Eretes,
+            Loting: woensdag 10 februari 2027, 16:00 uur, D.S.R. Proteus-Eretes,
             Rotterdamseweg 362a Delft, telefoon: +31 15 2623720.
           </li>
           <li>
@@ -48,28 +43,26 @@
             16:00 uur.
           </li>
           <li>
-            Wedstrijdnummers met minder dan 3 inschrijvingen worden niet
-            verroeid. Uitzondering zijn juniorenvelden, mastervelden en bedrijfsachten,
-            hiervoor zijn 2 inschrijvingen nodig. Wedstrijdnummers met
-            respectievelijk minder dan 3 of 2 inschrijvingen, zullen indien
-            mogelijk worden samengevoegd met andere velden van hogere categorie.
-            Ploegen in desbetreffende velden worden van dergelijke wijzigingen
-            via mail op de hoogte gebracht.
+            Wedstrijdnummers met minder dan 2 inschrijvingen worden niet verroeid.
+            Uitzondering zijn juniorenvelden, mastervelden en para-velden, hierbij kan de wedstrijdleiding anders besluiten.
+            Bij minder dan 3 inschrijvingen behoudt de wedstrijdleiding de optie tot annuleren van het veld. 
+            Wedstrijdnummers met respectievelijk minder dan 3 of 2 inschrijvingen, zullen indien mogelijk worden samengevoegd met andere velden van hogere categorie.
+            Ploegen in desbetreffende velden worden van dergelijke wijzigingen via mail op de hoogte gebracht.
           </li>
           <li>
             Toevoegen van extra nummers is mogelijk in overleg met de
             wedstrijdleiding. Voor het uitschrijven van een nieuw veld moeten er
             van minimaal twee verenigingen samen 3 inschrijvingen zijn.
           </li>
-        </ol> -->
+        </ol>
       </v-card-text>
     </v-card>
     
     
     <br>
 
-    <!-- <v-card flat light>
-      <v-card-title> Reglementen 51ste Van Oord WinterWedstrijden 2026 </v-card-title>
+    <v-card flat light>
+      <v-card-title> Reglementen 52ste WinterWedstrijden 2027 </v-card-title>
       <v-card-text>
         <ol>
           <li>
@@ -260,12 +253,14 @@
           <li><b>De wedstrijdbaan en -tijden</b></li>
           <ul>
             <li>
-              Er wordt geroeid op de Schie van Overschie naar Delft over een afstand van 5000 meter voor alle velden.
+              Er wordt geroeid op de Schie van Overschie naar Delft over een afstand van 5000 meter voor alle velden,
+              behalve de Pr1x, deze roeien 3000m vanaf de Kandelaarbrug richting Delft.
             </li>
             <li>
               Op zaterdag wordt er gestart in drie blokken:
               <ul>
                 <li>10:00, 13:00, 16:00 uur.</li>
+                <li>Het Pr1x veld start om 12:45 vanaf de Kandelaarbrug, maar roeiers worden beschouwd als deelnemers van het 13:00 blok wat vlotten en oproeien betreft.</li>
               </ul>
             </li>
             <li>
@@ -286,7 +281,7 @@
             <li>De winnaar is de ploeg met de snelste tijd. Behalve bij master- en bedrijfsroeivelden, bij deze velden wordt een correctie factor toegepast, deze is gepubliceerd op de website www.winterwedstrijden.nl. </li>
             <li>
               Bij tijdsverschillen kleiner dan 0,2 seconden, is er sprake van
-              een ex aequo.
+              een ex aequo, conform artikel 38 lid 9 van het RvR.
             </li>
           </ul>
           <br />
@@ -422,7 +417,7 @@
           </ul>
         </ol>
       </v-card-text>
-    </v-card> -->
+    </v-card>
   </div>
 </template>
 

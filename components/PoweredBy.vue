@@ -31,7 +31,7 @@
         </a>
       <v-img class="logos" src="/tu-delft.png" />
       <a style="width: 100%; display: inline-block;" href="//www.concept2.nl">
-        <v-img class="logos" src="/concept2.png" />
+        <v-img class="logos" src="/Concept2_logo_2color_BlackGreen.png" />
       </a>
       <a style="width: 100%; display: inline-block;" href="//www.roeigoed.nl">
         <v-img class="logos" src="/roeigoed.jpeg" />
