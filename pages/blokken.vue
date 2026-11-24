@@ -5,7 +5,7 @@
     </v-card-title>
     <v-card-text> Laatst aangepast: 19-11-2026</v-card-text>
     <v-card-text>
-      Zaterdag 14 februari 2026
+      Zaterdag 13 februari 2027
     </v-card-text>
     <v-simple-table>
       <thead>
@@ -46,7 +46,7 @@
       </tbody>
     </v-simple-table>
     <v-card-text>
-      Zondag 15 februari 2026
+      Zondag 14 februari 2027
     </v-card-text>
     <v-simple-table>
       <thead>
@@ -67,14 +67,18 @@
           <td>Blok 4</td>
           <td>10:00 - 12:00</td>
           <td>
-            MB 8+, VB 8+, ME 4+, MG 4+, MB 4+, LMB 4+, VE 2x, VG 2x, VB 2x, ME 2-, MG 2-, LMG 2-, LME 1x, LMSb 1x, LMG 1x, LMB 1x, LVB 4* 
+            MB 8+, VB 8+, ME 4+, MG 4+, MB 4+, LMB 4+, VE 2x, VG 2x, VB 2x, ME 2-, MG 2-, LMG 2-, LME 1x,
+            <br>
+            LMSb 1x, LMG 1x, LMB 1x, LVB 4* 
           </td>
         </tr>
         <tr>
           <td>Blok 5</td>
           <td>13:00 - 15:00</td>
           <td>
-            LMB 8+, ME2x, MG 2x, MB 2x, VE 4+, VG 4+, VB 4+, M18 2x, M16 2x, LVE1x, LVSb 1x, LVG 1x, LVB 1x, V18 1x, V16 1x
+            LMB 8+, ME2x, MG 2x, MB 2x, VE 4+, VG 4+, VB 4+, M18 2x, M16 2x, LVE1x, LVSb 1x, LVG 1x,
+            <br>
+            LVB 1x, V18 1x, V16 1x
           </td>
         </tr>
         <tr>
